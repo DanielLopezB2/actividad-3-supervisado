@@ -11,4 +11,5 @@ env/
 htmlcov/
 
 .DS_Store
-.atlmodels/
+.atl
+models/
