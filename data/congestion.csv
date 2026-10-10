@@ -1,0 +1,3001 @@
+station,line,hour,day_type,is_transfer,weather,near_event,congestion
+Calle 72,Caracas,19,sunday_holiday,0,dry,0,low
+Ricaurte,Americas,17,weekday,1,rain,0,high
+Centro Memoria,NQS,21,weekday,1,dry,0,low
+Normandía,Calle 26,22,saturday,0,rain,1,low
+Modelia,Calle 26,17,weekday,0,rain,1,high
+Portal Américas,Americas,11,saturday,0,dry,0,low
+Héroes,Caracas,15,weekday,0,dry,0,low
+Calle 75,NQS,12,weekday,0,dry,0,medium
+Calle 45,Caracas,16,weekday,0,dry,0,medium
+Calle 72,Caracas,19,saturday,0,dry,1,low
+Corferias,Calle 26,11,weekday,0,dry,0,medium
+Puente Aranda,Americas,14,sunday_holiday,0,dry,0,low
+Calle 75,NQS,5,saturday,0,rain,0,medium
+Ricaurte,Americas,18,saturday,1,dry,0,medium
+Calle 75,NQS,13,weekday,0,rain,0,medium
+Ricaurte,NQS,13,saturday,1,rain,0,high
+Av. Rojas,Calle 26,14,sunday_holiday,0,rain,0,medium
+Calle 72,Caracas,8,weekday,0,dry,0,high
+Portal Américas,Americas,15,weekday,0,dry,0,medium
+Normandía,Calle 26,18,weekday,0,dry,0,high
+Av. Rojas,Calle 26,11,weekday,0,dry,0,medium
+Portal Eldorado,Calle 26,7,saturday,0,dry,0,medium
+Calle 45,Caracas,11,weekday,0,rain,0,high
+Marsella,Americas,8,weekday,0,dry,0,high
+Ricaurte,Americas,11,weekday,1,dry,0,high
+Centro Memoria,Calle 26,16,weekday,1,dry,0,medium
+Modelia,Calle 26,7,weekday,0,rain,0,high
+Ricaurte,NQS,18,sunday_holiday,1,rain,0,low
+Corferias,Calle 26,9,saturday,0,dry,1,low
+Normandía,Calle 26,21,weekday,0,rain,1,low
+Normandía,Calle 26,18,saturday,0,dry,0,low
+Calle 34,Caracas,9,weekday,0,dry,0,medium
+Calle 72,Caracas,15,weekday,0,rain,0,medium
+Corferias,Calle 26,6,weekday,0,rain,0,high
+Banderas,Americas,6,sunday_holiday,0,dry,0,low
+Héroes,Caracas,22,saturday,0,dry,0,low
+Portal Américas,Americas,19,saturday,0,dry,0,low
+Portal Américas,Americas,7,weekday,0,dry,0,high
+Calle 26,Calle 26,10,weekday,1,rain,0,high
+Centro Memoria,Calle 26,8,saturday,1,dry,1,high
+Calle 63,Caracas,12,weekday,0,dry,0,medium
+Ricaurte,Americas,10,sunday_holiday,1,rain,0,medium
+Calle 75,NQS,10,saturday,0,dry,0,low
+Portal Eldorado,Calle 26,14,weekday,0,dry,0,medium
+Héroes,Caracas,8,saturday,0,dry,0,low
+Puente Aranda,Americas,20,sunday_holiday,0,dry,1,low
+Normandía,Calle 26,18,weekday,0,dry,0,medium
+Banderas,Americas,18,saturday,0,rain,0,medium
+Centro Memoria,NQS,8,sunday_holiday,1,dry,0,low
+Ricaurte,Americas,17,weekday,1,dry,0,high
+Ricaurte,Americas,20,sunday_holiday,1,dry,1,medium
+Calle 45,Caracas,8,weekday,0,dry,0,high
+Portal Eldorado,Calle 26,18,saturday,0,dry,0,medium
+Normandía,Calle 26,11,saturday,0,rain,0,low
+Av. Rojas,Calle 26,19,saturday,0,rain,0,medium
+Héroes,Caracas,13,weekday,0,rain,0,medium
+Corferias,Calle 26,19,saturday,0,rain,0,low
+Calle 63,Caracas,7,weekday,0,dry,0,high
+Ricaurte,Americas,12,weekday,1,dry,1,high
+Centro Memoria,NQS,9,weekday,1,dry,0,high
+Marsella,Americas,9,weekday,0,dry,0,medium
+Ricaurte,Americas,10,weekday,1,dry,0,high
+Portal Eldorado,Calle 26,11,weekday,0,rain,0,medium
+Puente Aranda,Americas,7,sunday_holiday,0,dry,0,low
+Modelia,Calle 26,17,weekday,0,dry,0,high
+Calle 26,Caracas,14,weekday,1,dry,0,medium
+Banderas,Americas,19,weekday,0,dry,0,high
+Portal Eldorado,Calle 26,17,weekday,0,rain,0,high
+Héroes,Caracas,7,saturday,0,dry,0,medium
+Normandía,Calle 26,6,weekday,0,rain,0,high
+Ricaurte,NQS,12,weekday,1,dry,0,medium
+Calle 45,Caracas,13,sunday_holiday,0,rain,0,low
+Normandía,Calle 26,9,sunday_holiday,0,rain,0,low
+Calle 72,Caracas,19,saturday,0,rain,0,medium
+Centro Memoria,NQS,15,sunday_holiday,1,dry,0,low
+Normandía,Calle 26,18,sunday_holiday,0,dry,0,low
+Calle 26,Caracas,6,weekday,1,dry,0,high
+Calle 34,Caracas,19,saturday,0,dry,0,medium
+Corferias,Calle 26,8,saturday,0,rain,1,medium
+Centro Memoria,NQS,13,weekday,1,dry,0,medium
+Marsella,Americas,12,weekday,0,rain,0,high
+Normandía,Calle 26,19,weekday,0,rain,0,high
+Calle 63,Caracas,9,saturday,0,dry,0,low
+Portal Américas,Americas,9,saturday,0,rain,0,low
+Centro Memoria,Calle 26,11,saturday,1,rain,1,high
+Calle 75,NQS,11,weekday,0,dry,1,high
+Calle 72,Caracas,8,weekday,0,dry,0,high
+Calle 26,Caracas,8,weekday,1,rain,0,high
+Ricaurte,Americas,9,weekday,1,dry,0,medium
+Portal Américas,Americas,13,sunday_holiday,0,dry,0,low
+Normandía,Calle 26,11,sunday_holiday,0,rain,0,low
+Ricaurte,NQS,12,sunday_holiday,1,rain,0,high
+Portal Américas,Americas,17,sunday_holiday,0,dry,0,low
+Portal Eldorado,Calle 26,9,sunday_holiday,0,dry,0,low
+Banderas,Americas,21,weekday,0,dry,0,low
+Calle 26,Calle 26,18,weekday,1,dry,0,high
+Calle 34,Caracas,8,weekday,0,rain,0,high
+Centro Memoria,NQS,10,weekday,1,dry,0,medium
+Centro Memoria,Calle 26,8,weekday,1,dry,0,high
+Calle 63,Caracas,9,weekday,0,rain,0,medium
+Portal Américas,Americas,11,sunday_holiday,0,dry,0,low
+Calle 45,Caracas,7,weekday,0,rain,0,high
+Ricaurte,NQS,5,sunday_holiday,1,dry,0,low
+Calle 100,Caracas,12,saturday,0,dry,0,low
+Ricaurte,NQS,17,saturday,1,dry,0,high
+Ricaurte,NQS,10,saturday,1,dry,0,medium
+Ricaurte,Americas,20,weekday,1,dry,0,low
+Centro Memoria,NQS,11,saturday,1,rain,0,high
+Normandía,Calle 26,21,weekday,0,dry,0,low
+Calle 75,NQS,9,sunday_holiday,0,dry,0,low
+Calle 26,Calle 26,14,weekday,1,rain,0,high
+Ricaurte,Americas,18,weekday,1,dry,0,high
+Corferias,Calle 26,6,saturday,0,dry,0,low
+Normandía,Calle 26,21,saturday,0,dry,0,low
+Av. Rojas,Calle 26,11,weekday,0,dry,0,medium
+Concejo de Bogotá,Calle 26,13,saturday,0,dry,0,low
+Calle 100,Caracas,16,weekday,0,dry,0,medium
+Calle 63,Caracas,16,saturday,0,rain,0,low
+Calle 34,Caracas,5,weekday,0,dry,0,low
+Calle 72,Caracas,20,weekday,0,rain,0,low
+Normandía,Calle 26,16,weekday,0,rain,0,medium
+Centro Memoria,NQS,22,weekday,1,dry,0,low
+Centro Memoria,NQS,13,weekday,1,dry,0,high
+Normandía,Calle 26,16,weekday,0,dry,0,low
+Portal Américas,Americas,12,weekday,0,rain,0,high
+Concejo de Bogotá,Calle 26,21,weekday,0,dry,0,low
+Héroes,Caracas,19,weekday,0,rain,0,high
+Ricaurte,Americas,21,weekday,1,rain,0,low
+Concejo de Bogotá,Calle 26,14,saturday,0,dry,0,low
+Centro Memoria,Calle 26,19,sunday_holiday,1,rain,0,medium
+Concejo de Bogotá,Calle 26,11,weekday,0,dry,1,medium
+Corferias,Calle 26,13,sunday_holiday,0,dry,0,low
+Calle 72,Caracas,18,weekday,0,dry,0,high
+Corferias,Calle 26,6,weekday,0,dry,0,medium
+Ricaurte,NQS,17,saturday,1,dry,1,high
+Calle 26,Calle 26,5,saturday,1,rain,0,medium
+Concejo de Bogotá,Calle 26,15,sunday_holiday,0,dry,0,low
+Calle 100,Caracas,13,weekday,0,rain,0,high
+Calle 26,Caracas,13,saturday,1,rain,0,high
+Normandía,Calle 26,13,weekday,0,dry,0,medium
+Puente Aranda,Americas,13,weekday,0,rain,0,medium
+Calle 45,Caracas,12,weekday,0,rain,0,medium
+Calle 26,Calle 26,13,sunday_holiday,1,rain,0,medium
+Modelia,Calle 26,15,weekday,0,dry,0,medium
+Puente Aranda,Americas,18,sunday_holiday,0,dry,1,low
+Portal Américas,Americas,14,saturday,0,dry,0,medium
+Calle 100,Caracas,16,saturday,0,dry,0,low
+Calle 34,Caracas,20,saturday,0,dry,0,medium
+Ricaurte,NQS,22,sunday_holiday,1,dry,0,low
+Héroes,Caracas,6,weekday,0,dry,0,high
+Portal Américas,Americas,17,weekday,0,dry,0,high
+Calle 26,Calle 26,9,weekday,1,dry,0,high
+Marsella,Americas,8,weekday,0,dry,0,high
+Calle 26,Calle 26,19,weekday,1,dry,0,high
+Modelia,Calle 26,6,weekday,0,dry,0,high
+Centro Memoria,NQS,20,weekday,1,rain,0,high
+Calle 72,Caracas,18,weekday,0,dry,0,high
+Corferias,Calle 26,22,weekday,0,rain,0,low
+Av. Rojas,Calle 26,17,sunday_holiday,0,rain,0,low
+Ricaurte,NQS,20,weekday,1,dry,0,medium
+Puente Aranda,Americas,7,sunday_holiday,0,dry,0,low
+Centro Memoria,NQS,21,sunday_holiday,1,dry,0,low
+Modelia,Calle 26,7,weekday,0,dry,0,medium
+Modelia,Calle 26,10,saturday,0,dry,0,medium
+Modelia,Calle 26,7,saturday,0,dry,0,medium
+Ricaurte,NQS,12,saturday,1,dry,0,high
+Calle 26,Caracas,18,weekday,1,dry,0,high
+Calle 63,Caracas,9,weekday,0,dry,0,medium
+Calle 26,Caracas,19,weekday,1,dry,0,high
+Calle 100,Caracas,15,saturday,0,dry,0,low
+Calle 72,Caracas,16,sunday_holiday,0,dry,0,low
+Calle 72,Caracas,21,saturday,0,dry,0,low
+Ricaurte,Americas,12,saturday,1,dry,1,medium
+Calle 75,NQS,11,sunday_holiday,0,dry,0,low
+Calle 75,NQS,22,saturday,0,dry,0,low
+Normandía,Calle 26,15,weekday,0,dry,0,low
+Calle 75,NQS,16,sunday_holiday,0,dry,0,low
+Calle 63,Caracas,10,weekday,0,dry,0,medium
+Banderas,Americas,8,weekday,0,dry,0,high
+Av. Rojas,Calle 26,8,weekday,0,dry,1,high
+Marsella,Americas,9,sunday_holiday,0,rain,0,low
+Calle 63,Caracas,8,weekday,0,dry,1,high
+Av. Rojas,Calle 26,18,weekday,0,dry,0,high
+Calle 75,NQS,6,weekday,0,dry,0,high
+Av. Rojas,Calle 26,16,weekday,0,rain,0,medium
+Normandía,Calle 26,22,weekday,0,dry,0,low
+Calle 63,Caracas,18,saturday,0,dry,0,low
+Portal Eldorado,Calle 26,12,sunday_holiday,0,dry,0,low
+Calle 34,Caracas,6,weekday,0,dry,0,medium
+Calle 26,Calle 26,20,weekday,1,dry,0,medium
+Centro Memoria,NQS,5,weekday,1,dry,0,medium
+Centro Memoria,Calle 26,17,weekday,1,rain,0,high
+Concejo de Bogotá,Calle 26,17,weekday,0,rain,0,high
+Portal Eldorado,Calle 26,8,saturday,0,dry,0,low
+Puente Aranda,Americas,18,saturday,0,rain,0,medium
+Calle 72,Caracas,8,weekday,0,dry,0,high
+Calle 26,Caracas,9,weekday,1,dry,0,high
+Calle 72,Caracas,19,weekday,0,rain,0,high
+Calle 26,Caracas,22,weekday,1,dry,0,low
+Puente Aranda,Americas,9,sunday_holiday,0,dry,0,low
+Portal Eldorado,Calle 26,21,saturday,0,dry,0,low
+Banderas,Americas,21,sunday_holiday,0,dry,0,low
+Av. Rojas,Calle 26,18,sunday_holiday,0,dry,0,low
+Calle 75,NQS,7,saturday,0,rain,0,medium
+Normandía,Calle 26,10,sunday_holiday,0,rain,1,medium
+Calle 26,Calle 26,17,weekday,1,dry,0,high
+Ricaurte,Americas,22,weekday,1,dry,0,medium
+Puente Aranda,Americas,19,weekday,0,dry,0,high
+Calle 26,Calle 26,12,weekday,1,rain,0,high
+Ricaurte,Americas,9,weekday,1,dry,0,medium
+Calle 26,Calle 26,22,weekday,1,rain,0,low
+Calle 75,NQS,9,saturday,0,dry,0,medium
+Ricaurte,NQS,11,saturday,1,dry,0,medium
+Normandía,Calle 26,22,weekday,0,dry,0,low
+Calle 75,NQS,15,weekday,0,rain,1,high
+Calle 26,Calle 26,9,saturday,1,rain,0,medium
+Héroes,Caracas,5,weekday,0,dry,0,low
+Calle 72,Caracas,12,weekday,0,dry,0,medium
+Normandía,Calle 26,22,weekday,0,rain,0,low
+Banderas,Americas,12,weekday,0,dry,0,medium
+Calle 72,Caracas,17,weekday,0,dry,0,high
+Normandía,Calle 26,9,sunday_holiday,0,rain,0,low
+Calle 75,NQS,18,saturday,0,dry,0,low
+Calle 45,Caracas,18,saturday,0,rain,0,high
+Calle 75,NQS,15,weekday,0,dry,1,medium
+Calle 26,Caracas,18,sunday_holiday,1,rain,0,medium
+Ricaurte,NQS,15,saturday,1,dry,0,medium
+Concejo de Bogotá,Calle 26,11,weekday,0,dry,0,medium
+Corferias,Calle 26,18,saturday,0,dry,0,low
+Calle 45,Caracas,20,weekday,0,dry,0,low
+Normandía,Calle 26,20,weekday,0,dry,1,medium
+Portal Américas,Americas,8,weekday,0,dry,0,medium
+Calle 100,Caracas,17,weekday,0,dry,0,high
+Ricaurte,Americas,5,weekday,1,rain,0,high
+Av. Rojas,Calle 26,15,weekday,0,dry,0,medium
+Calle 75,NQS,15,weekday,0,rain,0,high
+Centro Memoria,NQS,11,sunday_holiday,1,dry,0,low
+Modelia,Calle 26,22,weekday,0,dry,0,low
+Calle 26,Caracas,20,weekday,1,dry,0,medium
+Centro Memoria,Calle 26,5,weekday,1,dry,0,high
+Calle 63,Caracas,8,sunday_holiday,0,dry,0,low
+Concejo de Bogotá,Calle 26,8,weekday,0,rain,0,high
+Calle 72,Caracas,21,sunday_holiday,0,rain,1,low
+Centro Memoria,Calle 26,14,weekday,1,dry,0,high
+Centro Memoria,Calle 26,18,weekday,1,rain,0,high
+Héroes,Caracas,19,weekday,0,rain,0,high
+Ricaurte,Americas,18,weekday,1,dry,0,high
+Modelia,Calle 26,6,sunday_holiday,0,dry,0,low
+Ricaurte,NQS,7,sunday_holiday,1,dry,0,low
+Calle 100,Caracas,12,weekday,0,dry,0,medium
+Calle 45,Caracas,11,sunday_holiday,0,dry,0,low
+Av. Rojas,Calle 26,18,weekday,0,rain,0,high
+Calle 45,Caracas,7,weekday,0,dry,0,high
+Calle 26,Caracas,11,weekday,1,dry,0,high
+Centro Memoria,NQS,9,weekday,1,dry,0,high
+Calle 63,Caracas,8,sunday_holiday,0,dry,0,low
+Centro Memoria,NQS,8,weekday,1,dry,0,high
+Calle 72,Caracas,8,weekday,0,rain,0,high
+Calle 45,Caracas,15,weekday,0,dry,0,medium
+Concejo de Bogotá,Calle 26,12,weekday,0,rain,0,medium
+Ricaurte,NQS,12,weekday,1,dry,0,medium
+Calle 63,Caracas,13,saturday,0,rain,0,medium
+Calle 26,Calle 26,18,weekday,1,rain,0,high
+Marsella,Americas,20,weekday,0,dry,0,low
+Puente Aranda,Americas,14,weekday,0,dry,0,medium
+Concejo de Bogotá,Calle 26,16,weekday,0,dry,0,medium
+Normandía,Calle 26,18,weekday,0,rain,0,high
+Calle 26,Caracas,17,saturday,1,dry,0,medium
+Centro Memoria,Calle 26,7,sunday_holiday,1,rain,0,low
+Concejo de Bogotá,Calle 26,22,weekday,0,rain,0,low
+Calle 26,Calle 26,7,sunday_holiday,1,dry,1,medium
+Calle 100,Caracas,12,weekday,0,rain,0,medium
+Calle 63,Caracas,16,saturday,0,dry,0,low
+Puente Aranda,Americas,12,saturday,0,rain,0,medium
+Modelia,Calle 26,9,saturday,0,rain,0,medium
+Av. Rojas,Calle 26,21,sunday_holiday,0,dry,1,low
+Normandía,Calle 26,6,weekday,0,rain,0,high
+Ricaurte,NQS,9,weekday,1,dry,1,high
+Héroes,Caracas,22,weekday,0,dry,0,low
+Héroes,Caracas,18,weekday,0,rain,0,high
+Calle 26,Calle 26,6,saturday,1,dry,0,low
+Av. Rojas,Calle 26,18,weekday,0,dry,0,high
+Centro Memoria,NQS,22,weekday,1,dry,0,low
+Av. Rojas,Calle 26,6,weekday,0,rain,0,high
+Normandía,Calle 26,12,weekday,0,dry,0,low
+Marsella,Americas,13,saturday,0,dry,0,low
+Calle 63,Caracas,7,saturday,0,dry,0,low
+Concejo de Bogotá,Calle 26,8,weekday,0,dry,0,medium
+Corferias,Calle 26,8,weekday,0,dry,0,high
+Normandía,Calle 26,8,weekday,0,dry,1,high
+Ricaurte,NQS,12,weekday,1,dry,0,high
+Calle 26,Calle 26,13,saturday,1,dry,0,medium
+Marsella,Americas,9,weekday,0,dry,0,medium
+Calle 26,Caracas,10,weekday,1,dry,1,high
+Corferias,Calle 26,8,weekday,0,rain,0,medium
+Av. Rojas,Calle 26,19,sunday_holiday,0,dry,0,low
+Portal Américas,Americas,8,saturday,0,dry,0,low
+Normandía,Calle 26,21,weekday,0,dry,0,low
+Calle 26,Calle 26,14,weekday,1,dry,0,medium
+Calle 100,Caracas,19,weekday,0,dry,1,high
+Portal Eldorado,Calle 26,16,sunday_holiday,0,rain,0,low
+Portal Américas,Americas,9,weekday,0,dry,0,medium
+Calle 100,Caracas,15,weekday,0,dry,0,medium
+Banderas,Americas,9,sunday_holiday,0,rain,0,low
+Corferias,Calle 26,7,saturday,0,dry,1,medium
+Calle 63,Caracas,9,weekday,0,rain,0,high
+Calle 26,Calle 26,9,weekday,1,dry,0,high
+Corferias,Calle 26,7,weekday,0,dry,0,high
+Calle 26,Caracas,5,weekday,1,dry,0,high
+Calle 72,Caracas,21,weekday,0,dry,0,low
+Centro Memoria,NQS,14,sunday_holiday,1,rain,0,low
+Centro Memoria,NQS,12,sunday_holiday,1,dry,0,low
+Calle 72,Caracas,21,weekday,0,dry,0,low
+Calle 26,Calle 26,9,saturday,1,rain,0,high
+Calle 34,Caracas,12,weekday,0,dry,0,medium
+Centro Memoria,NQS,20,weekday,1,dry,0,low
+Calle 75,NQS,16,saturday,0,dry,0,medium
+Calle 75,NQS,12,weekday,0,dry,0,medium
+Marsella,Americas,9,weekday,0,dry,0,medium
+Ricaurte,Americas,5,weekday,1,dry,1,medium
+Calle 26,Caracas,6,weekday,1,rain,0,high
+Calle 72,Caracas,7,weekday,0,dry,0,high
+Centro Memoria,Calle 26,19,saturday,1,dry,0,medium
+Marsella,Americas,16,sunday_holiday,0,rain,0,low
+Puente Aranda,Americas,12,saturday,0,dry,0,low
+Calle 34,Caracas,19,sunday_holiday,0,rain,0,low
+Calle 34,Caracas,7,weekday,0,dry,0,high
+Calle 100,Caracas,8,sunday_holiday,0,dry,1,low
+Calle 63,Caracas,12,weekday,0,dry,1,high
+Corferias,Calle 26,21,weekday,0,rain,0,low
+Corferias,Calle 26,16,sunday_holiday,0,dry,0,low
+Portal Eldorado,Calle 26,20,weekday,0,dry,1,low
+Calle 26,Caracas,9,weekday,1,dry,0,high
+Portal Américas,Americas,20,weekday,0,dry,0,medium
+Normandía,Calle 26,6,weekday,0,dry,0,high
+Ricaurte,NQS,9,weekday,1,dry,0,low
+Puente Aranda,Americas,14,weekday,0,dry,0,medium
+Calle 26,Caracas,5,sunday_holiday,1,dry,0,low
+Calle 45,Caracas,20,weekday,0,rain,0,medium
+Marsella,Americas,20,weekday,0,dry,0,low
+Centro Memoria,Calle 26,14,weekday,1,dry,1,high
+Calle 26,Calle 26,10,sunday_holiday,1,dry,1,medium
+Centro Memoria,Calle 26,6,weekday,1,dry,0,high
+Av. Rojas,Calle 26,16,weekday,0,dry,0,medium
+Banderas,Americas,14,weekday,0,dry,0,medium
+Calle 34,Caracas,18,saturday,0,dry,0,low
+Puente Aranda,Americas,15,saturday,0,dry,0,medium
+Marsella,Americas,7,weekday,0,dry,0,medium
+Calle 45,Caracas,7,saturday,0,dry,0,low
+Calle 63,Caracas,19,weekday,0,dry,1,high
+Corferias,Calle 26,7,weekday,0,dry,0,high
+Héroes,Caracas,21,weekday,0,dry,0,low
+Calle 26,Calle 26,6,weekday,1,dry,0,high
+Normandía,Calle 26,18,weekday,0,dry,0,high
+Puente Aranda,Americas,22,weekday,0,dry,0,low
+Puente Aranda,Americas,12,weekday,0,dry,0,medium
+Calle 63,Caracas,6,weekday,0,dry,0,high
+Banderas,Americas,20,weekday,0,dry,0,medium
+Calle 72,Caracas,8,saturday,0,dry,0,low
+Ricaurte,Americas,14,saturday,1,dry,1,medium
+Portal Américas,Americas,22,weekday,0,dry,0,low
+Banderas,Americas,18,weekday,0,dry,0,high
+Calle 34,Caracas,5,weekday,0,dry,0,low
+Banderas,Americas,19,weekday,0,rain,0,high
+Calle 72,Caracas,7,weekday,0,dry,0,medium
+Av. Rojas,Calle 26,18,weekday,0,dry,0,high
+Normandía,Calle 26,16,saturday,0,dry,0,low
+Calle 26,Caracas,10,saturday,1,rain,0,high
+Calle 100,Caracas,12,weekday,0,dry,0,medium
+Ricaurte,Americas,7,weekday,1,dry,0,high
+Calle 26,Caracas,22,sunday_holiday,1,dry,0,low
+Centro Memoria,NQS,9,weekday,1,rain,1,high
+Modelia,Calle 26,10,sunday_holiday,0,dry,0,low
+Portal Eldorado,Calle 26,14,weekday,0,dry,0,medium
+Banderas,Americas,17,weekday,0,dry,0,high
+Calle 72,Caracas,14,weekday,0,rain,0,medium
+Calle 75,NQS,14,weekday,0,dry,0,medium
+Ricaurte,Americas,15,sunday_holiday,1,dry,0,low
+Portal Eldorado,Calle 26,20,weekday,0,dry,0,low
+Calle 26,Calle 26,12,sunday_holiday,1,dry,0,low
+Calle 100,Caracas,19,weekday,0,dry,0,high
+Marsella,Americas,19,sunday_holiday,0,dry,0,low
+Marsella,Americas,22,sunday_holiday,0,dry,0,low
+Calle 34,Caracas,21,weekday,0,dry,0,low
+Calle 100,Caracas,19,weekday,0,rain,0,high
+Calle 72,Caracas,9,saturday,0,dry,0,low
+Héroes,Caracas,18,weekday,0,dry,0,high
+Portal Américas,Americas,18,sunday_holiday,0,rain,0,low
+Banderas,Americas,10,weekday,0,dry,0,medium
+Calle 63,Caracas,17,weekday,0,rain,1,high
+Ricaurte,Americas,9,weekday,1,rain,0,high
+Calle 45,Caracas,14,saturday,0,dry,0,medium
+Portal Eldorado,Calle 26,19,sunday_holiday,0,dry,0,low
+Concejo de Bogotá,Calle 26,8,weekday,0,rain,0,high
+Calle 75,NQS,11,saturday,0,dry,0,low
+Banderas,Americas,19,sunday_holiday,0,dry,0,low
+Héroes,Caracas,13,weekday,0,dry,0,low
+Calle 45,Caracas,22,weekday,0,rain,0,low
+Calle 26,Calle 26,5,saturday,1,dry,0,medium
+Calle 26,Caracas,17,saturday,1,dry,0,medium
+Puente Aranda,Americas,19,weekday,0,rain,0,high
+Ricaurte,Americas,21,sunday_holiday,1,rain,0,low
+Calle 26,Caracas,7,weekday,1,rain,0,high
+Puente Aranda,Americas,22,sunday_holiday,0,dry,0,low
+Av. Rojas,Calle 26,12,sunday_holiday,0,rain,0,low
+Av. Rojas,Calle 26,11,sunday_holiday,0,dry,0,low
+Modelia,Calle 26,11,weekday,0,dry,0,medium
+Calle 63,Caracas,16,weekday,0,rain,0,high
+Marsella,Americas,16,weekday,0,dry,0,medium
+Calle 100,Caracas,13,weekday,0,rain,0,medium
+Calle 45,Caracas,6,saturday,0,rain,0,medium
+Calle 34,Caracas,22,weekday,0,dry,0,low
+Calle 26,Calle 26,8,weekday,1,dry,0,high
+Calle 63,Caracas,6,weekday,0,dry,0,high
+Calle 100,Caracas,15,weekday,0,dry,0,medium
+Centro Memoria,NQS,12,weekday,1,rain,0,high
+Puente Aranda,Americas,16,saturday,0,dry,0,low
+Calle 72,Caracas,20,saturday,0,rain,0,medium
+Calle 26,Calle 26,6,weekday,1,dry,0,high
+Av. Rojas,Calle 26,10,sunday_holiday,0,dry,0,low
+Marsella,Americas,14,sunday_holiday,0,dry,1,low
+Centro Memoria,NQS,19,weekday,1,dry,1,high
+Ricaurte,Americas,15,saturday,1,dry,0,medium
+Concejo de Bogotá,Calle 26,11,weekday,0,dry,0,low
+Modelia,Calle 26,15,weekday,0,rain,0,high
+Calle 45,Caracas,22,weekday,0,rain,0,low
+Portal Américas,Americas,13,weekday,0,rain,0,high
+Ricaurte,NQS,20,sunday_holiday,1,dry,0,low
+Calle 100,Caracas,19,sunday_holiday,0,dry,0,low
+Calle 75,NQS,10,sunday_holiday,0,rain,0,low
+Héroes,Caracas,9,weekday,0,dry,0,medium
+Calle 75,NQS,18,weekday,0,dry,0,high
+Ricaurte,NQS,8,sunday_holiday,1,rain,0,low
+Calle 63,Caracas,11,weekday,0,dry,0,medium
+Modelia,Calle 26,9,weekday,0,dry,0,medium
+Calle 72,Caracas,15,weekday,0,dry,0,low
+Concejo de Bogotá,Calle 26,10,weekday,0,dry,0,medium
+Marsella,Americas,16,weekday,0,dry,0,medium
+Héroes,Caracas,21,weekday,0,dry,0,low
+Modelia,Calle 26,19,weekday,0,dry,0,medium
+Puente Aranda,Americas,22,weekday,0,dry,0,low
+Calle 26,Calle 26,5,weekday,1,dry,0,low
+Calle 63,Caracas,13,weekday,0,dry,0,medium
+Av. Rojas,Calle 26,8,weekday,0,dry,0,high
+Av. Rojas,Calle 26,21,sunday_holiday,0,rain,0,low
+Centro Memoria,NQS,17,weekday,1,rain,0,high
+Calle 26,Caracas,10,saturday,1,dry,0,medium
+Marsella,Americas,15,saturday,0,dry,0,low
+Av. Rojas,Calle 26,15,weekday,0,dry,0,medium
+Calle 26,Calle 26,13,sunday_holiday,1,dry,0,low
+Puente Aranda,Americas,13,saturday,0,dry,0,low
+Marsella,Americas,5,weekday,0,dry,0,low
+Av. Rojas,Calle 26,13,weekday,0,dry,0,low
+Calle 100,Caracas,11,weekday,0,dry,0,medium
+Concejo de Bogotá,Calle 26,19,sunday_holiday,0,dry,0,low
+Corferias,Calle 26,20,saturday,0,dry,0,low
+Calle 63,Caracas,18,sunday_holiday,0,dry,0,low
+Centro Memoria,Calle 26,5,sunday_holiday,1,dry,0,low
+Portal Américas,Americas,20,weekday,0,dry,0,low
+Calle 72,Caracas,12,saturday,0,dry,0,medium
+Calle 75,NQS,12,weekday,0,rain,0,high
+Calle 63,Caracas,22,saturday,0,dry,1,low
+Ricaurte,Americas,20,weekday,1,dry,0,low
+Modelia,Calle 26,5,weekday,0,dry,0,low
+Calle 100,Caracas,11,saturday,0,dry,0,low
+Puente Aranda,Americas,18,saturday,0,dry,0,medium
+Calle 63,Caracas,14,saturday,0,rain,0,medium
+Concejo de Bogotá,Calle 26,9,weekday,0,dry,0,medium
+Calle 45,Caracas,14,weekday,0,dry,0,low
+Marsella,Americas,20,sunday_holiday,0,dry,0,low
+Calle 75,NQS,9,weekday,0,dry,0,low
+Ricaurte,NQS,18,weekday,1,dry,1,high
+Modelia,Calle 26,18,weekday,0,dry,1,high
+Normandía,Calle 26,20,weekday,0,dry,1,low
+Centro Memoria,Calle 26,10,weekday,1,rain,0,high
+Ricaurte,NQS,8,weekday,1,rain,0,high
+Portal Américas,Americas,14,sunday_holiday,0,dry,0,low
+Calle 100,Caracas,14,sunday_holiday,0,dry,0,low
+Centro Memoria,NQS,12,sunday_holiday,1,rain,0,low
+Calle 72,Caracas,19,weekday,0,dry,0,high
+Calle 26,Calle 26,19,weekday,1,dry,0,high
+Portal Américas,Americas,9,saturday,0,dry,0,low
+Calle 34,Caracas,19,sunday_holiday,0,dry,0,low
+Ricaurte,NQS,9,weekday,1,dry,0,high
+Normandía,Calle 26,12,saturday,0,dry,0,low
+Calle 34,Caracas,5,saturday,0,dry,0,low
+Calle 26,Caracas,11,saturday,1,dry,0,high
+Corferias,Calle 26,22,saturday,0,dry,0,low
+Ricaurte,Americas,12,weekday,1,rain,0,high
+Concejo de Bogotá,Calle 26,17,weekday,0,dry,0,medium
+Marsella,Americas,6,weekday,0,dry,0,medium
+Portal Américas,Americas,16,weekday,0,dry,0,low
+Ricaurte,Americas,11,sunday_holiday,1,dry,0,low
+Concejo de Bogotá,Calle 26,18,saturday,0,rain,0,low
+Calle 26,Calle 26,21,weekday,1,dry,1,medium
+Modelia,Calle 26,14,sunday_holiday,0,rain,0,low
+Calle 72,Caracas,6,saturday,0,dry,1,medium
+Portal Eldorado,Calle 26,13,saturday,0,dry,0,low
+Marsella,Americas,7,weekday,0,dry,0,high
+Modelia,Calle 26,13,sunday_holiday,0,dry,0,low
+Calle 72,Caracas,6,weekday,0,dry,0,medium
+Centro Memoria,Calle 26,16,weekday,1,dry,0,high
+Puente Aranda,Americas,10,weekday,0,dry,0,medium
+Portal Américas,Americas,8,saturday,0,dry,0,low
+Calle 26,Calle 26,5,saturday,1,dry,0,medium
+Normandía,Calle 26,20,weekday,0,rain,0,medium
+Corferias,Calle 26,20,weekday,0,dry,0,low
+Calle 34,Caracas,19,sunday_holiday,0,rain,0,low
+Calle 26,Calle 26,6,saturday,1,dry,0,medium
+Calle 34,Caracas,11,weekday,0,dry,1,medium
+Puente Aranda,Americas,22,sunday_holiday,0,dry,0,low
+Ricaurte,Americas,15,saturday,1,rain,0,medium
+Portal Américas,Americas,7,sunday_holiday,0,rain,0,low
+Ricaurte,NQS,7,sunday_holiday,1,dry,0,medium
+Puente Aranda,Americas,9,sunday_holiday,0,rain,0,low
+Calle 72,Caracas,22,saturday,0,dry,0,low
+Banderas,Americas,8,saturday,0,dry,0,low
+Héroes,Caracas,21,weekday,0,dry,0,low
+Normandía,Calle 26,17,weekday,0,rain,0,high
+Concejo de Bogotá,Calle 26,21,saturday,0,dry,0,low
+Portal Eldorado,Calle 26,19,weekday,0,dry,0,high
+Calle 63,Caracas,10,sunday_holiday,0,dry,0,low
+Calle 45,Caracas,19,weekday,0,rain,1,high
+Ricaurte,NQS,8,weekday,1,rain,0,high
+Calle 26,Caracas,10,weekday,1,dry,1,high
+Calle 26,Caracas,8,weekday,1,dry,0,high
+Marsella,Americas,7,weekday,0,dry,0,high
+Calle 63,Caracas,6,weekday,0,rain,1,high
+Marsella,Americas,8,sunday_holiday,0,dry,0,low
+Marsella,Americas,7,weekday,0,rain,0,high
+Concejo de Bogotá,Calle 26,11,weekday,0,dry,0,low
+Calle 63,Caracas,6,weekday,0,dry,0,high
+Calle 63,Caracas,6,weekday,0,dry,0,medium
+Calle 26,Calle 26,22,weekday,1,rain,0,medium
+Concejo de Bogotá,Calle 26,6,saturday,0,dry,0,low
+Calle 63,Caracas,6,saturday,0,rain,0,low
+Normandía,Calle 26,5,weekday,0,rain,0,medium
+Calle 72,Caracas,7,weekday,0,dry,0,high
+Corferias,Calle 26,14,weekday,0,dry,0,medium
+Calle 100,Caracas,19,weekday,0,dry,1,high
+Calle 75,NQS,18,sunday_holiday,0,dry,0,low
+Héroes,Caracas,15,weekday,0,rain,0,high
+Calle 45,Caracas,6,sunday_holiday,0,dry,0,low
+Calle 45,Caracas,18,weekday,0,dry,0,high
+Portal Américas,Americas,5,weekday,0,dry,0,low
+Héroes,Caracas,16,weekday,0,dry,0,low
+Modelia,Calle 26,12,weekday,0,rain,0,medium
+Concejo de Bogotá,Calle 26,20,sunday_holiday,0,dry,0,low
+Av. Rojas,Calle 26,10,weekday,0,dry,0,low
+Centro Memoria,NQS,16,sunday_holiday,1,dry,0,medium
+Ricaurte,NQS,12,sunday_holiday,1,dry,0,low
+Modelia,Calle 26,14,weekday,0,rain,0,medium
+Portal Américas,Americas,21,weekday,0,dry,0,low
+Calle 26,Caracas,17,weekday,1,rain,0,high
+Puente Aranda,Americas,12,weekday,0,rain,0,high
+Av. Rojas,Calle 26,13,saturday,0,dry,1,medium
+Calle 75,NQS,17,weekday,0,dry,0,high
+Banderas,Americas,11,sunday_holiday,0,rain,0,low
+Ricaurte,NQS,8,saturday,1,dry,0,medium
+Portal Américas,Americas,13,weekday,0,rain,0,high
+Corferias,Calle 26,6,saturday,0,dry,0,medium
+Calle 100,Caracas,8,weekday,0,dry,0,high
+Av. Rojas,Calle 26,12,sunday_holiday,0,rain,1,medium
+Calle 45,Caracas,19,weekday,0,dry,0,high
+Banderas,Americas,19,sunday_holiday,0,dry,0,low
+Calle 34,Caracas,9,sunday_holiday,0,dry,0,low
+Calle 34,Caracas,12,sunday_holiday,0,dry,0,low
+Calle 34,Caracas,7,weekday,0,dry,0,high
+Centro Memoria,Calle 26,18,sunday_holiday,1,dry,1,low
+Concejo de Bogotá,Calle 26,9,weekday,0,dry,0,medium
+Marsella,Americas,19,saturday,0,dry,0,medium
+Modelia,Calle 26,20,weekday,0,dry,0,low
+Calle 26,Calle 26,17,weekday,1,dry,0,high
+Héroes,Caracas,10,weekday,0,dry,0,medium
+Calle 100,Caracas,22,weekday,0,dry,1,low
+Portal Eldorado,Calle 26,17,weekday,0,dry,0,high
+Marsella,Americas,16,sunday_holiday,0,dry,0,low
+Corferias,Calle 26,20,weekday,0,dry,0,low
+Banderas,Americas,20,saturday,0,dry,0,medium
+Calle 72,Caracas,6,weekday,0,dry,1,high
+Calle 72,Caracas,20,saturday,0,dry,0,low
+Portal Américas,Americas,18,saturday,0,dry,1,medium
+Calle 72,Caracas,8,weekday,0,dry,0,high
+Héroes,Caracas,10,saturday,0,rain,0,medium
+Modelia,Calle 26,18,sunday_holiday,0,dry,0,low
+Marsella,Americas,8,sunday_holiday,0,dry,0,low
+Centro Memoria,NQS,13,weekday,1,rain,0,high
+Calle 72,Caracas,17,weekday,0,dry,0,medium
+Portal Américas,Americas,16,saturday,0,dry,0,low
+Portal Américas,Americas,21,weekday,0,dry,0,low
+Ricaurte,NQS,7,sunday_holiday,1,dry,0,low
+Banderas,Americas,10,weekday,0,dry,1,high
+Calle 34,Caracas,22,sunday_holiday,0,dry,0,low
+Puente Aranda,Americas,15,weekday,0,dry,0,medium
+Calle 26,Caracas,9,weekday,1,dry,0,medium
+Ricaurte,NQS,10,sunday_holiday,1,dry,0,low
+Concejo de Bogotá,Calle 26,11,sunday_holiday,0,rain,0,low
+Ricaurte,Americas,14,sunday_holiday,1,dry,0,low
+Centro Memoria,Calle 26,10,sunday_holiday,1,rain,0,medium
+Centro Memoria,Calle 26,16,weekday,1,dry,0,medium
+Centro Memoria,Calle 26,13,weekday,1,rain,0,high
+Ricaurte,Americas,15,weekday,1,rain,0,high
+Calle 75,NQS,7,weekday,0,dry,0,high
+Calle 63,Caracas,16,weekday,0,rain,0,medium
+Ricaurte,NQS,21,sunday_holiday,1,dry,0,low
+Corferias,Calle 26,7,weekday,0,rain,0,high
+Calle 26,Caracas,10,weekday,1,dry,0,medium
+Av. Rojas,Calle 26,17,weekday,0,rain,0,high
+Puente Aranda,Americas,16,weekday,0,rain,0,high
+Portal Américas,Americas,17,weekday,0,rain,0,high
+Portal Américas,Americas,15,saturday,0,dry,0,medium
+Normandía,Calle 26,17,weekday,0,dry,0,high
+Ricaurte,NQS,15,saturday,1,dry,0,medium
+Portal Eldorado,Calle 26,6,sunday_holiday,0,rain,0,low
+Centro Memoria,NQS,18,saturday,1,dry,1,high
+Centro Memoria,Calle 26,13,saturday,1,rain,0,high
+Calle 34,Caracas,5,weekday,0,dry,1,low
+Calle 26,Calle 26,12,weekday,1,dry,1,high
+Héroes,Caracas,12,weekday,0,rain,0,medium
+Calle 63,Caracas,6,sunday_holiday,0,dry,0,low
+Modelia,Calle 26,22,saturday,0,dry,0,low
+Normandía,Calle 26,9,weekday,0,dry,0,low
+Calle 63,Caracas,10,weekday,0,rain,0,medium
+Modelia,Calle 26,12,sunday_holiday,0,dry,0,low
+Concejo de Bogotá,Calle 26,19,saturday,0,rain,0,low
+Calle 34,Caracas,18,weekday,0,dry,0,medium
+Calle 26,Caracas,18,sunday_holiday,1,dry,0,low
+Portal Eldorado,Calle 26,9,saturday,0,dry,0,low
+Av. Rojas,Calle 26,20,saturday,0,rain,0,medium
+Portal Eldorado,Calle 26,19,weekday,0,dry,0,high
+Calle 75,NQS,13,weekday,0,dry,0,low
+Calle 26,Caracas,14,sunday_holiday,1,rain,0,low
+Modelia,Calle 26,5,weekday,0,dry,0,low
+Portal Eldorado,Calle 26,18,weekday,0,dry,0,medium
+Calle 45,Caracas,22,weekday,0,dry,0,low
+Centro Memoria,NQS,13,weekday,1,dry,1,high
+Calle 34,Caracas,14,sunday_holiday,0,rain,0,low
+Calle 26,Calle 26,13,weekday,1,dry,0,high
+Ricaurte,NQS,6,sunday_holiday,1,dry,0,low
+Marsella,Americas,16,weekday,0,dry,0,medium
+Centro Memoria,NQS,17,weekday,1,rain,0,high
+Marsella,Americas,21,weekday,0,dry,0,low
+Portal Américas,Americas,21,sunday_holiday,0,rain,0,low
+Av. Rojas,Calle 26,13,weekday,0,dry,0,low
+Ricaurte,Americas,22,weekday,1,dry,0,low
+Calle 26,Caracas,14,saturday,1,rain,0,high
+Normandía,Calle 26,16,weekday,0,rain,0,high
+Corferias,Calle 26,15,weekday,0,rain,0,medium
+Puente Aranda,Americas,22,weekday,0,dry,0,low
+Portal Américas,Americas,18,sunday_holiday,0,dry,0,low
+Av. Rojas,Calle 26,7,weekday,0,dry,0,high
+Centro Memoria,NQS,6,weekday,1,dry,0,high
+Calle 45,Caracas,12,weekday,0,dry,0,low
+Ricaurte,NQS,14,weekday,1,dry,0,high
+Corferias,Calle 26,17,weekday,0,dry,0,high
+Corferias,Calle 26,13,weekday,0,dry,0,low
+Ricaurte,Americas,14,weekday,1,dry,0,high
+Centro Memoria,Calle 26,21,weekday,1,dry,1,medium
+Héroes,Caracas,11,sunday_holiday,0,dry,0,low
+Calle 26,Calle 26,13,weekday,1,dry,0,high
+Calle 45,Caracas,15,weekday,0,dry,0,medium
+Calle 75,NQS,13,sunday_holiday,0,dry,0,low
+Calle 100,Caracas,22,sunday_holiday,0,rain,0,low
+Calle 45,Caracas,22,saturday,0,dry,0,low
+Concejo de Bogotá,Calle 26,14,weekday,0,dry,1,medium
+Centro Memoria,NQS,13,weekday,1,dry,0,medium
+Av. Rojas,Calle 26,15,weekday,0,dry,0,medium
+Portal Américas,Americas,8,weekday,0,dry,0,high
+Marsella,Americas,12,weekday,0,rain,0,medium
+Calle 63,Caracas,8,weekday,0,dry,0,high
+Marsella,Americas,7,weekday,0,dry,0,high
+Centro Memoria,Calle 26,6,saturday,1,dry,0,low
+Centro Memoria,Calle 26,15,weekday,1,dry,0,high
+Calle 72,Caracas,5,weekday,0,dry,0,low
+Centro Memoria,Calle 26,16,saturday,1,dry,0,medium
+Calle 75,NQS,12,sunday_holiday,0,rain,0,low
+Concejo de Bogotá,Calle 26,11,weekday,0,dry,0,low
+Héroes,Caracas,18,weekday,0,dry,0,medium
+Corferias,Calle 26,14,weekday,0,rain,0,medium
+Marsella,Americas,18,weekday,0,dry,0,high
+Calle 75,NQS,17,saturday,0,dry,0,low
+Calle 63,Caracas,5,weekday,0,dry,1,medium
+Puente Aranda,Americas,8,weekday,0,dry,0,high
+Puente Aranda,Americas,15,weekday,0,dry,0,low
+Calle 63,Caracas,22,weekday,0,rain,0,low
+Ricaurte,NQS,7,weekday,1,dry,1,high
+Modelia,Calle 26,6,weekday,0,dry,0,high
+Concejo de Bogotá,Calle 26,21,sunday_holiday,0,dry,0,low
+Normandía,Calle 26,22,saturday,0,dry,1,low
+Ricaurte,NQS,8,weekday,1,dry,0,high
+Puente Aranda,Americas,12,weekday,0,dry,0,medium
+Ricaurte,NQS,16,saturday,1,rain,0,high
+Marsella,Americas,8,weekday,0,dry,0,high
+Marsella,Americas,10,weekday,0,dry,1,medium
+Calle 72,Caracas,12,saturday,0,dry,0,low
+Calle 34,Caracas,16,weekday,0,dry,0,low
+Calle 75,NQS,10,weekday,0,dry,0,low
+Concejo de Bogotá,Calle 26,12,weekday,0,rain,0,medium
+Héroes,Caracas,10,weekday,0,dry,0,medium
+Calle 72,Caracas,18,weekday,0,dry,0,high
+Av. Rojas,Calle 26,7,sunday_holiday,0,rain,1,medium
+Centro Memoria,Calle 26,9,weekday,1,dry,0,medium
+Calle 63,Caracas,9,weekday,0,dry,0,medium
+Calle 63,Caracas,21,saturday,0,rain,0,low
+Calle 72,Caracas,22,weekday,0,dry,0,low
+Corferias,Calle 26,14,weekday,0,dry,0,medium
+Calle 100,Caracas,7,weekday,0,rain,0,high
+Concejo de Bogotá,Calle 26,18,saturday,0,dry,0,low
+Normandía,Calle 26,13,weekday,0,dry,0,medium
+Normandía,Calle 26,20,saturday,0,rain,0,medium
+Centro Memoria,NQS,11,sunday_holiday,1,rain,0,low
+Corferias,Calle 26,22,saturday,0,dry,0,low
+Calle 75,NQS,19,sunday_holiday,0,dry,0,low
+Ricaurte,Americas,9,saturday,1,dry,0,medium
+Marsella,Americas,18,sunday_holiday,0,dry,1,low
+Ricaurte,NQS,10,sunday_holiday,1,dry,0,low
+Av. Rojas,Calle 26,11,saturday,0,dry,0,low
+Av. Rojas,Calle 26,9,sunday_holiday,0,dry,1,low
+Calle 34,Caracas,17,sunday_holiday,0,dry,0,low
+Concejo de Bogotá,Calle 26,9,weekday,0,dry,1,medium
+Calle 63,Caracas,16,saturday,0,dry,0,medium
+Marsella,Americas,15,weekday,0,dry,0,low
+Portal Américas,Americas,18,sunday_holiday,0,dry,0,low
+Calle 72,Caracas,22,weekday,0,rain,0,low
+Ricaurte,NQS,5,sunday_holiday,1,dry,0,low
+Calle 72,Caracas,22,saturday,0,dry,0,low
+Calle 75,NQS,6,sunday_holiday,0,rain,0,low
+Calle 72,Caracas,14,weekday,0,dry,0,low
+Av. Rojas,Calle 26,11,saturday,0,dry,0,low
+Centro Memoria,NQS,16,saturday,1,dry,0,medium
+Calle 75,NQS,17,sunday_holiday,0,dry,0,low
+Modelia,Calle 26,20,sunday_holiday,0,dry,0,low
+Marsella,Americas,12,weekday,0,dry,0,low
+Ricaurte,Americas,21,weekday,1,dry,0,low
+Calle 45,Caracas,10,weekday,0,rain,1,high
+Centro Memoria,NQS,8,sunday_holiday,1,dry,0,low
+Calle 75,NQS,11,weekday,0,rain,1,high
+Calle 26,Caracas,14,saturday,1,dry,0,low
+Calle 75,NQS,17,saturday,0,dry,0,medium
+Banderas,Americas,19,weekday,0,dry,0,high
+Ricaurte,NQS,9,weekday,1,dry,0,medium
+Ricaurte,Americas,10,weekday,1,dry,0,medium
+Centro Memoria,Calle 26,21,sunday_holiday,1,rain,0,low
+Calle 26,Calle 26,12,weekday,1,rain,0,high
+Ricaurte,NQS,9,weekday,1,rain,0,high
+Portal Eldorado,Calle 26,22,saturday,0,rain,0,low
+Corferias,Calle 26,13,weekday,0,dry,0,medium
+Calle 26,Caracas,22,sunday_holiday,1,dry,0,low
+Calle 26,Caracas,21,weekday,1,dry,0,low
+Calle 63,Caracas,21,weekday,0,dry,0,low
+Puente Aranda,Americas,15,weekday,0,rain,0,high
+Calle 63,Caracas,19,weekday,0,dry,0,high
+Héroes,Caracas,22,weekday,0,dry,0,low
+Marsella,Americas,9,saturday,0,dry,1,medium
+Corferias,Calle 26,5,weekday,0,dry,0,low
+Normandía,Calle 26,10,weekday,0,rain,0,medium
+Calle 75,NQS,16,weekday,0,dry,0,medium
+Portal Eldorado,Calle 26,14,weekday,0,dry,0,low
+Calle 72,Caracas,6,sunday_holiday,0,dry,1,low
+Calle 75,NQS,15,weekday,0,rain,0,high
+Calle 45,Caracas,8,sunday_holiday,0,rain,0,low
+Corferias,Calle 26,14,weekday,0,dry,1,high
+Marsella,Americas,15,weekday,0,dry,0,low
+Marsella,Americas,16,weekday,0,dry,0,medium
+Portal Eldorado,Calle 26,12,weekday,0,dry,0,medium
+Ricaurte,Americas,12,saturday,1,dry,0,low
+Centro Memoria,Calle 26,17,weekday,1,dry,0,high
+Av. Rojas,Calle 26,18,weekday,0,dry,0,high
+Calle 63,Caracas,19,saturday,0,dry,0,low
+Portal Eldorado,Calle 26,11,saturday,0,dry,1,low
+Centro Memoria,Calle 26,12,sunday_holiday,1,dry,0,low
+Puente Aranda,Americas,10,sunday_holiday,0,dry,0,low
+Calle 100,Caracas,14,saturday,0,dry,0,low
+Calle 75,NQS,7,sunday_holiday,0,dry,0,low
+Portal Américas,Americas,12,saturday,0,dry,0,low
+Marsella,Americas,8,weekday,0,dry,0,high
+Modelia,Calle 26,14,saturday,0,dry,0,low
+Calle 72,Caracas,20,weekday,0,dry,0,low
+Calle 26,Calle 26,22,saturday,1,dry,0,low
+Portal Américas,Americas,13,sunday_holiday,0,dry,0,low
+Banderas,Americas,6,weekday,0,dry,0,high
+Centro Memoria,Calle 26,9,sunday_holiday,1,dry,0,low
+Calle 72,Caracas,6,sunday_holiday,0,dry,0,low
+Calle 72,Caracas,18,weekday,0,rain,0,high
+Normandía,Calle 26,22,weekday,0,dry,0,low
+Concejo de Bogotá,Calle 26,14,sunday_holiday,0,dry,0,low
+Calle 100,Caracas,8,sunday_holiday,0,dry,0,low
+Centro Memoria,NQS,5,weekday,1,dry,0,medium
+Corferias,Calle 26,22,weekday,0,dry,0,low
+Calle 100,Caracas,10,saturday,0,dry,0,low
+Calle 72,Caracas,7,weekday,0,dry,0,high
+Normandía,Calle 26,8,weekday,0,dry,0,high
+Calle 75,NQS,9,weekday,0,dry,1,high
+Ricaurte,NQS,16,weekday,1,dry,1,high
+Modelia,Calle 26,21,weekday,0,dry,0,low
+Calle 26,Calle 26,9,saturday,1,dry,0,medium
+Puente Aranda,Americas,17,saturday,0,dry,1,medium
+Normandía,Calle 26,6,saturday,0,rain,0,medium
+Calle 26,Caracas,5,weekday,1,dry,1,high
+Normandía,Calle 26,5,weekday,0,rain,0,medium
+Calle 100,Caracas,21,weekday,0,dry,1,low
+Calle 26,Calle 26,15,weekday,1,dry,0,medium
+Av. Rojas,Calle 26,19,weekday,0,dry,0,high
+Marsella,Americas,5,weekday,0,dry,0,low
+Calle 75,NQS,5,weekday,0,dry,0,low
+Ricaurte,Americas,20,weekday,1,dry,0,medium
+Corferias,Calle 26,6,saturday,0,dry,0,low
+Calle 72,Caracas,7,saturday,0,dry,1,medium
+Portal Eldorado,Calle 26,14,sunday_holiday,0,dry,0,low
+Puente Aranda,Americas,15,saturday,0,dry,0,low
+Héroes,Caracas,9,weekday,0,rain,0,high
+Banderas,Americas,13,weekday,0,dry,0,medium
+Centro Memoria,NQS,17,weekday,1,dry,0,high
+Calle 26,Calle 26,12,weekday,1,rain,1,high
+Ricaurte,Americas,11,weekday,1,dry,0,high
+Portal Américas,Americas,6,weekday,0,rain,0,high
+Calle 100,Caracas,13,weekday,0,dry,1,high
+Calle 72,Caracas,19,weekday,0,rain,1,high
+Centro Memoria,NQS,16,saturday,1,rain,0,high
+Puente Aranda,Americas,21,sunday_holiday,0,dry,0,low
+Calle 100,Caracas,7,saturday,0,dry,0,low
+Centro Memoria,NQS,5,saturday,1,dry,0,medium
+Calle 63,Caracas,14,weekday,0,dry,0,medium
+Centro Memoria,Calle 26,8,weekday,1,rain,0,high
+Centro Memoria,Calle 26,15,saturday,1,dry,0,low
+Calle 72,Caracas,21,weekday,0,dry,1,medium
+Centro Memoria,NQS,11,weekday,1,rain,0,high
+Banderas,Americas,14,weekday,0,dry,0,low
+Portal Américas,Americas,17,sunday_holiday,0,dry,0,low
+Calle 100,Caracas,7,saturday,0,dry,0,low
+Calle 34,Caracas,21,weekday,0,dry,0,low
+Calle 34,Caracas,8,saturday,0,dry,0,low
+Normandía,Calle 26,19,weekday,0,dry,0,high
+Calle 63,Caracas,16,weekday,0,dry,0,medium
+Portal Américas,Americas,7,weekday,0,dry,0,high
+Ricaurte,Americas,18,weekday,1,rain,1,high
+Ricaurte,NQS,8,saturday,1,rain,0,high
+Calle 45,Caracas,15,weekday,0,dry,0,medium
+Calle 100,Caracas,22,saturday,0,dry,0,low
+Banderas,Americas,22,weekday,0,dry,0,low
+Calle 26,Calle 26,20,saturday,1,dry,0,medium
+Centro Memoria,NQS,13,saturday,1,dry,0,medium
+Banderas,Americas,15,saturday,0,dry,0,medium
+Calle 100,Caracas,10,saturday,0,dry,0,medium
+Calle 100,Caracas,21,sunday_holiday,0,dry,0,low
+Calle 100,Caracas,13,weekday,0,rain,0,medium
+Calle 63,Caracas,18,saturday,0,rain,0,medium
+Héroes,Caracas,11,saturday,0,dry,0,low
+Ricaurte,NQS,18,weekday,1,rain,0,high
+Concejo de Bogotá,Calle 26,9,weekday,0,dry,1,high
+Puente Aranda,Americas,18,weekday,0,dry,0,high
+Ricaurte,NQS,5,weekday,1,dry,0,medium
+Puente Aranda,Americas,6,weekday,0,dry,0,high
+Calle 34,Caracas,11,weekday,0,dry,0,medium
+Calle 26,Calle 26,13,saturday,1,rain,0,medium
+Portal Américas,Americas,17,weekday,0,dry,1,high
+Calle 34,Caracas,11,sunday_holiday,0,rain,0,low
+Héroes,Caracas,5,weekday,0,dry,0,medium
+Centro Memoria,NQS,10,saturday,1,rain,0,medium
+Ricaurte,NQS,12,weekday,1,rain,0,high
+Puente Aranda,Americas,14,weekday,0,rain,0,high
+Marsella,Americas,16,weekday,0,dry,0,medium
+Calle 72,Caracas,9,saturday,0,rain,1,high
+Ricaurte,Americas,15,weekday,1,dry,0,high
+Portal Américas,Americas,16,sunday_holiday,0,dry,1,medium
+Calle 75,NQS,18,weekday,0,dry,0,high
+Ricaurte,NQS,14,weekday,1,dry,1,high
+Portal Américas,Americas,19,weekday,0,rain,0,high
+Normandía,Calle 26,8,saturday,0,dry,0,medium
+Calle 100,Caracas,17,weekday,0,dry,0,high
+Normandía,Calle 26,5,weekday,0,dry,1,medium
+Calle 45,Caracas,6,weekday,0,dry,0,high
+Calle 72,Caracas,20,weekday,0,dry,0,low
+Calle 72,Caracas,13,weekday,0,dry,0,medium
+Calle 75,NQS,16,sunday_holiday,0,rain,0,low
+Av. Rojas,Calle 26,15,weekday,0,dry,0,medium
+Corferias,Calle 26,17,weekday,0,rain,0,medium
+Ricaurte,Americas,9,sunday_holiday,1,dry,0,low
+Corferias,Calle 26,8,weekday,0,dry,0,medium
+Centro Memoria,Calle 26,5,weekday,1,rain,0,medium
+Héroes,Caracas,20,saturday,0,rain,0,high
+Portal Américas,Americas,9,sunday_holiday,0,dry,0,low
+Normandía,Calle 26,15,saturday,0,dry,0,low
+Calle 63,Caracas,13,weekday,0,dry,0,medium
+Ricaurte,NQS,7,sunday_holiday,1,dry,0,low
+Calle 75,NQS,12,weekday,0,dry,0,medium
+Héroes,Caracas,6,sunday_holiday,0,dry,0,low
+Calle 45,Caracas,8,sunday_holiday,0,dry,0,low
+Calle 100,Caracas,7,sunday_holiday,0,dry,1,low
+Calle 26,Calle 26,19,weekday,1,dry,0,high
+Calle 72,Caracas,15,weekday,0,dry,0,medium
+Calle 75,NQS,21,saturday,0,dry,0,low
+Corferias,Calle 26,12,weekday,0,rain,1,high
+Puente Aranda,Americas,8,weekday,0,rain,0,high
+Ricaurte,Americas,15,sunday_holiday,1,rain,0,medium
+Centro Memoria,Calle 26,21,saturday,1,rain,0,medium
+Av. Rojas,Calle 26,14,weekday,0,dry,0,medium
+Héroes,Caracas,5,weekday,0,rain,0,medium
+Héroes,Caracas,10,weekday,0,dry,0,low
+Centro Memoria,Calle 26,21,weekday,1,dry,0,low
+Calle 100,Caracas,14,weekday,0,dry,0,medium
+Calle 100,Caracas,22,sunday_holiday,0,dry,0,low
+Calle 34,Caracas,14,saturday,0,dry,0,low
+Banderas,Americas,5,weekday,0,dry,0,medium
+Normandía,Calle 26,20,weekday,0,dry,0,low
+Calle 75,NQS,18,saturday,0,dry,0,medium
+Modelia,Calle 26,17,sunday_holiday,0,dry,0,low
+Calle 63,Caracas,22,sunday_holiday,0,dry,0,low
+Portal Eldorado,Calle 26,8,weekday,0,dry,0,high
+Calle 72,Caracas,21,sunday_holiday,0,dry,0,low
+Ricaurte,Americas,9,weekday,1,dry,0,medium
+Calle 45,Caracas,22,weekday,0,dry,0,low
+Portal Eldorado,Calle 26,8,sunday_holiday,0,dry,0,low
+Puente Aranda,Americas,14,weekday,0,dry,0,low
+Concejo de Bogotá,Calle 26,19,weekday,0,dry,0,high
+Normandía,Calle 26,6,weekday,0,dry,0,high
+Corferias,Calle 26,6,weekday,0,dry,0,high
+Ricaurte,NQS,20,weekday,1,dry,0,low
+Calle 34,Caracas,6,saturday,0,dry,0,low
+Centro Memoria,Calle 26,16,weekday,1,dry,0,medium
+Banderas,Americas,21,weekday,0,dry,0,low
+Concejo de Bogotá,Calle 26,16,sunday_holiday,0,dry,0,low
+Normandía,Calle 26,13,weekday,0,dry,0,low
+Calle 63,Caracas,12,sunday_holiday,0,dry,1,low
+Calle 34,Caracas,16,weekday,0,dry,1,medium
+Marsella,Americas,15,weekday,0,rain,0,medium
+Corferias,Calle 26,14,weekday,0,dry,0,medium
+Calle 26,Calle 26,7,sunday_holiday,1,dry,1,medium
+Modelia,Calle 26,16,weekday,0,dry,0,medium
+Concejo de Bogotá,Calle 26,18,sunday_holiday,0,dry,0,low
+Corferias,Calle 26,17,weekday,0,rain,1,high
+Calle 75,NQS,6,weekday,0,dry,0,high
+Calle 34,Caracas,17,weekday,0,dry,0,medium
+Centro Memoria,Calle 26,18,weekday,1,dry,0,high
+Normandía,Calle 26,8,weekday,0,dry,0,high
+Marsella,Americas,20,weekday,0,dry,0,low
+Calle 63,Caracas,14,weekday,0,dry,0,medium
+Calle 63,Caracas,13,saturday,0,dry,0,medium
+Normandía,Calle 26,18,weekday,0,rain,0,high
+Av. Rojas,Calle 26,14,weekday,0,dry,0,low
+Centro Memoria,NQS,14,weekday,1,dry,0,medium
+Modelia,Calle 26,10,weekday,0,dry,0,medium
+Marsella,Americas,21,weekday,0,dry,0,low
+Normandía,Calle 26,22,saturday,0,dry,0,low
+Calle 72,Caracas,7,weekday,0,dry,0,high
+Calle 72,Caracas,18,sunday_holiday,0,dry,1,low
+Puente Aranda,Americas,5,weekday,0,dry,0,medium
+Calle 63,Caracas,11,weekday,0,dry,0,medium
+Marsella,Americas,22,sunday_holiday,0,dry,0,low
+Calle 26,Calle 26,8,weekday,1,dry,0,high
+Calle 72,Caracas,11,weekday,0,dry,1,medium
+Calle 26,Caracas,8,sunday_holiday,1,dry,0,low
+Centro Memoria,Calle 26,18,sunday_holiday,1,rain,0,high
+Modelia,Calle 26,13,saturday,0,dry,0,low
+Ricaurte,NQS,15,weekday,1,dry,0,high
+Centro Memoria,Calle 26,21,weekday,1,dry,0,low
+Modelia,Calle 26,14,sunday_holiday,0,dry,0,low
+Centro Memoria,Calle 26,18,sunday_holiday,1,dry,0,medium
+Puente Aranda,Americas,6,weekday,0,dry,0,medium
+Modelia,Calle 26,8,weekday,0,dry,0,medium
+Calle 63,Caracas,22,weekday,0,dry,0,low
+Modelia,Calle 26,20,weekday,0,rain,0,medium
+Portal Américas,Americas,16,saturday,0,dry,0,low
+Calle 34,Caracas,11,weekday,0,dry,0,medium
+Marsella,Americas,8,weekday,0,rain,1,high
+Concejo de Bogotá,Calle 26,20,weekday,0,dry,1,medium
+Concejo de Bogotá,Calle 26,19,weekday,0,dry,0,medium
+Calle 26,Caracas,9,weekday,1,rain,0,high
+Marsella,Americas,15,weekday,0,dry,0,medium
+Calle 100,Caracas,16,weekday,0,dry,0,medium
+Calle 26,Calle 26,13,sunday_holiday,1,dry,0,low
+Modelia,Calle 26,21,weekday,0,dry,1,low
+Normandía,Calle 26,7,weekday,0,rain,0,high
+Normandía,Calle 26,9,weekday,0,dry,0,low
+Calle 63,Caracas,6,weekday,0,dry,0,medium
+Calle 34,Caracas,17,weekday,0,rain,0,high
+Calle 72,Caracas,16,weekday,0,dry,0,medium
+Concejo de Bogotá,Calle 26,22,weekday,0,rain,0,low
+Portal Eldorado,Calle 26,14,weekday,0,dry,0,medium
+Concejo de Bogotá,Calle 26,7,saturday,0,dry,0,low
+Concejo de Bogotá,Calle 26,13,weekday,0,dry,0,medium
+Calle 75,NQS,6,weekday,0,dry,1,high
+Corferias,Calle 26,17,weekday,0,dry,0,high
+Centro Memoria,Calle 26,17,weekday,1,dry,0,high
+Concejo de Bogotá,Calle 26,20,weekday,0,dry,0,low
+Centro Memoria,NQS,11,weekday,1,dry,0,medium
+Centro Memoria,Calle 26,10,weekday,1,dry,0,high
+Calle 26,Caracas,6,weekday,1,rain,0,high
+Calle 34,Caracas,12,sunday_holiday,0,rain,0,low
+Ricaurte,NQS,13,sunday_holiday,1,rain,0,high
+Calle 26,Caracas,18,sunday_holiday,1,rain,0,low
+Corferias,Calle 26,18,weekday,0,dry,0,medium
+Calle 45,Caracas,7,weekday,0,dry,0,high
+Modelia,Calle 26,10,weekday,0,dry,0,medium
+Corferias,Calle 26,14,weekday,0,dry,0,high
+Centro Memoria,Calle 26,11,weekday,1,dry,0,medium
+Corferias,Calle 26,5,weekday,0,dry,0,low
+Portal Eldorado,Calle 26,20,weekday,0,dry,0,low
+Puente Aranda,Americas,18,weekday,0,dry,0,high
+Av. Rojas,Calle 26,14,weekday,0,dry,0,medium
+Ricaurte,NQS,10,saturday,1,dry,0,medium
+Calle 75,NQS,20,weekday,0,dry,0,low
+Corferias,Calle 26,5,sunday_holiday,0,dry,0,low
+Banderas,Americas,13,weekday,0,dry,1,high
+Calle 72,Caracas,19,weekday,0,dry,0,high
+Marsella,Americas,22,weekday,0,dry,0,low
+Portal Américas,Americas,9,weekday,0,dry,0,high
+Av. Rojas,Calle 26,16,weekday,0,rain,0,high
+Calle 75,NQS,8,weekday,0,rain,0,high
+Av. Rojas,Calle 26,7,saturday,0,dry,0,low
+Calle 26,Calle 26,11,weekday,1,rain,0,high
+Ricaurte,NQS,20,weekday,1,dry,0,medium
+Calle 34,Caracas,17,sunday_holiday,0,rain,1,low
+Calle 26,Caracas,13,weekday,1,dry,0,medium
+Av. Rojas,Calle 26,10,weekday,0,rain,0,medium
+Portal Américas,Americas,7,weekday,0,dry,0,high
+Portal Eldorado,Calle 26,9,weekday,0,dry,0,low
+Av. Rojas,Calle 26,7,weekday,0,rain,0,high
+Calle 100,Caracas,8,weekday,0,rain,0,high
+Calle 72,Caracas,17,saturday,0,dry,0,medium
+Héroes,Caracas,7,weekday,0,dry,0,high
+Héroes,Caracas,5,weekday,0,dry,0,low
+Portal Américas,Americas,14,weekday,0,dry,0,medium
+Portal Américas,Americas,10,sunday_holiday,0,dry,0,low
+Ricaurte,NQS,13,saturday,1,rain,0,medium
+Héroes,Caracas,7,sunday_holiday,0,dry,0,low
+Héroes,Caracas,8,saturday,0,dry,0,low
+Calle 26,Calle 26,12,saturday,1,dry,0,medium
+Concejo de Bogotá,Calle 26,17,weekday,0,dry,0,high
+Calle 26,Caracas,12,sunday_holiday,1,dry,0,low
+Av. Rojas,Calle 26,14,weekday,0,rain,0,low
+Calle 63,Caracas,14,weekday,0,rain,0,medium
+Calle 75,NQS,9,saturday,0,rain,0,medium
+Calle 26,Caracas,10,weekday,1,rain,0,high
+Héroes,Caracas,12,weekday,0,rain,0,medium
+Ricaurte,Americas,5,weekday,1,dry,0,low
+Banderas,Americas,17,weekday,0,rain,0,high
+Calle 100,Caracas,16,sunday_holiday,0,dry,0,low
+Normandía,Calle 26,10,weekday,0,dry,0,low
+Portal Américas,Americas,11,sunday_holiday,0,dry,0,low
+Calle 75,NQS,10,weekday,0,dry,1,high
+Portal Américas,Americas,16,saturday,0,rain,0,medium
+Modelia,Calle 26,18,weekday,0,rain,0,high
+Portal Eldorado,Calle 26,6,sunday_holiday,0,rain,0,low
+Calle 75,NQS,12,weekday,0,dry,0,medium
+Calle 63,Caracas,5,weekday,0,dry,0,low
+Calle 34,Caracas,13,weekday,0,dry,0,medium
+Concejo de Bogotá,Calle 26,9,weekday,0,dry,0,medium
+Centro Memoria,NQS,11,weekday,1,dry,0,high
+Calle 72,Caracas,13,saturday,0,dry,0,low
+Av. Rojas,Calle 26,10,sunday_holiday,0,dry,1,low
+Portal Eldorado,Calle 26,12,saturday,0,rain,1,high
+Av. Rojas,Calle 26,18,weekday,0,dry,0,high
+Puente Aranda,Americas,19,weekday,0,dry,0,high
+Héroes,Caracas,5,sunday_holiday,0,rain,0,medium
+Puente Aranda,Americas,11,sunday_holiday,0,dry,0,low
+Normandía,Calle 26,20,weekday,0,dry,1,medium
+Ricaurte,Americas,14,sunday_holiday,1,rain,0,low
+Modelia,Calle 26,8,weekday,0,dry,0,high
+Calle 26,Caracas,15,sunday_holiday,1,dry,0,low
+Ricaurte,Americas,7,sunday_holiday,1,rain,0,medium
+Centro Memoria,NQS,5,saturday,1,rain,0,high
+Calle 63,Caracas,16,weekday,0,dry,0,medium
+Calle 75,NQS,14,weekday,0,rain,1,high
+Ricaurte,Americas,18,weekday,1,dry,0,high
+Portal Eldorado,Calle 26,11,saturday,0,dry,0,low
+Marsella,Americas,20,weekday,0,dry,0,low
+Centro Memoria,Calle 26,12,saturday,1,dry,0,high
+Calle 26,Caracas,18,sunday_holiday,1,dry,0,low
+Calle 100,Caracas,6,weekday,0,dry,0,high
+Centro Memoria,NQS,6,weekday,1,dry,0,high
+Calle 45,Caracas,19,saturday,0,rain,0,medium
+Ricaurte,Americas,20,weekday,1,dry,0,low
+Corferias,Calle 26,21,weekday,0,dry,0,low
+Normandía,Calle 26,10,weekday,0,dry,0,medium
+Calle 63,Caracas,5,weekday,0,dry,0,low
+Calle 75,NQS,22,saturday,0,rain,0,low
+Calle 63,Caracas,15,weekday,0,dry,0,medium
+Modelia,Calle 26,9,weekday,0,rain,0,medium
+Portal Américas,Americas,18,weekday,0,dry,0,medium
+Marsella,Americas,21,weekday,0,dry,0,medium
+Puente Aranda,Americas,10,weekday,0,dry,0,medium
+Puente Aranda,Americas,18,saturday,0,dry,0,medium
+Corferias,Calle 26,19,weekday,0,rain,0,high
+Calle 45,Caracas,14,weekday,0,dry,0,medium
+Portal Américas,Americas,16,sunday_holiday,0,dry,0,low
+Ricaurte,NQS,9,weekday,1,dry,0,medium
+Puente Aranda,Americas,21,saturday,0,dry,0,low
+Centro Memoria,Calle 26,22,weekday,1,rain,0,medium
+Calle 63,Caracas,22,weekday,0,dry,0,low
+Av. Rojas,Calle 26,18,weekday,0,dry,0,medium
+Normandía,Calle 26,5,saturday,0,dry,0,low
+Portal Américas,Americas,11,sunday_holiday,0,dry,0,low
+Modelia,Calle 26,13,weekday,0,dry,0,medium
+Calle 26,Caracas,22,weekday,1,dry,0,low
+Héroes,Caracas,14,weekday,0,dry,0,medium
+Portal Américas,Americas,14,weekday,0,dry,1,high
+Ricaurte,Americas,7,saturday,1,dry,0,medium
+Calle 100,Caracas,19,saturday,0,rain,0,low
+Modelia,Calle 26,11,sunday_holiday,0,rain,0,low
+Av. Rojas,Calle 26,6,weekday,0,dry,0,medium
+Normandía,Calle 26,22,saturday,0,dry,0,low
+Marsella,Americas,8,weekday,0,dry,0,high
+Calle 63,Caracas,5,weekday,0,rain,0,medium
+Calle 26,Caracas,6,sunday_holiday,1,dry,0,low
+Calle 45,Caracas,13,weekday,0,rain,0,medium
+Calle 34,Caracas,6,saturday,0,dry,0,medium
+Banderas,Americas,20,saturday,0,dry,0,low
+Marsella,Americas,14,sunday_holiday,0,dry,0,low
+Héroes,Caracas,10,weekday,0,rain,0,high
+Centro Memoria,Calle 26,5,weekday,1,dry,0,medium
+Calle 34,Caracas,13,sunday_holiday,0,dry,0,low
+Calle 45,Caracas,7,saturday,0,dry,0,medium
+Calle 26,Calle 26,22,weekday,1,dry,0,low
+Calle 45,Caracas,10,saturday,0,dry,1,medium
+Av. Rojas,Calle 26,13,weekday,0,dry,0,low
+Puente Aranda,Americas,5,weekday,0,dry,0,low
+Concejo de Bogotá,Calle 26,7,sunday_holiday,0,dry,0,low
+Calle 75,NQS,8,weekday,0,rain,0,high
+Av. Rojas,Calle 26,5,weekday,0,dry,0,low
+Calle 100,Caracas,18,sunday_holiday,0,dry,1,low
+Héroes,Caracas,22,saturday,0,rain,0,low
+Calle 26,Calle 26,22,sunday_holiday,1,dry,1,low
+Calle 34,Caracas,9,weekday,0,dry,0,medium
+Portal Américas,Americas,19,sunday_holiday,0,dry,0,low
+Portal Américas,Americas,14,weekday,0,dry,0,medium
+Portal Américas,Americas,5,weekday,0,dry,1,medium
+Centro Memoria,Calle 26,6,weekday,1,dry,0,high
+Corferias,Calle 26,14,saturday,0,dry,0,medium
+Centro Memoria,Calle 26,12,sunday_holiday,1,dry,0,low
+Modelia,Calle 26,5,saturday,0,dry,0,medium
+Centro Memoria,NQS,21,saturday,1,dry,0,low
+Ricaurte,NQS,18,weekday,1,rain,0,high
+Ricaurte,Americas,14,weekday,1,dry,0,high
+Centro Memoria,Calle 26,22,weekday,1,dry,0,low
+Héroes,Caracas,22,weekday,0,dry,0,low
+Calle 75,NQS,22,weekday,0,rain,0,low
+Portal Eldorado,Calle 26,9,sunday_holiday,0,rain,0,low
+Ricaurte,Americas,20,saturday,1,dry,0,medium
+Corferias,Calle 26,14,saturday,0,rain,1,medium
+Banderas,Americas,18,weekday,0,dry,1,high
+Calle 26,Caracas,20,weekday,1,dry,0,low
+Marsella,Americas,7,weekday,0,dry,0,medium
+Portal Américas,Americas,13,weekday,0,rain,0,low
+Calle 26,Caracas,7,weekday,1,dry,0,high
+Av. Rojas,Calle 26,10,weekday,0,dry,0,high
+Corferias,Calle 26,12,weekday,0,dry,1,medium
+Ricaurte,Americas,20,saturday,1,dry,1,high
+Centro Memoria,NQS,20,weekday,1,dry,0,medium
+Portal Américas,Americas,12,weekday,0,dry,0,medium
+Portal Eldorado,Calle 26,10,weekday,0,dry,0,low
+Av. Rojas,Calle 26,14,weekday,0,dry,0,medium
+Modelia,Calle 26,21,weekday,0,dry,1,medium
+Banderas,Americas,22,weekday,0,dry,0,low
+Calle 26,Caracas,9,weekday,1,dry,0,high
+Concejo de Bogotá,Calle 26,8,weekday,0,dry,0,medium
+Calle 72,Caracas,17,sunday_holiday,0,dry,0,low
+Portal Américas,Americas,10,weekday,0,dry,0,low
+Portal Eldorado,Calle 26,8,weekday,0,rain,0,high
+Calle 26,Caracas,5,weekday,1,rain,0,high
+Concejo de Bogotá,Calle 26,12,weekday,0,dry,0,medium
+Av. Rojas,Calle 26,12,weekday,0,dry,0,medium
+Portal Américas,Americas,15,sunday_holiday,0,dry,0,low
+Corferias,Calle 26,8,weekday,0,dry,0,medium
+Av. Rojas,Calle 26,17,saturday,0,dry,0,low
+Calle 72,Caracas,17,weekday,0,dry,0,high
+Calle 100,Caracas,13,weekday,0,dry,0,low
+Modelia,Calle 26,8,weekday,0,rain,0,high
+Puente Aranda,Americas,14,weekday,0,dry,0,low
+Marsella,Americas,17,weekday,0,rain,0,high
+Centro Memoria,Calle 26,11,sunday_holiday,1,dry,0,medium
+Centro Memoria,Calle 26,9,saturday,1,dry,0,medium
+Modelia,Calle 26,14,sunday_holiday,0,dry,0,low
+Calle 45,Caracas,11,weekday,0,dry,0,medium
+Calle 100,Caracas,12,saturday,0,dry,0,low
+Calle 26,Caracas,11,weekday,1,rain,0,high
+Calle 26,Caracas,10,saturday,1,rain,1,high
+Calle 45,Caracas,17,sunday_holiday,0,dry,0,low
+Calle 34,Caracas,13,saturday,0,dry,0,low
+Calle 100,Caracas,13,sunday_holiday,0,dry,0,low
+Concejo de Bogotá,Calle 26,16,saturday,0,dry,0,low
+Marsella,Americas,11,weekday,0,dry,0,medium
+Centro Memoria,NQS,6,saturday,1,dry,0,medium
+Normandía,Calle 26,20,weekday,0,dry,1,medium
+Modelia,Calle 26,6,sunday_holiday,0,rain,1,low
+Calle 26,Caracas,15,sunday_holiday,1,dry,1,medium
+Calle 63,Caracas,9,weekday,0,dry,0,medium
+Concejo de Bogotá,Calle 26,8,weekday,0,dry,0,high
+Concejo de Bogotá,Calle 26,5,weekday,0,rain,0,medium
+Calle 100,Caracas,21,weekday,0,dry,0,low
+Modelia,Calle 26,12,weekday,0,dry,0,low
+Calle 26,Calle 26,11,saturday,1,dry,0,low
+Calle 63,Caracas,18,weekday,0,dry,0,high
+Calle 75,NQS,5,sunday_holiday,0,dry,0,low
+Corferias,Calle 26,15,weekday,0,dry,1,medium
+Centro Memoria,Calle 26,13,weekday,1,dry,0,high
+Calle 75,NQS,14,weekday,0,rain,1,medium
+Puente Aranda,Americas,7,sunday_holiday,0,dry,0,low
+Ricaurte,NQS,22,weekday,1,dry,0,low
+Centro Memoria,Calle 26,9,weekday,1,dry,0,medium
+Banderas,Americas,17,weekday,0,dry,0,medium
+Normandía,Calle 26,18,sunday_holiday,0,dry,0,low
+Puente Aranda,Americas,11,weekday,0,rain,0,low
+Ricaurte,Americas,7,saturday,1,dry,0,low
+Centro Memoria,Calle 26,10,saturday,1,dry,0,medium
+Banderas,Americas,19,saturday,0,dry,0,low
+Av. Rojas,Calle 26,21,weekday,0,dry,0,low
+Calle 75,NQS,21,weekday,0,rain,0,low
+Calle 26,Calle 26,9,weekday,1,rain,0,medium
+Puente Aranda,Americas,15,weekday,0,dry,0,medium
+Centro Memoria,Calle 26,7,saturday,1,dry,1,high
+Ricaurte,Americas,17,weekday,1,dry,0,high
+Normandía,Calle 26,12,weekday,0,dry,1,medium
+Portal Américas,Americas,17,weekday,0,dry,0,high
+Héroes,Caracas,17,weekday,0,dry,0,medium
+Calle 72,Caracas,22,weekday,0,rain,0,low
+Av. Rojas,Calle 26,13,saturday,0,dry,0,low
+Calle 75,NQS,11,weekday,0,dry,1,high
+Ricaurte,NQS,14,sunday_holiday,1,dry,1,medium
+Normandía,Calle 26,7,saturday,0,rain,0,medium
+Centro Memoria,Calle 26,7,weekday,1,rain,0,high
+Corferias,Calle 26,14,weekday,0,rain,0,medium
+Puente Aranda,Americas,19,weekday,0,dry,0,high
+Centro Memoria,NQS,14,weekday,1,rain,0,high
+Modelia,Calle 26,19,weekday,0,dry,0,high
+Puente Aranda,Americas,8,sunday_holiday,0,rain,0,low
+Calle 72,Caracas,13,saturday,0,rain,0,low
+Puente Aranda,Americas,16,weekday,0,dry,1,high
+Calle 63,Caracas,11,weekday,0,rain,1,high
+Calle 26,Calle 26,5,weekday,1,dry,0,low
+Ricaurte,NQS,6,sunday_holiday,1,dry,0,low
+Calle 75,NQS,21,weekday,0,rain,0,low
+Puente Aranda,Americas,15,saturday,0,rain,0,medium
+Ricaurte,Americas,9,saturday,1,dry,0,medium
+Centro Memoria,Calle 26,9,weekday,1,dry,0,high
+Calle 26,Caracas,5,weekday,1,dry,0,low
+Calle 100,Caracas,22,weekday,0,dry,0,low
+Calle 72,Caracas,6,sunday_holiday,0,dry,0,low
+Calle 26,Calle 26,18,weekday,1,dry,0,high
+Calle 100,Caracas,9,saturday,0,dry,0,low
+Av. Rojas,Calle 26,11,saturday,0,dry,0,medium
+Ricaurte,Americas,9,sunday_holiday,1,dry,1,low
+Puente Aranda,Americas,19,weekday,0,dry,0,high
+Av. Rojas,Calle 26,5,weekday,0,dry,0,low
+Banderas,Americas,11,saturday,0,dry,0,low
+Puente Aranda,Americas,10,weekday,0,dry,0,medium
+Portal Américas,Americas,9,sunday_holiday,0,dry,1,low
+Normandía,Calle 26,8,weekday,0,rain,0,high
+Calle 26,Caracas,21,weekday,1,dry,1,medium
+Puente Aranda,Americas,11,sunday_holiday,0,dry,0,low
+Calle 34,Caracas,12,weekday,0,dry,0,low
+Modelia,Calle 26,11,weekday,0,dry,0,medium
+Héroes,Caracas,22,weekday,0,dry,0,low
+Ricaurte,NQS,11,weekday,1,dry,0,medium
+Centro Memoria,Calle 26,11,sunday_holiday,1,dry,0,low
+Héroes,Caracas,10,weekday,0,rain,0,medium
+Calle 34,Caracas,10,weekday,0,dry,0,medium
+Corferias,Calle 26,6,weekday,0,dry,0,high
+Corferias,Calle 26,15,sunday_holiday,0,dry,0,low
+Ricaurte,NQS,5,weekday,1,rain,0,medium
+Calle 26,Calle 26,9,sunday_holiday,1,dry,0,low
+Marsella,Americas,8,sunday_holiday,0,dry,0,low
+Normandía,Calle 26,10,weekday,0,dry,1,medium
+Ricaurte,NQS,18,sunday_holiday,1,rain,0,medium
+Calle 34,Caracas,15,saturday,0,dry,0,low
+Calle 100,Caracas,22,weekday,0,rain,0,low
+Héroes,Caracas,11,weekday,0,dry,0,low
+Portal Eldorado,Calle 26,21,sunday_holiday,0,dry,0,low
+Marsella,Americas,5,saturday,0,dry,0,low
+Héroes,Caracas,14,saturday,0,dry,0,low
+Portal Eldorado,Calle 26,19,sunday_holiday,0,dry,0,low
+Calle 72,Caracas,14,weekday,0,dry,0,medium
+Marsella,Americas,21,sunday_holiday,0,rain,0,low
+Centro Memoria,NQS,10,sunday_holiday,1,rain,0,medium
+Ricaurte,Americas,5,weekday,1,dry,0,medium
+Calle 75,NQS,18,weekday,0,dry,0,high
+Centro Memoria,NQS,6,weekday,1,dry,0,high
+Ricaurte,Americas,18,sunday_holiday,1,dry,0,low
+Calle 100,Caracas,18,weekday,0,dry,1,high
+Portal Américas,Americas,20,saturday,0,dry,0,low
+Ricaurte,Americas,13,weekday,1,dry,0,high
+Ricaurte,Americas,21,weekday,1,rain,0,medium
+Modelia,Calle 26,8,saturday,0,rain,0,medium
+Ricaurte,NQS,12,weekday,1,rain,0,high
+Portal Eldorado,Calle 26,7,sunday_holiday,0,dry,0,low
+Héroes,Caracas,18,weekday,0,dry,0,high
+Banderas,Americas,17,sunday_holiday,0,dry,0,low
+Calle 34,Caracas,19,weekday,0,rain,0,high
+Calle 72,Caracas,18,sunday_holiday,0,dry,0,low
+Centro Memoria,Calle 26,10,saturday,1,rain,0,high
+Calle 34,Caracas,6,weekday,0,dry,0,medium
+Portal Américas,Americas,21,weekday,0,dry,0,low
+Normandía,Calle 26,13,weekday,0,dry,0,medium
+Calle 100,Caracas,6,weekday,0,rain,0,high
+Marsella,Americas,21,sunday_holiday,0,dry,1,low
+Av. Rojas,Calle 26,22,weekday,0,dry,0,low
+Calle 26,Calle 26,13,weekday,1,dry,0,medium
+Centro Memoria,NQS,18,weekday,1,rain,0,high
+Corferias,Calle 26,5,weekday,0,dry,0,low
+Calle 100,Caracas,6,saturday,0,dry,0,low
+Ricaurte,Americas,9,weekday,1,dry,0,high
+Modelia,Calle 26,16,saturday,0,dry,0,low
+Calle 75,NQS,7,sunday_holiday,0,dry,0,low
+Banderas,Americas,5,weekday,0,dry,0,low
+Centro Memoria,Calle 26,17,weekday,1,dry,0,high
+Centro Memoria,NQS,18,weekday,1,dry,0,high
+Calle 34,Caracas,18,weekday,0,rain,0,high
+Calle 34,Caracas,19,weekday,0,dry,0,medium
+Modelia,Calle 26,19,sunday_holiday,0,rain,0,low
+Portal Américas,Americas,15,saturday,0,dry,0,low
+Corferias,Calle 26,14,weekday,0,dry,1,medium
+Portal Eldorado,Calle 26,20,saturday,0,dry,0,medium
+Ricaurte,Americas,11,weekday,1,dry,0,medium
+Portal Américas,Americas,6,sunday_holiday,0,dry,0,low
+Banderas,Americas,18,weekday,0,dry,0,high
+Calle 26,Calle 26,9,saturday,1,rain,0,high
+Calle 75,NQS,22,sunday_holiday,0,dry,0,low
+Concejo de Bogotá,Calle 26,12,saturday,0,dry,0,low
+Normandía,Calle 26,20,sunday_holiday,0,dry,0,low
+Modelia,Calle 26,5,weekday,0,dry,0,low
+Calle 72,Caracas,16,sunday_holiday,0,rain,0,medium
+Calle 26,Calle 26,13,weekday,1,rain,0,high
+Corferias,Calle 26,13,saturday,0,dry,0,medium
+Banderas,Americas,9,weekday,0,dry,0,low
+Portal Américas,Americas,22,weekday,0,dry,0,low
+Calle 45,Caracas,12,weekday,0,dry,1,medium
+Centro Memoria,NQS,20,weekday,1,dry,0,low
+Héroes,Caracas,12,saturday,0,dry,0,medium
+Centro Memoria,NQS,5,sunday_holiday,1,dry,0,low
+Calle 26,Caracas,20,sunday_holiday,1,dry,0,low
+Normandía,Calle 26,8,weekday,0,rain,0,high
+Calle 75,NQS,9,sunday_holiday,0,dry,0,low
+Modelia,Calle 26,20,weekday,0,dry,0,low
+Ricaurte,NQS,21,weekday,1,dry,1,low
+Corferias,Calle 26,21,sunday_holiday,0,dry,0,low
+Puente Aranda,Americas,12,weekday,0,dry,0,medium
+Centro Memoria,Calle 26,18,weekday,1,dry,0,high
+Calle 26,Calle 26,10,weekday,1,dry,0,high
+Ricaurte,Americas,18,weekday,1,rain,0,high
+Modelia,Calle 26,14,sunday_holiday,0,dry,0,low
+Corferias,Calle 26,5,weekday,0,dry,0,low
+Calle 63,Caracas,12,weekday,0,dry,0,low
+Calle 72,Caracas,13,weekday,0,dry,1,high
+Concejo de Bogotá,Calle 26,9,weekday,0,rain,0,medium
+Calle 45,Caracas,11,saturday,0,dry,0,low
+Puente Aranda,Americas,14,sunday_holiday,0,dry,0,low
+Portal Américas,Americas,5,saturday,0,dry,0,low
+Calle 75,NQS,7,sunday_holiday,0,dry,0,low
+Calle 75,NQS,18,weekday,0,dry,0,high
+Concejo de Bogotá,Calle 26,11,sunday_holiday,0,rain,0,low
+Héroes,Caracas,15,weekday,0,rain,0,high
+Modelia,Calle 26,15,weekday,0,rain,0,medium
+Av. Rojas,Calle 26,14,saturday,0,dry,0,low
+Marsella,Americas,12,weekday,0,dry,0,low
+Calle 34,Caracas,13,sunday_holiday,0,dry,0,low
+Av. Rojas,Calle 26,19,saturday,0,dry,0,low
+Calle 26,Caracas,22,sunday_holiday,1,dry,0,low
+Calle 63,Caracas,9,weekday,0,rain,0,medium
+Calle 72,Caracas,17,weekday,0,dry,0,high
+Portal Eldorado,Calle 26,22,saturday,0,dry,0,low
+Héroes,Caracas,5,weekday,0,dry,0,low
+Héroes,Caracas,19,weekday,0,dry,0,high
+Portal Eldorado,Calle 26,13,saturday,0,dry,0,low
+Calle 45,Caracas,22,sunday_holiday,0,dry,0,low
+Corferias,Calle 26,15,saturday,0,rain,1,high
+Calle 100,Caracas,20,weekday,0,rain,0,low
+Calle 26,Calle 26,7,weekday,1,rain,0,high
+Normandía,Calle 26,7,weekday,0,dry,0,high
+Puente Aranda,Americas,21,weekday,0,dry,0,low
+Centro Memoria,Calle 26,14,weekday,1,dry,0,medium
+Banderas,Americas,15,weekday,0,dry,0,medium
+Calle 26,Caracas,8,weekday,1,dry,1,high
+Normandía,Calle 26,9,weekday,0,dry,0,high
+Modelia,Calle 26,19,weekday,0,dry,0,high
+Banderas,Americas,10,weekday,0,dry,0,medium
+Puente Aranda,Americas,15,weekday,0,rain,0,high
+Puente Aranda,Americas,10,saturday,0,rain,0,medium
+Ricaurte,Americas,9,weekday,1,dry,0,medium
+Av. Rojas,Calle 26,7,sunday_holiday,0,dry,0,low
+Corferias,Calle 26,21,weekday,0,dry,1,low
+Puente Aranda,Americas,21,weekday,0,dry,0,low
+Calle 26,Calle 26,7,weekday,1,dry,0,high
+Calle 26,Caracas,11,weekday,1,dry,1,medium
+Banderas,Americas,15,weekday,0,rain,0,medium
+Portal Eldorado,Calle 26,11,sunday_holiday,0,rain,0,low
+Calle 34,Caracas,17,sunday_holiday,0,dry,0,low
+Corferias,Calle 26,9,weekday,0,dry,0,high
+Calle 26,Caracas,6,weekday,1,rain,0,high
+Banderas,Americas,11,saturday,0,rain,0,low
+Banderas,Americas,15,weekday,0,rain,0,low
+Calle 26,Caracas,8,weekday,1,dry,0,high
+Corferias,Calle 26,19,saturday,0,rain,0,low
+Puente Aranda,Americas,5,weekday,0,rain,0,medium
+Ricaurte,Americas,6,saturday,1,dry,0,high
+Calle 45,Caracas,14,weekday,0,dry,0,low
+Concejo de Bogotá,Calle 26,14,weekday,0,dry,0,medium
+Centro Memoria,Calle 26,10,weekday,1,dry,1,high
+Centro Memoria,NQS,9,saturday,1,dry,0,medium
+Calle 100,Caracas,6,weekday,0,dry,0,medium
+Calle 26,Calle 26,16,saturday,1,dry,0,medium
+Portal Américas,Americas,11,saturday,0,dry,0,low
+Calle 34,Caracas,7,saturday,0,dry,0,low
+Calle 26,Calle 26,12,weekday,1,dry,0,high
+Calle 26,Caracas,21,weekday,1,dry,0,low
+Calle 45,Caracas,9,weekday,0,dry,0,medium
+Calle 63,Caracas,21,weekday,0,rain,0,low
+Calle 26,Caracas,9,sunday_holiday,1,dry,0,low
+Banderas,Americas,8,weekday,0,dry,0,high
+Calle 100,Caracas,9,sunday_holiday,0,dry,0,low
+Calle 26,Calle 26,10,weekday,1,rain,0,high
+Héroes,Caracas,7,weekday,0,dry,0,high
+Corferias,Calle 26,15,weekday,0,dry,1,high
+Calle 34,Caracas,11,saturday,0,rain,0,medium
+Ricaurte,NQS,17,weekday,1,dry,0,high
+Concejo de Bogotá,Calle 26,13,weekday,0,dry,0,medium
+Ricaurte,NQS,12,saturday,1,dry,0,medium
+Centro Memoria,Calle 26,13,weekday,1,rain,0,high
+Normandía,Calle 26,7,weekday,0,dry,1,high
+Portal Américas,Americas,17,weekday,0,dry,1,high
+Normandía,Calle 26,6,weekday,0,rain,0,high
+Marsella,Americas,17,weekday,0,rain,0,high
+Puente Aranda,Americas,22,weekday,0,rain,0,low
+Concejo de Bogotá,Calle 26,18,saturday,0,dry,0,medium
+Centro Memoria,NQS,13,weekday,1,dry,0,high
+Calle 34,Caracas,10,weekday,0,dry,0,medium
+Ricaurte,NQS,20,weekday,1,rain,0,medium
+Centro Memoria,NQS,9,weekday,1,dry,0,high
+Banderas,Americas,13,weekday,0,rain,0,medium
+Calle 26,Calle 26,18,weekday,1,dry,0,high
+Ricaurte,NQS,21,weekday,1,dry,0,low
+Normandía,Calle 26,21,weekday,0,dry,1,medium
+Calle 45,Caracas,6,sunday_holiday,0,dry,0,low
+Calle 63,Caracas,21,sunday_holiday,0,dry,0,low
+Corferias,Calle 26,7,weekday,0,rain,0,high
+Calle 26,Caracas,15,weekday,1,rain,0,high
+Calle 72,Caracas,21,weekday,0,dry,0,low
+Modelia,Calle 26,16,sunday_holiday,0,rain,0,low
+Centro Memoria,NQS,22,weekday,1,dry,0,low
+Calle 26,Caracas,11,weekday,1,rain,0,high
+Marsella,Americas,10,weekday,0,dry,0,medium
+Ricaurte,Americas,10,weekday,1,dry,0,high
+Av. Rojas,Calle 26,11,weekday,0,dry,0,low
+Marsella,Americas,17,sunday_holiday,0,dry,0,low
+Modelia,Calle 26,13,sunday_holiday,0,rain,0,low
+Calle 63,Caracas,18,weekday,0,rain,0,high
+Calle 100,Caracas,12,weekday,0,dry,1,high
+Marsella,Americas,10,weekday,0,dry,0,low
+Puente Aranda,Americas,8,weekday,0,dry,1,high
+Ricaurte,Americas,14,weekday,1,dry,1,high
+Calle 72,Caracas,21,weekday,0,dry,0,low
+Calle 26,Calle 26,20,sunday_holiday,1,rain,0,medium
+Calle 100,Caracas,9,sunday_holiday,0,dry,0,low
+Héroes,Caracas,13,saturday,0,dry,0,low
+Calle 34,Caracas,17,saturday,0,dry,0,low
+Concejo de Bogotá,Calle 26,16,weekday,0,dry,0,low
+Héroes,Caracas,6,weekday,0,dry,0,high
+Puente Aranda,Americas,15,weekday,0,dry,0,low
+Normandía,Calle 26,5,weekday,0,dry,0,low
+Calle 26,Calle 26,7,weekday,1,rain,0,high
+Av. Rojas,Calle 26,16,sunday_holiday,0,dry,0,low
+Ricaurte,NQS,6,weekday,1,dry,0,high
+Calle 26,Caracas,11,weekday,1,dry,0,medium
+Héroes,Caracas,15,weekday,0,rain,1,high
+Héroes,Caracas,16,sunday_holiday,0,dry,0,low
+Portal Américas,Americas,13,weekday,0,dry,0,medium
+Calle 72,Caracas,6,weekday,0,rain,0,high
+Centro Memoria,Calle 26,19,weekday,1,rain,0,high
+Portal Eldorado,Calle 26,22,saturday,0,rain,0,low
+Ricaurte,Americas,20,sunday_holiday,1,dry,0,low
+Héroes,Caracas,18,weekday,0,dry,0,high
+Banderas,Americas,12,sunday_holiday,0,rain,0,low
+Calle 75,NQS,20,weekday,0,dry,0,low
+Normandía,Calle 26,13,saturday,0,dry,0,medium
+Calle 45,Caracas,7,weekday,0,dry,0,high
+Puente Aranda,Americas,20,weekday,0,dry,0,low
+Calle 26,Calle 26,10,saturday,1,dry,1,medium
+Av. Rojas,Calle 26,21,weekday,0,dry,0,low
+Modelia,Calle 26,11,weekday,0,dry,0,low
+Calle 34,Caracas,20,sunday_holiday,0,dry,0,low
+Modelia,Calle 26,14,sunday_holiday,0,dry,0,low
+Calle 63,Caracas,13,weekday,0,dry,0,low
+Calle 100,Caracas,10,saturday,0,dry,1,low
+Calle 26,Calle 26,20,saturday,1,dry,0,medium
+Calle 72,Caracas,6,weekday,0,dry,0,high
+Modelia,Calle 26,13,sunday_holiday,0,dry,0,low
+Portal Américas,Americas,11,weekday,0,dry,0,medium
+Calle 63,Caracas,14,saturday,0,dry,0,medium
+Calle 100,Caracas,9,weekday,0,rain,1,high
+Calle 72,Caracas,16,weekday,0,rain,0,high
+Av. Rojas,Calle 26,11,weekday,0,rain,0,medium
+Calle 26,Calle 26,8,weekday,1,dry,0,high
+Av. Rojas,Calle 26,8,sunday_holiday,0,dry,0,low
+Calle 100,Caracas,17,sunday_holiday,0,dry,0,low
+Calle 26,Caracas,9,weekday,1,rain,0,high
+Modelia,Calle 26,10,weekday,0,dry,0,medium
+Modelia,Calle 26,16,weekday,0,dry,0,medium
+Corferias,Calle 26,10,weekday,0,dry,0,medium
+Ricaurte,Americas,11,weekday,1,dry,0,high
+Normandía,Calle 26,9,sunday_holiday,0,dry,0,low
+Portal Américas,Americas,11,saturday,0,rain,0,medium
+Corferias,Calle 26,17,weekday,0,dry,0,high
+Calle 34,Caracas,14,weekday,0,dry,1,medium
+Calle 34,Caracas,22,saturday,0,rain,0,medium
+Calle 26,Caracas,18,weekday,1,dry,0,high
+Concejo de Bogotá,Calle 26,5,weekday,0,dry,0,low
+Calle 34,Caracas,11,weekday,0,dry,0,medium
+Marsella,Americas,10,weekday,0,dry,0,low
+Av. Rojas,Calle 26,15,weekday,0,dry,1,medium
+Portal Américas,Americas,9,saturday,0,dry,1,medium
+Centro Memoria,NQS,22,weekday,1,dry,0,low
+Calle 26,Caracas,10,weekday,1,dry,0,medium
+Calle 34,Caracas,14,weekday,0,dry,0,medium
+Ricaurte,Americas,7,sunday_holiday,1,rain,0,medium
+Calle 26,Caracas,21,weekday,1,dry,0,low
+Calle 34,Caracas,21,weekday,0,dry,0,low
+Marsella,Americas,19,weekday,0,dry,0,high
+Av. Rojas,Calle 26,11,weekday,0,dry,1,medium
+Héroes,Caracas,6,weekday,0,dry,0,high
+Av. Rojas,Calle 26,17,saturday,0,dry,0,low
+Normandía,Calle 26,12,weekday,0,rain,0,high
+Portal Américas,Americas,22,weekday,0,rain,0,low
+Calle 75,NQS,17,weekday,0,dry,0,high
+Calle 45,Caracas,14,saturday,0,dry,1,low
+Calle 63,Caracas,22,sunday_holiday,0,rain,0,low
+Concejo de Bogotá,Calle 26,19,saturday,0,rain,0,medium
+Héroes,Caracas,13,weekday,0,rain,0,medium
+Calle 26,Caracas,5,saturday,1,dry,0,medium
+Calle 63,Caracas,6,saturday,0,dry,0,low
+Calle 100,Caracas,12,weekday,0,dry,0,medium
+Marsella,Americas,15,weekday,0,rain,0,medium
+Calle 72,Caracas,5,saturday,0,rain,0,medium
+Calle 100,Caracas,7,weekday,0,rain,1,high
+Marsella,Americas,17,saturday,0,dry,0,low
+Calle 45,Caracas,18,weekday,0,rain,0,high
+Ricaurte,NQS,5,weekday,1,dry,0,medium
+Calle 100,Caracas,14,weekday,0,dry,0,medium
+Calle 63,Caracas,6,saturday,0,dry,0,low
+Calle 72,Caracas,18,sunday_holiday,0,dry,0,low
+Calle 75,NQS,20,weekday,0,rain,0,low
+Centro Memoria,Calle 26,20,weekday,1,dry,0,medium
+Normandía,Calle 26,15,weekday,0,dry,0,medium
+Calle 34,Caracas,16,weekday,0,dry,0,low
+Calle 72,Caracas,21,sunday_holiday,0,dry,0,low
+Concejo de Bogotá,Calle 26,16,weekday,0,dry,0,medium
+Calle 34,Caracas,13,weekday,0,dry,0,medium
+Concejo de Bogotá,Calle 26,18,weekday,0,dry,0,high
+Centro Memoria,NQS,15,sunday_holiday,1,dry,0,low
+Portal Américas,Americas,20,weekday,0,rain,0,low
+Av. Rojas,Calle 26,14,saturday,0,rain,0,medium
+Calle 100,Caracas,20,weekday,0,rain,0,medium
+Calle 26,Calle 26,5,weekday,1,dry,0,medium
+Portal Américas,Americas,5,saturday,0,dry,0,low
+Corferias,Calle 26,6,weekday,0,dry,0,high
+Centro Memoria,Calle 26,15,saturday,1,rain,1,high
+Normandía,Calle 26,17,weekday,0,dry,0,high
+Calle 63,Caracas,8,saturday,0,dry,0,medium
+Banderas,Americas,7,saturday,0,dry,0,low
+Ricaurte,Americas,20,saturday,1,dry,1,medium
+Puente Aranda,Americas,18,weekday,0,dry,0,medium
+Portal Américas,Americas,16,saturday,0,dry,0,medium
+Calle 26,Calle 26,13,sunday_holiday,1,dry,0,low
+Calle 34,Caracas,12,weekday,0,dry,0,medium
+Calle 34,Caracas,5,weekday,0,rain,0,low
+Marsella,Americas,8,sunday_holiday,0,dry,0,low
+Corferias,Calle 26,21,weekday,0,dry,0,low
+Normandía,Calle 26,11,saturday,0,dry,0,low
+Puente Aranda,Americas,17,saturday,0,rain,0,medium
+Concejo de Bogotá,Calle 26,17,weekday,0,dry,0,high
+Banderas,Americas,10,weekday,0,dry,0,medium
+Puente Aranda,Americas,8,weekday,0,dry,0,high
+Héroes,Caracas,17,weekday,0,dry,0,high
+Portal Eldorado,Calle 26,6,sunday_holiday,0,dry,0,low
+Calle 75,NQS,13,weekday,0,rain,0,medium
+Ricaurte,NQS,20,weekday,1,dry,0,medium
+Calle 63,Caracas,17,sunday_holiday,0,rain,0,low
+Calle 26,Caracas,18,weekday,1,dry,0,high
+Corferias,Calle 26,6,sunday_holiday,0,dry,0,low
+Ricaurte,NQS,8,weekday,1,rain,0,high
+Calle 72,Caracas,9,weekday,0,rain,0,low
+Concejo de Bogotá,Calle 26,10,weekday,0,dry,1,high
+Calle 26,Calle 26,8,saturday,1,dry,0,medium
+Calle 45,Caracas,22,saturday,0,dry,0,medium
+Av. Rojas,Calle 26,7,sunday_holiday,0,rain,0,low
+Modelia,Calle 26,17,sunday_holiday,0,dry,0,low
+Centro Memoria,Calle 26,15,saturday,1,dry,0,medium
+Calle 26,Caracas,15,saturday,1,dry,0,low
+Ricaurte,NQS,8,weekday,1,rain,0,high
+Héroes,Caracas,10,sunday_holiday,0,dry,0,low
+Portal Américas,Americas,15,saturday,0,dry,0,low
+Calle 100,Caracas,10,sunday_holiday,0,dry,0,low
+Calle 75,NQS,17,weekday,0,dry,1,high
+Calle 26,Caracas,5,weekday,1,dry,0,medium
+Portal Eldorado,Calle 26,6,saturday,0,dry,0,low
+Calle 100,Caracas,18,weekday,0,dry,0,medium
+Calle 75,NQS,16,weekday,0,dry,0,medium
+Calle 63,Caracas,5,sunday_holiday,0,dry,0,low
+Centro Memoria,NQS,21,weekday,1,dry,0,low
+Calle 75,NQS,5,weekday,0,dry,0,low
+Portal Américas,Americas,22,weekday,0,dry,1,low
+Calle 75,NQS,18,weekday,0,dry,0,medium
+Calle 26,Calle 26,22,saturday,1,dry,0,low
+Calle 75,NQS,22,sunday_holiday,0,dry,0,low
+Ricaurte,NQS,10,sunday_holiday,1,dry,0,medium
+Calle 26,Caracas,18,saturday,1,dry,0,medium
+Calle 72,Caracas,8,saturday,0,dry,0,medium
+Banderas,Americas,13,weekday,0,dry,0,medium
+Calle 63,Caracas,9,sunday_holiday,0,dry,0,low
+Concejo de Bogotá,Calle 26,13,weekday,0,rain,0,high
+Calle 34,Caracas,20,weekday,0,dry,0,low
+Calle 72,Caracas,12,sunday_holiday,0,dry,0,low
+Ricaurte,Americas,6,sunday_holiday,1,dry,0,low
+Calle 63,Caracas,10,weekday,0,dry,0,medium
+Centro Memoria,NQS,19,saturday,1,dry,0,medium
+Centro Memoria,NQS,14,weekday,1,dry,0,high
+Héroes,Caracas,15,weekday,0,dry,0,medium
+Calle 63,Caracas,12,weekday,0,dry,0,high
+Ricaurte,NQS,10,weekday,1,dry,0,medium
+Av. Rojas,Calle 26,15,weekday,0,dry,0,low
+Calle 72,Caracas,16,weekday,0,dry,0,low
+Puente Aranda,Americas,21,weekday,0,dry,0,low
+Calle 26,Calle 26,16,weekday,1,dry,0,medium
+Calle 100,Caracas,22,sunday_holiday,0,dry,0,low
+Marsella,Americas,19,saturday,0,rain,0,medium
+Calle 100,Caracas,6,sunday_holiday,0,rain,0,low
+Corferias,Calle 26,12,weekday,0,dry,0,low
+Puente Aranda,Americas,11,saturday,0,rain,0,low
+Concejo de Bogotá,Calle 26,5,sunday_holiday,0,dry,0,low
+Concejo de Bogotá,Calle 26,8,weekday,0,dry,1,high
+Portal Eldorado,Calle 26,18,weekday,0,rain,0,high
+Calle 72,Caracas,11,weekday,0,dry,0,low
+Concejo de Bogotá,Calle 26,7,weekday,0,dry,0,medium
+Banderas,Americas,10,weekday,0,dry,0,medium
+Calle 72,Caracas,9,weekday,0,dry,0,low
+Banderas,Americas,8,weekday,0,dry,0,medium
+Modelia,Calle 26,6,saturday,0,rain,0,low
+Corferias,Calle 26,18,weekday,0,rain,1,high
+Calle 63,Caracas,19,weekday,0,dry,0,medium
+Centro Memoria,Calle 26,13,saturday,1,dry,0,medium
+Calle 45,Caracas,16,weekday,0,dry,0,low
+Calle 26,Calle 26,21,weekday,1,dry,0,low
+Calle 75,NQS,20,weekday,0,rain,0,low
+Héroes,Caracas,5,weekday,0,dry,0,medium
+Normandía,Calle 26,22,weekday,0,dry,0,low
+Concejo de Bogotá,Calle 26,6,weekday,0,dry,0,high
+Calle 63,Caracas,5,weekday,0,dry,0,low
+Calle 26,Calle 26,12,sunday_holiday,1,dry,0,low
+Calle 26,Caracas,18,sunday_holiday,1,rain,0,medium
+Centro Memoria,NQS,6,weekday,1,dry,0,high
+Puente Aranda,Americas,10,weekday,0,dry,0,medium
+Portal Américas,Americas,9,weekday,0,dry,0,medium
+Calle 45,Caracas,12,sunday_holiday,0,dry,0,low
+Calle 100,Caracas,22,sunday_holiday,0,rain,0,low
+Héroes,Caracas,10,weekday,0,dry,0,medium
+Concejo de Bogotá,Calle 26,8,weekday,0,rain,0,high
+Calle 63,Caracas,7,weekday,0,rain,0,high
+Calle 34,Caracas,8,sunday_holiday,0,dry,0,low
+Portal Américas,Americas,7,sunday_holiday,0,dry,0,low
+Banderas,Americas,15,weekday,0,dry,0,medium
+Portal Américas,Americas,12,weekday,0,rain,0,high
+Calle 34,Caracas,13,weekday,0,dry,0,low
+Centro Memoria,Calle 26,19,saturday,1,dry,0,high
+Centro Memoria,Calle 26,15,sunday_holiday,1,dry,0,low
+Calle 45,Caracas,7,weekday,0,dry,0,medium
+Corferias,Calle 26,11,weekday,0,dry,0,medium
+Corferias,Calle 26,10,weekday,0,rain,0,medium
+Modelia,Calle 26,19,weekday,0,dry,0,high
+Ricaurte,Americas,10,sunday_holiday,1,dry,0,low
+Centro Memoria,NQS,7,weekday,1,dry,1,high
+Corferias,Calle 26,18,sunday_holiday,0,dry,0,low
+Calle 75,NQS,12,weekday,0,dry,0,medium
+Ricaurte,Americas,6,weekday,1,dry,0,high
+Concejo de Bogotá,Calle 26,17,weekday,0,rain,0,high
+Calle 26,Calle 26,8,weekday,1,dry,0,high
+Ricaurte,Americas,20,weekday,1,dry,0,medium
+Calle 75,NQS,19,saturday,0,dry,0,low
+Puente Aranda,Americas,11,weekday,0,dry,0,medium
+Calle 63,Caracas,15,weekday,0,dry,0,low
+Modelia,Calle 26,15,weekday,0,dry,0,low
+Marsella,Americas,16,weekday,0,dry,1,high
+Av. Rojas,Calle 26,6,sunday_holiday,0,dry,0,low
+Marsella,Americas,10,sunday_holiday,0,dry,0,low
+Calle 100,Caracas,8,weekday,0,dry,0,medium
+Calle 100,Caracas,17,saturday,0,dry,0,low
+Ricaurte,NQS,6,saturday,1,dry,0,medium
+Portal Eldorado,Calle 26,14,sunday_holiday,0,rain,0,low
+Av. Rojas,Calle 26,18,weekday,0,dry,0,high
+Modelia,Calle 26,22,weekday,0,dry,0,low
+Modelia,Calle 26,10,weekday,0,dry,0,low
+Marsella,Americas,5,sunday_holiday,0,dry,0,low
+Calle 72,Caracas,18,saturday,0,dry,0,low
+Ricaurte,Americas,5,weekday,1,rain,0,high
+Banderas,Americas,6,weekday,0,dry,0,high
+Centro Memoria,NQS,22,saturday,1,dry,1,medium
+Modelia,Calle 26,20,sunday_holiday,0,rain,0,low
+Calle 63,Caracas,17,weekday,0,rain,0,high
+Centro Memoria,NQS,20,saturday,1,dry,0,medium
+Normandía,Calle 26,6,weekday,0,dry,0,high
+Calle 63,Caracas,6,weekday,0,dry,0,medium
+Portal Eldorado,Calle 26,10,weekday,0,rain,0,medium
+Puente Aranda,Americas,5,saturday,0,dry,0,medium
+Calle 26,Calle 26,20,sunday_holiday,1,rain,0,low
+Calle 45,Caracas,6,weekday,0,dry,0,high
+Centro Memoria,NQS,14,weekday,1,dry,0,medium
+Calle 45,Caracas,20,weekday,0,dry,0,medium
+Marsella,Americas,18,weekday,0,dry,0,high
+Portal Américas,Americas,9,weekday,0,dry,0,medium
+Puente Aranda,Americas,13,weekday,0,rain,0,high
+Banderas,Americas,14,weekday,0,dry,0,medium
+Calle 34,Caracas,18,weekday,0,dry,0,high
+Calle 45,Caracas,12,weekday,0,dry,0,high
+Calle 26,Caracas,10,saturday,1,dry,0,medium
+Normandía,Calle 26,19,weekday,0,dry,0,medium
+Banderas,Americas,20,saturday,0,dry,0,low
+Calle 75,NQS,13,sunday_holiday,0,rain,0,low
+Centro Memoria,Calle 26,5,weekday,1,dry,0,medium
+Banderas,Americas,14,weekday,0,rain,0,high
+Centro Memoria,Calle 26,21,weekday,1,dry,0,low
+Portal Eldorado,Calle 26,22,weekday,0,dry,0,low
+Modelia,Calle 26,12,weekday,0,dry,1,high
+Av. Rojas,Calle 26,7,weekday,0,dry,0,high
+Calle 72,Caracas,15,weekday,0,rain,0,high
+Ricaurte,Americas,19,weekday,1,dry,0,high
+Centro Memoria,NQS,22,weekday,1,rain,1,medium
+Calle 75,NQS,5,saturday,0,dry,0,low
+Corferias,Calle 26,10,weekday,0,dry,0,medium
+Ricaurte,NQS,13,weekday,1,dry,0,high
+Marsella,Americas,6,sunday_holiday,0,rain,0,low
+Concejo de Bogotá,Calle 26,20,weekday,0,dry,0,low
+Normandía,Calle 26,7,saturday,0,dry,0,low
+Calle 72,Caracas,16,weekday,0,rain,0,medium
+Ricaurte,Americas,21,weekday,1,dry,0,low
+Banderas,Americas,17,sunday_holiday,0,dry,1,medium
+Calle 75,NQS,18,weekday,0,dry,0,high
+Portal Américas,Americas,9,weekday,0,rain,0,high
+Portal Américas,Americas,19,sunday_holiday,0,dry,0,low
+Ricaurte,NQS,12,saturday,1,dry,0,low
+Av. Rojas,Calle 26,6,saturday,0,dry,0,low
+Calle 72,Caracas,11,weekday,0,dry,0,medium
+Calle 100,Caracas,11,weekday,0,rain,0,high
+Calle 45,Caracas,14,saturday,0,dry,0,low
+Modelia,Calle 26,9,weekday,0,dry,0,low
+Ricaurte,Americas,13,weekday,1,dry,0,high
+Normandía,Calle 26,12,saturday,0,dry,1,medium
+Calle 100,Caracas,10,weekday,0,dry,0,medium
+Calle 45,Caracas,17,weekday,0,dry,0,high
+Puente Aranda,Americas,10,weekday,0,dry,0,medium
+Puente Aranda,Americas,18,weekday,0,dry,0,high
+Portal Eldorado,Calle 26,9,saturday,0,dry,0,low
+Ricaurte,NQS,20,sunday_holiday,1,dry,0,low
+Calle 75,NQS,11,weekday,0,dry,0,medium
+Marsella,Americas,5,weekday,0,dry,0,low
+Banderas,Americas,7,weekday,0,dry,0,high
+Centro Memoria,Calle 26,19,weekday,1,dry,0,high
+Modelia,Calle 26,20,weekday,0,dry,0,low
+Centro Memoria,Calle 26,8,sunday_holiday,1,dry,0,low
+Calle 26,Caracas,15,weekday,1,dry,0,high
+Portal Eldorado,Calle 26,15,weekday,0,rain,0,medium
+Centro Memoria,Calle 26,7,sunday_holiday,1,rain,0,low
+Concejo de Bogotá,Calle 26,13,weekday,0,dry,0,low
+Concejo de Bogotá,Calle 26,17,sunday_holiday,0,dry,0,low
+Portal Eldorado,Calle 26,22,weekday,0,dry,0,low
+Modelia,Calle 26,20,weekday,0,dry,0,low
+Calle 100,Caracas,6,sunday_holiday,0,dry,0,low
+Concejo de Bogotá,Calle 26,9,weekday,0,dry,0,medium
+Concejo de Bogotá,Calle 26,12,weekday,0,dry,0,low
+Marsella,Americas,7,weekday,0,rain,0,high
+Av. Rojas,Calle 26,15,saturday,0,dry,0,medium
+Normandía,Calle 26,5,weekday,0,dry,0,low
+Héroes,Caracas,7,weekday,0,dry,0,high
+Calle 45,Caracas,5,saturday,0,dry,0,low
+Calle 26,Caracas,10,saturday,1,rain,1,high
+Portal Eldorado,Calle 26,18,weekday,0,rain,0,high
+Portal Eldorado,Calle 26,8,weekday,0,rain,0,high
+Modelia,Calle 26,22,weekday,0,dry,0,low
+Ricaurte,Americas,9,weekday,1,dry,0,high
+Calle 63,Caracas,5,weekday,0,dry,0,low
+Calle 26,Caracas,11,weekday,1,rain,0,medium
+Calle 63,Caracas,18,weekday,0,dry,0,high
+Calle 26,Caracas,6,weekday,1,rain,0,high
+Centro Memoria,NQS,6,saturday,1,dry,0,medium
+Héroes,Caracas,20,weekday,0,dry,0,low
+Calle 26,Caracas,15,sunday_holiday,1,dry,0,low
+Calle 100,Caracas,11,sunday_holiday,0,dry,0,low
+Marsella,Americas,18,weekday,0,rain,0,high
+Calle 75,NQS,20,sunday_holiday,0,dry,0,low
+Calle 34,Caracas,11,sunday_holiday,0,dry,0,low
+Calle 45,Caracas,15,weekday,0,dry,0,high
+Calle 72,Caracas,5,saturday,0,dry,0,low
+Normandía,Calle 26,10,weekday,0,dry,1,medium
+Ricaurte,Americas,15,saturday,1,rain,0,medium
+Concejo de Bogotá,Calle 26,8,weekday,0,dry,0,high
+Banderas,Americas,22,weekday,0,dry,0,low
+Calle 26,Caracas,22,weekday,1,rain,0,low
+Calle 26,Calle 26,9,sunday_holiday,1,dry,0,low
+Normandía,Calle 26,12,weekday,0,dry,0,medium
+Calle 45,Caracas,8,weekday,0,dry,0,medium
+Puente Aranda,Americas,14,weekday,0,rain,0,low
+Calle 45,Caracas,7,weekday,0,dry,0,high
+Av. Rojas,Calle 26,12,sunday_holiday,0,dry,0,low
+Corferias,Calle 26,14,saturday,0,dry,0,medium
+Héroes,Caracas,16,weekday,0,rain,0,high
+Normandía,Calle 26,15,weekday,0,dry,0,medium
+Normandía,Calle 26,8,weekday,0,dry,0,high
+Calle 34,Caracas,19,weekday,0,dry,1,high
+Calle 72,Caracas,17,sunday_holiday,0,rain,0,medium
+Héroes,Caracas,18,saturday,0,dry,0,low
+Calle 100,Caracas,13,weekday,0,dry,0,low
+Av. Rojas,Calle 26,21,weekday,0,dry,0,low
+Calle 72,Caracas,12,weekday,0,dry,0,high
+Puente Aranda,Americas,19,weekday,0,rain,0,high
+Calle 34,Caracas,8,weekday,0,rain,0,high
+Centro Memoria,NQS,9,saturday,1,dry,0,medium
+Centro Memoria,NQS,14,weekday,1,dry,0,high
+Av. Rojas,Calle 26,15,sunday_holiday,0,dry,0,low
+Banderas,Americas,18,weekday,0,dry,0,high
+Calle 72,Caracas,10,weekday,0,dry,1,medium
+Calle 34,Caracas,20,weekday,0,dry,0,medium
+Calle 34,Caracas,10,weekday,0,dry,0,medium
+Calle 63,Caracas,14,weekday,0,dry,0,low
+Calle 26,Calle 26,21,weekday,1,dry,0,low
+Calle 26,Caracas,14,saturday,1,dry,0,medium
+Ricaurte,Americas,17,weekday,1,dry,0,high
+Calle 26,Calle 26,21,saturday,1,dry,0,low
+Banderas,Americas,22,saturday,0,dry,0,low
+Ricaurte,Americas,13,weekday,1,dry,0,high
+Banderas,Americas,12,weekday,0,rain,0,medium
+Calle 72,Caracas,8,weekday,0,dry,0,high
+Puente Aranda,Americas,14,weekday,0,rain,0,medium
+Centro Memoria,Calle 26,21,saturday,1,dry,0,low
+Puente Aranda,Americas,13,sunday_holiday,0,rain,0,low
+Portal Eldorado,Calle 26,11,weekday,0,dry,0,medium
+Marsella,Americas,6,weekday,0,dry,1,high
+Concejo de Bogotá,Calle 26,12,saturday,0,rain,0,high
+Héroes,Caracas,9,saturday,0,dry,0,medium
+Modelia,Calle 26,22,weekday,0,dry,0,low
+Calle 63,Caracas,14,sunday_holiday,0,dry,1,medium
+Marsella,Americas,7,weekday,0,dry,0,high
+Calle 26,Caracas,6,weekday,1,dry,0,high
+Calle 34,Caracas,20,weekday,0,dry,0,low
+Corferias,Calle 26,21,weekday,0,dry,0,low
+Modelia,Calle 26,18,sunday_holiday,0,dry,0,low
+Calle 72,Caracas,7,weekday,0,dry,0,high
+Ricaurte,NQS,6,weekday,1,rain,0,high
+Portal Américas,Americas,8,weekday,0,dry,0,high
+Ricaurte,Americas,18,weekday,1,rain,0,high
+Centro Memoria,Calle 26,18,weekday,1,dry,0,high
+Modelia,Calle 26,20,weekday,0,dry,0,medium
+Corferias,Calle 26,6,saturday,0,dry,1,medium
+Av. Rojas,Calle 26,7,weekday,0,rain,0,high
+Calle 63,Caracas,21,saturday,0,dry,0,low
+Héroes,Caracas,21,weekday,0,dry,0,low
+Calle 34,Caracas,18,saturday,0,dry,0,low
+Normandía,Calle 26,6,sunday_holiday,0,dry,0,low
+Calle 63,Caracas,6,weekday,0,dry,0,medium
+Calle 72,Caracas,6,weekday,0,dry,0,medium
+Portal Américas,Americas,17,sunday_holiday,0,dry,0,low
+Portal Eldorado,Calle 26,20,weekday,0,rain,0,medium
+Concejo de Bogotá,Calle 26,16,saturday,0,rain,0,medium
+Corferias,Calle 26,9,weekday,0,dry,0,medium
+Calle 75,NQS,18,weekday,0,dry,0,high
+Ricaurte,Americas,6,weekday,1,dry,0,high
+Calle 26,Calle 26,19,sunday_holiday,1,rain,0,medium
+Portal Américas,Americas,21,weekday,0,rain,0,low
+Portal Eldorado,Calle 26,17,saturday,0,dry,0,low
+Portal Américas,Americas,20,saturday,0,dry,0,low
+Modelia,Calle 26,15,weekday,0,dry,0,low
+Calle 72,Caracas,13,weekday,0,rain,1,medium
+Ricaurte,Americas,10,weekday,1,rain,1,high
+Calle 100,Caracas,21,weekday,0,dry,0,low
+Ricaurte,Americas,17,saturday,1,dry,0,medium
+Calle 100,Caracas,8,weekday,0,rain,0,high
+Calle 45,Caracas,22,weekday,0,rain,0,low
+Concejo de Bogotá,Calle 26,6,saturday,0,dry,0,low
+Marsella,Americas,15,weekday,0,rain,0,medium
+Modelia,Calle 26,8,weekday,0,dry,0,high
+Calle 72,Caracas,16,weekday,0,rain,0,medium
+Calle 34,Caracas,12,weekday,0,dry,0,medium
+Banderas,Americas,12,saturday,0,dry,0,low
+Calle 75,NQS,17,weekday,0,dry,0,high
+Calle 72,Caracas,18,weekday,0,dry,0,high
+Portal Eldorado,Calle 26,11,weekday,0,dry,0,high
+Calle 26,Calle 26,22,weekday,1,rain,0,low
+Calle 45,Caracas,13,saturday,0,dry,0,medium
+Portal Américas,Americas,7,weekday,0,dry,0,high
+Centro Memoria,Calle 26,5,sunday_holiday,1,rain,0,medium
+Calle 45,Caracas,8,sunday_holiday,0,dry,0,low
+Centro Memoria,Calle 26,17,weekday,1,dry,0,high
+Modelia,Calle 26,14,saturday,0,rain,0,medium
+Héroes,Caracas,11,weekday,0,dry,0,medium
+Normandía,Calle 26,13,sunday_holiday,0,dry,1,medium
+Calle 45,Caracas,20,weekday,0,dry,0,low
+Calle 34,Caracas,15,weekday,0,dry,0,medium
+Banderas,Americas,6,weekday,0,rain,0,medium
+Calle 75,NQS,5,weekday,0,rain,0,low
+Calle 63,Caracas,13,saturday,0,dry,0,low
+Portal Américas,Americas,12,weekday,0,dry,0,low
+Concejo de Bogotá,Calle 26,20,weekday,0,dry,0,low
+Banderas,Americas,15,weekday,0,rain,0,medium
+Ricaurte,Americas,18,sunday_holiday,1,dry,1,medium
+Calle 26,Caracas,15,saturday,1,dry,0,medium
+Corferias,Calle 26,11,weekday,0,dry,0,medium
+Corferias,Calle 26,16,weekday,0,dry,0,low
+Calle 75,NQS,16,weekday,0,dry,0,medium
+Calle 34,Caracas,17,sunday_holiday,0,dry,0,low
+Calle 26,Caracas,8,saturday,1,dry,0,medium
+Calle 34,Caracas,16,weekday,0,rain,1,high
+Calle 26,Calle 26,10,sunday_holiday,1,dry,0,low
+Calle 63,Caracas,19,weekday,0,dry,1,high
+Calle 100,Caracas,19,saturday,0,dry,0,low
+Marsella,Americas,16,weekday,0,dry,0,medium
+Héroes,Caracas,22,weekday,0,dry,0,low
+Banderas,Americas,14,weekday,0,rain,0,medium
+Calle 100,Caracas,5,weekday,0,dry,0,medium
+Ricaurte,Americas,15,sunday_holiday,1,dry,0,low
+Calle 26,Caracas,18,weekday,1,dry,0,high
+Av. Rojas,Calle 26,6,sunday_holiday,0,dry,0,low
+Calle 26,Calle 26,6,saturday,1,dry,0,high
+Av. Rojas,Calle 26,9,saturday,0,rain,0,medium
+Normandía,Calle 26,20,sunday_holiday,0,dry,0,low
+Corferias,Calle 26,14,weekday,0,dry,1,medium
+Modelia,Calle 26,22,weekday,0,dry,0,low
+Corferias,Calle 26,20,weekday,0,dry,0,low
+Ricaurte,NQS,14,weekday,1,dry,0,high
+Modelia,Calle 26,17,sunday_holiday,0,dry,0,low
+Portal Eldorado,Calle 26,10,weekday,0,dry,0,medium
+Calle 63,Caracas,6,weekday,0,rain,0,high
+Portal Eldorado,Calle 26,12,weekday,0,rain,0,medium
+Calle 72,Caracas,15,weekday,0,dry,0,medium
+Calle 45,Caracas,8,saturday,0,rain,0,medium
+Marsella,Americas,8,weekday,0,dry,0,medium
+Calle 72,Caracas,5,saturday,0,dry,0,low
+Av. Rojas,Calle 26,18,saturday,0,dry,0,medium
+Portal Américas,Americas,21,saturday,0,rain,0,low
+Marsella,Americas,19,weekday,0,rain,0,high
+Calle 63,Caracas,11,saturday,0,dry,0,medium
+Calle 63,Caracas,15,weekday,0,dry,0,low
+Portal Eldorado,Calle 26,22,weekday,0,rain,0,low
+Corferias,Calle 26,15,saturday,0,rain,0,low
+Puente Aranda,Americas,10,saturday,0,rain,0,low
+Calle 45,Caracas,11,weekday,0,dry,0,medium
+Calle 63,Caracas,18,sunday_holiday,0,rain,0,low
+Calle 34,Caracas,13,weekday,0,dry,0,medium
+Banderas,Americas,20,weekday,0,dry,0,medium
+Calle 100,Caracas,20,sunday_holiday,0,dry,0,low
+Portal Eldorado,Calle 26,5,weekday,0,dry,0,low
+Calle 72,Caracas,18,sunday_holiday,0,dry,0,low
+Calle 63,Caracas,11,weekday,0,dry,0,medium
+Marsella,Americas,14,saturday,0,dry,0,low
+Calle 100,Caracas,9,saturday,0,dry,0,low
+Calle 26,Caracas,11,saturday,1,dry,0,high
+Marsella,Americas,10,weekday,0,dry,0,low
+Concejo de Bogotá,Calle 26,5,saturday,0,dry,0,medium
+Héroes,Caracas,19,weekday,0,dry,0,high
+Normandía,Calle 26,7,sunday_holiday,0,rain,0,low
+Puente Aranda,Americas,11,weekday,0,dry,0,medium
+Modelia,Calle 26,8,weekday,0,dry,0,high
+Corferias,Calle 26,7,sunday_holiday,0,dry,0,low
+Corferias,Calle 26,11,weekday,0,dry,0,medium
+Centro Memoria,NQS,21,weekday,1,rain,0,low
+Calle 45,Caracas,21,saturday,0,dry,0,low
+Portal Américas,Americas,11,weekday,0,rain,0,medium
+Puente Aranda,Americas,14,weekday,0,dry,0,medium
+Calle 63,Caracas,22,weekday,0,dry,0,low
+Ricaurte,NQS,9,weekday,1,dry,0,medium
+Ricaurte,NQS,22,weekday,1,rain,0,medium
+Ricaurte,Americas,6,weekday,1,dry,0,high
+Portal Eldorado,Calle 26,9,weekday,0,dry,0,medium
+Normandía,Calle 26,11,weekday,0,dry,0,medium
+Portal Américas,Americas,5,weekday,0,rain,0,medium
+Calle 63,Caracas,19,saturday,0,rain,0,medium
+Portal Américas,Americas,20,saturday,0,dry,0,low
+Marsella,Americas,11,weekday,0,rain,0,medium
+Centro Memoria,NQS,20,weekday,1,dry,0,medium
+Calle 26,Caracas,18,sunday_holiday,1,rain,0,low
+Corferias,Calle 26,19,weekday,0,dry,0,high
+Héroes,Caracas,19,weekday,0,dry,0,high
+Marsella,Americas,15,weekday,0,dry,0,low
+Calle 26,Caracas,6,weekday,1,dry,0,high
+Héroes,Caracas,21,sunday_holiday,0,dry,0,low
+Ricaurte,NQS,15,sunday_holiday,1,dry,0,low
+Centro Memoria,NQS,21,sunday_holiday,1,dry,0,low
+Centro Memoria,Calle 26,22,weekday,1,dry,0,low
+Héroes,Caracas,8,weekday,0,dry,0,medium
+Ricaurte,Americas,12,weekday,1,dry,0,high
+Centro Memoria,Calle 26,8,weekday,1,dry,0,high
+Ricaurte,NQS,5,weekday,1,rain,0,medium
+Portal Américas,Americas,22,saturday,0,dry,0,low
+Calle 45,Caracas,21,weekday,0,dry,0,low
+Calle 45,Caracas,21,sunday_holiday,0,dry,0,low
+Marsella,Americas,20,weekday,0,dry,0,medium
+Corferias,Calle 26,16,weekday,0,dry,0,medium
+Normandía,Calle 26,14,sunday_holiday,0,dry,0,low
+Calle 26,Calle 26,22,saturday,1,rain,0,low
+Centro Memoria,Calle 26,14,weekday,1,dry,0,high
+Ricaurte,Americas,16,weekday,1,rain,0,high
+Calle 100,Caracas,8,weekday,0,dry,0,high
+Corferias,Calle 26,18,weekday,0,rain,0,high
+Puente Aranda,Americas,19,weekday,0,dry,0,high
+Calle 26,Calle 26,17,weekday,1,rain,0,high
+Calle 26,Calle 26,13,saturday,1,dry,0,medium
+Banderas,Americas,8,weekday,0,dry,0,medium
+Héroes,Caracas,5,saturday,0,dry,1,medium
+Modelia,Calle 26,16,saturday,0,dry,0,low
+Normandía,Calle 26,17,weekday,0,rain,0,high
+Ricaurte,NQS,18,weekday,1,dry,0,high
+Calle 72,Caracas,22,weekday,0,dry,0,low
+Modelia,Calle 26,13,saturday,0,dry,0,low
+Calle 63,Caracas,19,saturday,0,dry,0,medium
+Ricaurte,NQS,17,saturday,1,dry,0,medium
+Centro Memoria,Calle 26,9,weekday,1,dry,0,high
+Av. Rojas,Calle 26,20,weekday,0,dry,0,low
+Modelia,Calle 26,5,weekday,0,dry,0,low
+Calle 63,Caracas,15,weekday,0,dry,0,low
+Marsella,Americas,21,saturday,0,dry,0,low
+Centro Memoria,Calle 26,16,weekday,1,rain,0,high
+Calle 26,Caracas,21,weekday,1,rain,0,low
+Modelia,Calle 26,6,weekday,0,dry,0,high
+Calle 75,NQS,14,weekday,0,dry,0,low
+Calle 75,NQS,19,saturday,0,dry,0,low
+Normandía,Calle 26,16,weekday,0,dry,0,medium
+Calle 26,Calle 26,20,sunday_holiday,1,rain,0,medium
+Centro Memoria,NQS,13,sunday_holiday,1,dry,0,low
+Centro Memoria,NQS,17,sunday_holiday,1,dry,0,low
+Concejo de Bogotá,Calle 26,12,saturday,0,dry,0,low
+Héroes,Caracas,20,saturday,0,rain,0,medium
+Normandía,Calle 26,7,saturday,0,dry,0,medium
+Centro Memoria,Calle 26,9,weekday,1,dry,1,high
+Marsella,Americas,6,weekday,0,dry,0,high
+Corferias,Calle 26,17,weekday,0,dry,0,high
+Calle 26,Caracas,9,weekday,1,dry,0,medium
+Corferias,Calle 26,10,weekday,0,dry,0,medium
+Calle 45,Caracas,20,sunday_holiday,0,dry,0,low
+Calle 72,Caracas,11,weekday,0,dry,0,medium
+Centro Memoria,NQS,7,weekday,1,dry,0,high
+Puente Aranda,Americas,5,saturday,0,rain,0,medium
+Portal Américas,Americas,9,weekday,0,dry,0,medium
+Concejo de Bogotá,Calle 26,21,sunday_holiday,0,dry,0,low
+Calle 100,Caracas,14,weekday,0,dry,0,medium
+Puente Aranda,Americas,22,sunday_holiday,0,rain,0,low
+Normandía,Calle 26,8,saturday,0,dry,0,low
+Calle 26,Calle 26,11,weekday,1,rain,0,high
+Banderas,Americas,7,weekday,0,dry,0,high
+Ricaurte,Americas,12,weekday,1,dry,0,high
+Ricaurte,Americas,15,weekday,1,dry,0,medium
+Calle 26,Calle 26,19,weekday,1,dry,0,high
+Puente Aranda,Americas,11,sunday_holiday,0,rain,0,low
+Normandía,Calle 26,18,weekday,0,dry,0,high
+Corferias,Calle 26,16,sunday_holiday,0,dry,0,low
+Ricaurte,Americas,10,weekday,1,dry,0,high
+Centro Memoria,NQS,21,sunday_holiday,1,dry,0,low
+Calle 63,Caracas,12,weekday,0,dry,0,medium
+Calle 26,Calle 26,7,weekday,1,dry,0,high
+Portal Eldorado,Calle 26,22,weekday,0,dry,0,low
+Marsella,Americas,21,weekday,0,dry,0,low
+Calle 75,NQS,5,sunday_holiday,0,dry,0,low
+Portal Eldorado,Calle 26,21,weekday,0,dry,0,low
+Calle 75,NQS,22,weekday,0,dry,0,low
+Calle 75,NQS,19,weekday,0,dry,0,medium
+Modelia,Calle 26,9,saturday,0,dry,0,medium
+Modelia,Calle 26,16,weekday,0,dry,1,medium
+Banderas,Americas,14,weekday,0,dry,0,high
+Corferias,Calle 26,16,weekday,0,rain,0,medium
+Calle 63,Caracas,16,weekday,0,dry,0,low
+Calle 75,NQS,16,weekday,0,dry,0,medium
+Concejo de Bogotá,Calle 26,14,sunday_holiday,0,dry,0,low
+Av. Rojas,Calle 26,17,weekday,0,rain,0,high
+Calle 75,NQS,14,saturday,0,rain,0,medium
+Banderas,Americas,5,weekday,0,dry,0,low
+Calle 26,Caracas,5,weekday,1,rain,0,medium
+Modelia,Calle 26,22,weekday,0,dry,0,low
+Calle 45,Caracas,21,weekday,0,dry,0,low
+Centro Memoria,Calle 26,15,weekday,1,dry,0,medium
+Modelia,Calle 26,8,weekday,0,rain,0,high
+Calle 26,Caracas,19,weekday,1,dry,0,high
+Calle 75,NQS,7,sunday_holiday,0,dry,0,low
+Modelia,Calle 26,11,weekday,0,dry,0,medium
+Normandía,Calle 26,10,weekday,0,rain,1,high
+Normandía,Calle 26,5,weekday,0,rain,0,medium
+Calle 34,Caracas,19,weekday,0,dry,0,high
+Calle 72,Caracas,14,saturday,0,dry,0,high
+Portal Américas,Americas,10,weekday,0,rain,0,medium
+Calle 72,Caracas,14,weekday,0,dry,0,low
+Calle 26,Caracas,5,weekday,1,rain,0,medium
+Centro Memoria,NQS,12,weekday,1,dry,0,high
+Calle 63,Caracas,14,sunday_holiday,0,rain,0,low
+Centro Memoria,NQS,11,weekday,1,dry,0,high
+Calle 75,NQS,19,saturday,0,dry,0,low
+Centro Memoria,NQS,9,weekday,1,rain,0,high
+Calle 26,Caracas,7,sunday_holiday,1,dry,0,low
+Calle 100,Caracas,14,weekday,0,rain,0,medium
+Banderas,Americas,20,weekday,0,dry,0,low
+Calle 26,Caracas,11,saturday,1,rain,0,medium
+Ricaurte,NQS,5,weekday,1,dry,0,medium
+Calle 45,Caracas,22,weekday,0,dry,0,low
+Calle 63,Caracas,12,sunday_holiday,0,rain,1,medium
+Ricaurte,Americas,8,weekday,1,dry,0,high
+Marsella,Americas,16,saturday,0,rain,1,medium
+Portal Américas,Americas,10,saturday,0,dry,0,low
+Ricaurte,Americas,21,sunday_holiday,1,dry,0,low
+Calle 34,Caracas,10,sunday_holiday,0,dry,0,low
+Marsella,Americas,14,weekday,0,rain,0,medium
+Centro Memoria,NQS,14,weekday,1,rain,1,high
+Calle 63,Caracas,9,weekday,0,dry,0,high
+Calle 72,Caracas,13,saturday,0,dry,0,low
+Banderas,Americas,6,sunday_holiday,0,dry,0,low
+Calle 26,Calle 26,16,weekday,1,rain,0,medium
+Ricaurte,Americas,18,weekday,1,dry,0,high
+Calle 63,Caracas,22,weekday,0,dry,0,low
+Calle 26,Calle 26,10,weekday,1,dry,0,high
+Calle 26,Calle 26,10,sunday_holiday,1,dry,0,low
+Calle 26,Calle 26,14,weekday,1,dry,0,medium
+Centro Memoria,NQS,17,saturday,1,dry,0,medium
+Marsella,Americas,22,saturday,0,dry,0,low
+Banderas,Americas,5,sunday_holiday,0,dry,0,low
+Ricaurte,Americas,9,weekday,1,rain,0,high
+Calle 45,Caracas,9,sunday_holiday,0,dry,0,low
+Puente Aranda,Americas,9,saturday,0,dry,0,low
+Corferias,Calle 26,13,saturday,0,dry,0,medium
+Corferias,Calle 26,20,weekday,0,dry,0,low
+Calle 75,NQS,5,weekday,0,dry,0,low
+Ricaurte,Americas,19,saturday,1,dry,0,medium
+Marsella,Americas,16,weekday,0,dry,0,medium
+Concejo de Bogotá,Calle 26,16,weekday,0,dry,0,medium
+Centro Memoria,Calle 26,17,weekday,1,rain,1,high
+Ricaurte,Americas,7,weekday,1,dry,0,high
+Calle 34,Caracas,18,weekday,0,dry,0,medium
+Calle 26,Caracas,9,weekday,1,dry,0,high
+Centro Memoria,Calle 26,14,weekday,1,dry,0,high
+Héroes,Caracas,17,sunday_holiday,0,dry,1,low
+Calle 26,Caracas,15,sunday_holiday,1,dry,0,low
+Calle 75,NQS,10,weekday,0,dry,0,medium
+Puente Aranda,Americas,12,weekday,0,dry,0,low
+Av. Rojas,Calle 26,13,weekday,0,dry,0,medium
+Modelia,Calle 26,5,weekday,0,dry,0,low
+Normandía,Calle 26,18,sunday_holiday,0,dry,0,low
+Centro Memoria,NQS,6,weekday,1,dry,0,high
+Corferias,Calle 26,13,weekday,0,dry,0,medium
+Calle 100,Caracas,16,weekday,0,rain,0,high
+Corferias,Calle 26,6,weekday,0,dry,0,medium
+Modelia,Calle 26,22,sunday_holiday,0,dry,0,low
+Calle 75,NQS,11,saturday,0,dry,0,medium
+Banderas,Americas,5,weekday,0,dry,0,low
+Puente Aranda,Americas,16,weekday,0,dry,0,medium
+Centro Memoria,Calle 26,15,sunday_holiday,1,dry,1,medium
+Portal Eldorado,Calle 26,16,weekday,0,dry,0,medium
+Normandía,Calle 26,18,sunday_holiday,0,dry,0,low
+Calle 45,Caracas,13,sunday_holiday,0,dry,0,low
+Marsella,Americas,19,weekday,0,rain,1,high
+Portal Américas,Americas,11,sunday_holiday,0,dry,0,low
+Portal Américas,Americas,14,weekday,0,rain,0,medium
+Calle 26,Caracas,7,saturday,1,dry,0,medium
+Calle 26,Caracas,16,weekday,1,dry,0,medium
+Portal Américas,Americas,9,weekday,0,dry,0,medium
+Corferias,Calle 26,17,weekday,0,dry,0,high
+Calle 75,NQS,19,weekday,0,dry,0,high
+Av. Rojas,Calle 26,20,weekday,0,dry,1,medium
+Normandía,Calle 26,21,weekday,0,dry,0,low
+Centro Memoria,Calle 26,7,weekday,1,rain,0,high
+Ricaurte,NQS,7,weekday,1,rain,0,high
+Calle 26,Caracas,21,weekday,1,dry,0,low
+Ricaurte,NQS,11,sunday_holiday,1,dry,0,medium
+Calle 34,Caracas,5,sunday_holiday,0,dry,0,low
+Modelia,Calle 26,10,weekday,0,rain,0,high
+Banderas,Americas,20,weekday,0,rain,0,low
+Marsella,Americas,11,saturday,0,dry,0,low
+Marsella,Americas,6,saturday,0,dry,0,low
+Calle 26,Caracas,17,weekday,1,dry,1,high
+Portal Américas,Americas,8,saturday,0,dry,0,low
+Marsella,Americas,11,weekday,0,rain,0,low
+Puente Aranda,Americas,5,weekday,0,dry,0,low
+Calle 100,Caracas,15,saturday,0,dry,1,medium
+Ricaurte,Americas,13,saturday,1,dry,0,medium
+Puente Aranda,Americas,20,sunday_holiday,0,dry,0,low
+Ricaurte,Americas,11,weekday,1,dry,0,high
+Calle 34,Caracas,8,weekday,0,rain,0,high
+Ricaurte,Americas,7,weekday,1,dry,0,high
+Calle 72,Caracas,8,weekday,0,dry,0,medium
+Av. Rojas,Calle 26,13,weekday,0,dry,0,medium
+Centro Memoria,Calle 26,6,weekday,1,dry,0,high
+Normandía,Calle 26,12,weekday,0,dry,0,low
+Calle 75,NQS,20,saturday,0,dry,0,low
+Calle 34,Caracas,18,weekday,0,dry,1,high
+Concejo de Bogotá,Calle 26,16,weekday,0,dry,0,medium
+Centro Memoria,Calle 26,21,saturday,1,rain,0,medium
+Centro Memoria,Calle 26,19,weekday,1,dry,1,high
+Calle 26,Calle 26,16,sunday_holiday,1,dry,0,low
+Calle 26,Caracas,20,weekday,1,dry,0,medium
+Calle 34,Caracas,7,weekday,0,dry,0,high
+Normandía,Calle 26,19,sunday_holiday,0,dry,0,low
+Concejo de Bogotá,Calle 26,10,weekday,0,dry,0,high
+Portal Eldorado,Calle 26,18,saturday,0,dry,0,low
+Modelia,Calle 26,21,saturday,0,dry,0,low
+Calle 26,Calle 26,13,weekday,1,rain,0,high
+Calle 34,Caracas,6,saturday,0,dry,0,low
+Centro Memoria,NQS,11,sunday_holiday,1,dry,0,medium
+Ricaurte,NQS,12,sunday_holiday,1,dry,0,low
+Calle 26,Calle 26,21,weekday,1,dry,1,low
+Portal Américas,Americas,21,weekday,0,rain,0,low
+Concejo de Bogotá,Calle 26,15,saturday,0,dry,0,medium
+Calle 63,Caracas,22,weekday,0,rain,1,medium
+Portal Eldorado,Calle 26,12,weekday,0,rain,0,medium
+Calle 100,Caracas,12,weekday,0,dry,0,low
+Calle 100,Caracas,20,weekday,0,dry,0,medium
+Calle 26,Caracas,17,weekday,1,dry,0,high
+Normandía,Calle 26,14,weekday,0,dry,0,medium
+Ricaurte,NQS,13,weekday,1,dry,0,medium
+Calle 63,Caracas,17,weekday,0,dry,0,high
+Portal Américas,Americas,18,sunday_holiday,0,dry,0,low
+Calle 34,Caracas,13,weekday,0,dry,0,low
+Calle 63,Caracas,5,weekday,0,dry,0,low
+Calle 75,NQS,6,weekday,0,dry,0,medium
+Ricaurte,Americas,7,weekday,1,dry,0,high
+Concejo de Bogotá,Calle 26,13,sunday_holiday,0,dry,0,low
+Calle 72,Caracas,16,sunday_holiday,0,dry,1,low
+Calle 72,Caracas,19,weekday,0,rain,0,high
+Portal Eldorado,Calle 26,9,weekday,0,rain,1,high
+Normandía,Calle 26,19,weekday,0,dry,0,high
+Puente Aranda,Americas,16,weekday,0,dry,0,medium
+Calle 26,Calle 26,5,weekday,1,dry,0,medium
+Calle 45,Caracas,11,weekday,0,dry,0,medium
+Marsella,Americas,10,weekday,0,dry,0,medium
+Calle 63,Caracas,20,weekday,0,dry,0,low
+Calle 100,Caracas,21,weekday,0,dry,1,low
+Modelia,Calle 26,19,weekday,0,dry,0,medium
+Modelia,Calle 26,14,weekday,0,dry,1,medium
+Centro Memoria,Calle 26,13,weekday,1,rain,0,medium
+Banderas,Americas,10,weekday,0,dry,0,medium
+Marsella,Americas,18,weekday,0,rain,0,high
+Calle 26,Calle 26,6,weekday,1,dry,0,high
+Puente Aranda,Americas,9,weekday,0,dry,0,medium
+Centro Memoria,Calle 26,7,sunday_holiday,1,rain,1,medium
+Héroes,Caracas,13,sunday_holiday,0,rain,0,low
+Marsella,Americas,10,weekday,0,dry,1,high
+Calle 63,Caracas,8,weekday,0,dry,0,high
+Concejo de Bogotá,Calle 26,11,saturday,0,dry,0,low
+Ricaurte,NQS,20,saturday,1,rain,0,high
+Calle 34,Caracas,15,weekday,0,dry,0,medium
+Calle 26,Calle 26,19,weekday,1,dry,0,high
+Normandía,Calle 26,21,weekday,0,dry,0,low
+Banderas,Americas,21,weekday,0,dry,0,low
+Calle 34,Caracas,11,weekday,0,rain,0,medium
+Centro Memoria,NQS,20,weekday,1,dry,1,high
+Normandía,Calle 26,21,weekday,0,dry,0,low
+Calle 72,Caracas,22,weekday,0,dry,0,low
+Calle 75,NQS,11,weekday,0,dry,0,medium
+Portal Américas,Americas,9,saturday,0,rain,0,medium
+Concejo de Bogotá,Calle 26,15,weekday,0,rain,0,medium
+Calle 45,Caracas,21,weekday,0,rain,0,low
+Calle 63,Caracas,21,weekday,0,dry,0,low
+Modelia,Calle 26,15,sunday_holiday,0,rain,0,low
+Av. Rojas,Calle 26,7,weekday,0,dry,0,medium
+Corferias,Calle 26,12,weekday,0,rain,0,medium
+Calle 34,Caracas,17,weekday,0,dry,0,high
+Av. Rojas,Calle 26,15,sunday_holiday,0,dry,0,low
+Calle 26,Calle 26,11,saturday,1,dry,0,medium
+Centro Memoria,NQS,11,sunday_holiday,1,rain,1,medium
+Ricaurte,NQS,6,saturday,1,dry,0,low
+Centro Memoria,NQS,10,weekday,1,rain,0,high
+Calle 100,Caracas,17,weekday,0,dry,0,high
+Puente Aranda,Americas,9,weekday,0,dry,0,medium
+Calle 100,Caracas,22,saturday,0,dry,0,low
+Puente Aranda,Americas,6,weekday,0,rain,0,high
+Calle 100,Caracas,15,weekday,0,dry,0,medium
+Av. Rojas,Calle 26,13,sunday_holiday,0,dry,0,low
+Calle 72,Caracas,19,weekday,0,dry,1,high
+Calle 72,Caracas,20,weekday,0,dry,0,medium
+Centro Memoria,NQS,14,weekday,1,dry,0,medium
+Calle 75,NQS,16,sunday_holiday,0,rain,0,low
+Calle 72,Caracas,17,sunday_holiday,0,dry,1,low
+Puente Aranda,Americas,14,weekday,0,dry,0,low
+Calle 26,Caracas,8,sunday_holiday,1,dry,0,low
+Calle 26,Caracas,12,sunday_holiday,1,rain,0,medium
+Calle 26,Calle 26,9,sunday_holiday,1,dry,0,medium
+Normandía,Calle 26,13,sunday_holiday,0,dry,0,low
+Calle 45,Caracas,16,weekday,0,dry,1,medium
+Modelia,Calle 26,8,saturday,0,dry,0,low
+Calle 45,Caracas,9,weekday,0,dry,0,medium
+Héroes,Caracas,19,saturday,0,dry,0,low
+Portal Eldorado,Calle 26,11,weekday,0,dry,0,medium
+Centro Memoria,NQS,8,saturday,1,dry,0,medium
+Ricaurte,Americas,17,sunday_holiday,1,dry,1,medium
+Portal Eldorado,Calle 26,17,weekday,0,dry,0,high
+Calle 26,Caracas,19,sunday_holiday,1,dry,0,medium
+Ricaurte,NQS,18,weekday,1,dry,1,high
+Centro Memoria,NQS,22,weekday,1,rain,0,low
+Portal Américas,Americas,15,weekday,0,rain,0,medium
+Banderas,Americas,10,saturday,0,dry,0,low
+Ricaurte,NQS,20,weekday,1,dry,0,low
+Marsella,Americas,9,weekday,0,dry,0,medium
+Modelia,Calle 26,10,saturday,0,rain,0,medium
+Modelia,Calle 26,19,weekday,0,dry,0,high
+Calle 26,Caracas,20,weekday,1,dry,0,medium
+Calle 34,Caracas,11,sunday_holiday,0,dry,0,low
+Ricaurte,Americas,18,saturday,1,rain,0,medium
+Calle 75,NQS,21,saturday,0,dry,0,low
+Ricaurte,NQS,19,weekday,1,dry,0,high
+Calle 63,Caracas,5,sunday_holiday,0,dry,0,low
+Av. Rojas,Calle 26,16,weekday,0,dry,0,medium
+Calle 34,Caracas,8,weekday,0,rain,0,high
+Banderas,Americas,20,weekday,0,dry,0,low
+Calle 26,Calle 26,6,weekday,1,dry,0,high
+Calle 63,Caracas,22,saturday,0,dry,0,low
+Concejo de Bogotá,Calle 26,8,saturday,0,rain,0,medium
+Banderas,Americas,12,weekday,0,dry,0,medium
+Marsella,Americas,9,weekday,0,dry,0,medium
+Calle 72,Caracas,19,saturday,0,rain,0,medium
+Calle 26,Caracas,12,sunday_holiday,1,dry,0,low
+Calle 63,Caracas,18,weekday,0,dry,0,high
+Calle 26,Caracas,6,weekday,1,dry,1,high
+Corferias,Calle 26,13,weekday,0,dry,0,low
+Calle 26,Calle 26,21,weekday,1,dry,0,low
+Héroes,Caracas,21,weekday,0,dry,0,low
+Av. Rojas,Calle 26,8,weekday,0,rain,0,high
+Héroes,Caracas,12,saturday,0,dry,0,low
+Calle 34,Caracas,12,weekday,0,rain,0,medium
+Calle 100,Caracas,15,weekday,0,dry,0,medium
+Héroes,Caracas,14,weekday,0,dry,0,low
+Normandía,Calle 26,6,sunday_holiday,0,dry,1,low
+Portal Américas,Americas,18,weekday,0,dry,0,high
+Ricaurte,Americas,9,weekday,1,dry,0,medium
+Calle 72,Caracas,10,weekday,0,rain,0,medium
+Calle 100,Caracas,20,saturday,0,dry,0,low
+Calle 26,Caracas,17,sunday_holiday,1,rain,0,low
+Centro Memoria,NQS,12,weekday,1,dry,0,high
+Ricaurte,Americas,21,weekday,1,dry,0,low
+Ricaurte,NQS,12,weekday,1,rain,0,high
+Calle 26,Caracas,15,saturday,1,dry,0,medium
+Calle 63,Caracas,9,sunday_holiday,0,dry,1,low
+Calle 100,Caracas,8,weekday,0,dry,0,high
+Calle 63,Caracas,13,weekday,0,dry,0,low
+Héroes,Caracas,15,saturday,0,rain,0,medium
+Portal Américas,Americas,19,saturday,0,dry,0,low
+Calle 26,Calle 26,12,weekday,1,rain,0,high
+Ricaurte,NQS,21,weekday,1,dry,0,low
+Corferias,Calle 26,15,weekday,0,rain,0,medium
+Corferias,Calle 26,6,saturday,0,dry,1,medium
+Normandía,Calle 26,18,saturday,0,dry,0,low
+Ricaurte,NQS,15,saturday,1,rain,0,high
+Calle 100,Caracas,12,sunday_holiday,0,dry,0,low
+Calle 72,Caracas,13,weekday,0,dry,0,medium
+Modelia,Calle 26,10,weekday,0,rain,0,high
+Modelia,Calle 26,16,weekday,0,dry,0,medium
+Corferias,Calle 26,15,sunday_holiday,0,dry,0,low
+Calle 75,NQS,13,weekday,0,dry,0,medium
+Concejo de Bogotá,Calle 26,10,weekday,0,dry,0,low
+Calle 34,Caracas,12,weekday,0,dry,0,medium
+Calle 26,Caracas,13,saturday,1,dry,0,medium
+Ricaurte,Americas,13,saturday,1,rain,1,high
+Calle 45,Caracas,10,saturday,0,rain,0,medium
+Av. Rojas,Calle 26,15,weekday,0,rain,0,medium
+Corferias,Calle 26,9,sunday_holiday,0,dry,1,low
+Ricaurte,Americas,14,saturday,1,dry,0,high
+Calle 75,NQS,7,saturday,0,dry,1,medium
+Normandía,Calle 26,13,saturday,0,rain,0,medium
+Calle 26,Caracas,19,sunday_holiday,1,dry,0,low
+Portal Eldorado,Calle 26,19,sunday_holiday,0,dry,0,low
+Modelia,Calle 26,17,weekday,0,dry,0,high
+Calle 34,Caracas,18,weekday,0,rain,0,high
+Centro Memoria,Calle 26,6,weekday,1,dry,0,high
+Calle 45,Caracas,11,sunday_holiday,0,rain,0,low
+Centro Memoria,Calle 26,16,saturday,1,rain,0,medium
+Ricaurte,Americas,19,weekday,1,dry,0,high
+Puente Aranda,Americas,15,weekday,0,dry,0,low
+Calle 72,Caracas,20,sunday_holiday,0,dry,0,low
+Ricaurte,Americas,9,sunday_holiday,1,dry,0,low
+Héroes,Caracas,7,sunday_holiday,0,dry,0,low
+Calle 26,Caracas,6,weekday,1,rain,0,high
+Calle 45,Caracas,15,saturday,0,dry,0,low
+Calle 63,Caracas,16,sunday_holiday,0,dry,0,low
+Calle 45,Caracas,10,weekday,0,rain,0,high
+Héroes,Caracas,19,weekday,0,dry,0,high
+Ricaurte,NQS,18,sunday_holiday,1,dry,0,medium
+Héroes,Caracas,11,weekday,0,rain,0,low
+Modelia,Calle 26,9,weekday,0,dry,0,medium
+Calle 75,NQS,18,saturday,0,dry,1,medium
+Puente Aranda,Americas,17,saturday,0,dry,1,medium
+Portal Américas,Americas,8,weekday,0,dry,0,medium
+Calle 63,Caracas,9,saturday,0,dry,0,low
+Puente Aranda,Americas,13,weekday,0,dry,0,medium
+Centro Memoria,NQS,14,sunday_holiday,1,dry,0,low
+Calle 45,Caracas,7,weekday,0,dry,0,medium
+Normandía,Calle 26,22,saturday,0,dry,0,low
+Marsella,Americas,11,saturday,0,rain,0,medium
+Modelia,Calle 26,11,weekday,0,dry,0,low
+Calle 45,Caracas,6,weekday,0,rain,0,high
+Banderas,Americas,20,saturday,0,dry,0,low
+Marsella,Americas,9,weekday,0,dry,0,low
+Puente Aranda,Americas,22,weekday,0,dry,0,low
+Marsella,Americas,13,weekday,0,dry,0,medium
+Banderas,Americas,20,sunday_holiday,0,dry,0,low
+Normandía,Calle 26,8,weekday,0,dry,0,high
+Calle 45,Caracas,7,weekday,0,dry,0,high
+Centro Memoria,Calle 26,19,sunday_holiday,1,dry,0,low
+Calle 34,Caracas,19,weekday,0,dry,0,high
+Normandía,Calle 26,14,weekday,0,rain,0,medium
+Centro Memoria,NQS,5,weekday,1,dry,0,medium
+Marsella,Americas,21,weekday,0,dry,0,low
+Calle 26,Calle 26,12,weekday,1,dry,0,medium
+Calle 34,Caracas,21,saturday,0,dry,0,low
+Calle 75,NQS,20,weekday,0,dry,0,low
+Calle 100,Caracas,20,saturday,0,dry,0,low
+Concejo de Bogotá,Calle 26,17,weekday,0,rain,0,high
+Ricaurte,Americas,17,weekday,1,dry,0,high
+Corferias,Calle 26,14,weekday,0,dry,0,medium
+Portal Eldorado,Calle 26,5,weekday,0,dry,0,low
+Portal Américas,Americas,11,saturday,0,dry,0,low
+Portal Eldorado,Calle 26,18,weekday,0,rain,0,high
+Calle 75,NQS,19,weekday,0,dry,0,high
+Normandía,Calle 26,15,weekday,0,dry,0,medium
+Calle 100,Caracas,17,sunday_holiday,0,dry,0,low
+Corferias,Calle 26,5,weekday,0,dry,0,low
+Héroes,Caracas,13,saturday,0,dry,1,medium
+Marsella,Americas,14,weekday,0,dry,0,medium
+Concejo de Bogotá,Calle 26,21,weekday,0,dry,0,low
+Portal Eldorado,Calle 26,10,saturday,0,rain,0,medium
+Av. Rojas,Calle 26,9,weekday,0,dry,0,medium
+Centro Memoria,Calle 26,11,weekday,1,dry,0,high
+Calle 34,Caracas,8,sunday_holiday,0,dry,0,low
+Calle 26,Calle 26,15,weekday,1,dry,0,high
+Modelia,Calle 26,16,weekday,0,rain,0,medium
+Calle 34,Caracas,19,weekday,0,dry,0,high
+Ricaurte,Americas,22,weekday,1,dry,0,low
+Calle 72,Caracas,6,saturday,0,dry,0,low
+Portal Américas,Americas,9,weekday,0,dry,0,low
+Portal Eldorado,Calle 26,10,sunday_holiday,0,dry,1,low
+Corferias,Calle 26,9,saturday,0,dry,0,low
+Calle 63,Caracas,19,sunday_holiday,0,dry,0,low
+Portal Eldorado,Calle 26,7,sunday_holiday,0,rain,0,low
+Ricaurte,Americas,5,sunday_holiday,1,dry,1,low
+Calle 26,Calle 26,20,saturday,1,dry,0,low
+Calle 63,Caracas,22,weekday,0,rain,0,low
+Corferias,Calle 26,9,weekday,0,rain,1,high
+Calle 63,Caracas,10,saturday,0,dry,0,low
+Calle 26,Caracas,14,weekday,1,dry,0,medium
+Normandía,Calle 26,14,saturday,0,dry,0,low
+Corferias,Calle 26,22,weekday,0,dry,0,low
+Centro Memoria,Calle 26,12,sunday_holiday,1,dry,0,medium
+Centro Memoria,NQS,5,weekday,1,dry,0,medium
+Portal Américas,Americas,12,sunday_holiday,0,dry,0,low
+Héroes,Caracas,15,weekday,0,rain,0,high
+Portal Eldorado,Calle 26,14,weekday,0,dry,0,medium
+Calle 100,Caracas,14,sunday_holiday,0,dry,0,low
+Calle 100,Caracas,21,sunday_holiday,0,dry,0,low
+Calle 45,Caracas,19,saturday,0,dry,1,medium
+Concejo de Bogotá,Calle 26,9,sunday_holiday,0,dry,0,low
+Banderas,Americas,11,weekday,0,rain,1,high
+Ricaurte,Americas,17,sunday_holiday,1,dry,0,low
+Centro Memoria,Calle 26,12,weekday,1,dry,0,high
+Ricaurte,Americas,12,weekday,1,rain,0,high
+Calle 63,Caracas,8,weekday,0,dry,0,high
+Portal Américas,Americas,9,weekday,0,dry,0,low
+Banderas,Americas,18,weekday,0,rain,0,high
+Calle 72,Caracas,20,saturday,0,rain,0,medium
+Normandía,Calle 26,19,weekday,0,dry,1,high
+Portal Américas,Americas,10,sunday_holiday,0,rain,0,low
+Normandía,Calle 26,7,weekday,0,rain,1,high
+Portal Américas,Americas,7,weekday,0,dry,0,high
+Marsella,Americas,12,saturday,0,dry,1,medium
+Normandía,Calle 26,14,weekday,0,dry,0,medium
+Héroes,Caracas,21,weekday,0,dry,1,low
+Calle 26,Caracas,21,saturday,1,dry,0,low
+Calle 45,Caracas,5,weekday,0,dry,0,low
+Normandía,Calle 26,17,weekday,0,dry,0,medium
+Concejo de Bogotá,Calle 26,10,saturday,0,dry,0,low
+Normandía,Calle 26,8,weekday,0,dry,0,high
+Calle 45,Caracas,14,sunday_holiday,0,dry,0,low
+Calle 26,Calle 26,5,saturday,1,dry,0,high
+Centro Memoria,NQS,11,weekday,1,dry,0,high
+Calle 100,Caracas,14,weekday,0,dry,0,low
+Calle 45,Caracas,9,weekday,0,dry,0,low
+Banderas,Americas,15,saturday,0,dry,0,low
+Calle 72,Caracas,13,weekday,0,dry,0,medium
+Modelia,Calle 26,19,sunday_holiday,0,dry,1,medium
+Calle 45,Caracas,8,weekday,0,rain,1,high
+Calle 72,Caracas,6,saturday,0,dry,1,medium
+Modelia,Calle 26,14,weekday,0,rain,1,high
+Av. Rojas,Calle 26,9,weekday,0,dry,0,medium
+Calle 45,Caracas,17,weekday,0,dry,0,high
+Héroes,Caracas,6,weekday,0,dry,0,high
+Calle 63,Caracas,15,sunday_holiday,0,dry,0,low
+Centro Memoria,Calle 26,22,weekday,1,rain,0,medium
+Portal Américas,Americas,6,weekday,0,rain,0,high
+Calle 45,Caracas,10,weekday,0,dry,0,low
+Calle 26,Caracas,20,weekday,1,dry,0,medium
+Calle 26,Caracas,14,sunday_holiday,1,dry,0,low
+Portal Eldorado,Calle 26,8,sunday_holiday,0,dry,0,low
+Calle 34,Caracas,8,sunday_holiday,0,dry,0,low
+Héroes,Caracas,18,weekday,0,rain,0,high
+Corferias,Calle 26,20,weekday,0,dry,0,low
+Portal Eldorado,Calle 26,11,saturday,0,dry,0,low
+Calle 26,Caracas,13,weekday,1,rain,0,high
+Calle 26,Calle 26,19,saturday,1,dry,1,high
+Marsella,Americas,8,weekday,0,dry,1,high
+Centro Memoria,Calle 26,8,weekday,1,dry,0,high
+Modelia,Calle 26,18,sunday_holiday,0,dry,0,low
+Calle 45,Caracas,8,weekday,0,dry,0,medium
+Ricaurte,NQS,18,sunday_holiday,1,rain,1,medium
+Banderas,Americas,13,weekday,0,dry,0,medium
+Calle 100,Caracas,22,weekday,0,dry,0,low
+Marsella,Americas,5,weekday,0,rain,0,medium
+Calle 75,NQS,22,weekday,0,rain,0,low
+Calle 72,Caracas,9,weekday,0,dry,0,low
+Ricaurte,Americas,5,weekday,1,rain,0,high
+Calle 72,Caracas,18,saturday,0,dry,0,low
+Héroes,Caracas,14,sunday_holiday,0,dry,0,low
+Calle 72,Caracas,20,weekday,0,dry,0,low
+Normandía,Calle 26,6,weekday,0,dry,0,high
+Centro Memoria,Calle 26,6,weekday,1,rain,1,high
+Modelia,Calle 26,15,saturday,0,dry,0,medium
+Calle 72,Caracas,20,weekday,0,dry,0,medium
+Calle 45,Caracas,12,weekday,0,dry,0,medium
+Portal Américas,Americas,19,weekday,0,dry,0,high
+Puente Aranda,Americas,21,weekday,0,dry,0,low
+Ricaurte,Americas,20,weekday,1,dry,0,medium
+Calle 72,Caracas,14,weekday,0,dry,0,medium
+Ricaurte,NQS,17,sunday_holiday,1,dry,0,low
+Centro Memoria,NQS,14,weekday,1,dry,0,high
+Corferias,Calle 26,17,weekday,0,rain,0,high
+Calle 63,Caracas,15,weekday,0,dry,0,medium
+Puente Aranda,Americas,14,weekday,0,rain,0,medium
+Normandía,Calle 26,12,weekday,0,dry,0,low
+Héroes,Caracas,16,weekday,0,dry,1,medium
+Calle 45,Caracas,18,weekday,0,dry,0,high
+Modelia,Calle 26,21,saturday,0,dry,1,low
+Héroes,Caracas,16,weekday,0,rain,0,medium
+Calle 26,Caracas,6,sunday_holiday,1,dry,0,low
+Normandía,Calle 26,15,weekday,0,dry,1,high
+Marsella,Americas,10,weekday,0,dry,0,low
+Héroes,Caracas,5,sunday_holiday,0,dry,0,low
+Concejo de Bogotá,Calle 26,6,sunday_holiday,0,dry,0,low
+Marsella,Americas,15,weekday,0,dry,0,low
+Ricaurte,NQS,22,sunday_holiday,1,rain,1,medium
+Marsella,Americas,14,weekday,0,rain,1,high
+Calle 63,Caracas,13,weekday,0,dry,0,low
+Ricaurte,NQS,6,sunday_holiday,1,dry,0,low
+Puente Aranda,Americas,17,saturday,0,rain,0,medium
+Calle 26,Caracas,5,weekday,1,rain,0,medium
+Av. Rojas,Calle 26,20,saturday,0,dry,0,medium
+Corferias,Calle 26,19,weekday,0,rain,0,high
+Av. Rojas,Calle 26,22,weekday,0,dry,0,low
+Calle 26,Calle 26,10,sunday_holiday,1,rain,0,low
+Puente Aranda,Americas,7,weekday,0,rain,1,high
+Marsella,Americas,10,weekday,0,dry,0,medium
+Portal Eldorado,Calle 26,19,weekday,0,dry,0,high
+Ricaurte,NQS,8,weekday,1,dry,0,high
+Modelia,Calle 26,20,weekday,0,dry,0,medium
+Ricaurte,NQS,7,sunday_holiday,1,dry,0,low
+Concejo de Bogotá,Calle 26,5,saturday,0,dry,0,low
+Normandía,Calle 26,8,saturday,0,dry,0,low
+Calle 72,Caracas,18,weekday,0,dry,0,high
+Centro Memoria,NQS,15,weekday,1,dry,0,high
+Calle 26,Caracas,11,weekday,1,dry,0,high
+Calle 45,Caracas,16,weekday,0,dry,0,medium
+Calle 45,Caracas,16,weekday,0,dry,0,low
+Puente Aranda,Americas,14,saturday,0,dry,0,low
+Calle 72,Caracas,14,sunday_holiday,0,rain,0,medium
+Ricaurte,NQS,6,weekday,1,dry,0,high
+Portal Américas,Americas,9,weekday,0,dry,0,medium
+Calle 100,Caracas,14,saturday,0,dry,0,low
+Concejo de Bogotá,Calle 26,7,weekday,0,dry,0,medium
+Concejo de Bogotá,Calle 26,13,sunday_holiday,0,dry,0,low
+Portal Eldorado,Calle 26,7,weekday,0,rain,0,high
+Centro Memoria,NQS,19,weekday,1,dry,0,high
+Modelia,Calle 26,6,weekday,0,rain,0,high
+Normandía,Calle 26,6,sunday_holiday,0,dry,0,low
+Modelia,Calle 26,16,weekday,0,dry,0,medium
+Ricaurte,NQS,8,saturday,1,dry,0,medium
+Centro Memoria,Calle 26,11,weekday,1,dry,0,high
+Portal Eldorado,Calle 26,10,weekday,0,dry,0,medium
+Marsella,Americas,8,sunday_holiday,0,dry,0,low
+Ricaurte,NQS,18,weekday,1,dry,0,high
+Marsella,Americas,17,weekday,0,dry,0,high
+Calle 75,NQS,9,weekday,0,dry,0,low
+Modelia,Calle 26,17,sunday_holiday,0,dry,0,low
+Ricaurte,Americas,17,weekday,1,dry,0,high
+Calle 26,Caracas,14,weekday,1,dry,1,high
+Calle 26,Calle 26,15,sunday_holiday,1,rain,0,low
+Normandía,Calle 26,21,saturday,0,dry,0,low
+Puente Aranda,Americas,13,sunday_holiday,0,dry,0,low
+Concejo de Bogotá,Calle 26,11,saturday,0,rain,0,medium
+Portal Eldorado,Calle 26,14,saturday,0,dry,0,low
+Normandía,Calle 26,20,weekday,0,dry,0,low
+Calle 26,Calle 26,17,weekday,1,dry,0,high
+Centro Memoria,NQS,6,saturday,1,rain,0,high
+Portal Eldorado,Calle 26,13,saturday,0,dry,0,low
+Corferias,Calle 26,18,sunday_holiday,0,dry,0,low
+Portal Eldorado,Calle 26,9,weekday,0,rain,0,medium
+Calle 26,Caracas,22,weekday,1,dry,0,medium
+Puente Aranda,Americas,19,weekday,0,dry,0,high
+Calle 26,Caracas,20,saturday,1,dry,0,high
+Héroes,Caracas,6,weekday,0,dry,0,high
+Portal Eldorado,Calle 26,15,saturday,0,rain,0,medium
+Corferias,Calle 26,14,weekday,0,dry,0,low
+Calle 72,Caracas,16,weekday,0,dry,0,medium
+Calle 26,Caracas,20,weekday,1,rain,0,medium
+Calle 63,Caracas,11,saturday,0,dry,0,low
+Av. Rojas,Calle 26,14,sunday_holiday,0,dry,0,low
+Calle 75,NQS,17,weekday,0,dry,0,high
+Puente Aranda,Americas,18,weekday,0,dry,0,high
+Portal Eldorado,Calle 26,18,weekday,0,dry,1,high
+Portal Américas,Americas,11,weekday,0,dry,0,high
+Calle 45,Caracas,22,weekday,0,rain,0,low
+Ricaurte,Americas,5,sunday_holiday,1,dry,0,low
+Corferias,Calle 26,13,sunday_holiday,0,dry,0,low
+Ricaurte,Americas,15,weekday,1,dry,0,medium
+Ricaurte,Americas,6,weekday,1,dry,0,high
+Corferias,Calle 26,13,weekday,0,rain,0,high
+Calle 34,Caracas,15,weekday,0,dry,0,low
+Corferias,Calle 26,15,weekday,0,dry,1,medium
+Portal Américas,Americas,7,saturday,0,rain,1,high
+Puente Aranda,Americas,9,weekday,0,rain,1,high
+Marsella,Americas,9,saturday,0,dry,0,medium
+Calle 45,Caracas,16,weekday,0,dry,0,medium
+Concejo de Bogotá,Calle 26,10,saturday,0,rain,0,medium
+Calle 72,Caracas,15,saturday,0,rain,0,medium
+Centro Memoria,NQS,18,weekday,1,dry,0,high
+Puente Aranda,Americas,19,weekday,0,dry,0,high
+Héroes,Caracas,8,sunday_holiday,0,dry,0,low
+Centro Memoria,NQS,21,saturday,1,rain,0,medium
+Marsella,Americas,7,weekday,0,dry,0,high
+Portal Américas,Americas,5,weekday,0,dry,0,medium
+Modelia,Calle 26,5,weekday,0,dry,0,low
+Calle 72,Caracas,8,saturday,0,rain,0,medium
+Marsella,Americas,20,saturday,0,dry,0,low
+Marsella,Americas,8,weekday,0,dry,0,high
+Concejo de Bogotá,Calle 26,17,saturday,0,rain,0,medium
+Puente Aranda,Americas,12,saturday,0,dry,0,medium
+Calle 100,Caracas,5,saturday,0,dry,0,low
+Centro Memoria,Calle 26,12,weekday,1,dry,0,high
+Calle 100,Caracas,5,weekday,0,dry,0,low
+Marsella,Americas,13,weekday,0,dry,0,medium
+Centro Memoria,NQS,15,weekday,1,dry,0,medium
+Marsella,Americas,14,weekday,0,rain,0,medium
+Corferias,Calle 26,10,weekday,0,dry,0,medium
+Héroes,Caracas,18,weekday,0,rain,0,high
+Calle 100,Caracas,15,saturday,0,dry,0,low
+Calle 26,Caracas,9,weekday,1,dry,0,high
+Ricaurte,Americas,12,saturday,1,dry,0,medium
+Calle 63,Caracas,6,weekday,0,dry,0,high
+Portal Américas,Americas,21,weekday,0,rain,0,low
+Calle 34,Caracas,18,weekday,0,dry,0,high
+Av. Rojas,Calle 26,10,saturday,0,dry,1,medium
+Calle 45,Caracas,17,saturday,0,rain,0,low
+Normandía,Calle 26,17,weekday,0,dry,0,high
+Normandía,Calle 26,15,saturday,0,dry,0,low
+Calle 100,Caracas,5,weekday,0,dry,0,low
+Concejo de Bogotá,Calle 26,20,weekday,0,dry,0,low
+Ricaurte,NQS,22,weekday,1,rain,0,low
+Marsella,Americas,22,weekday,0,dry,0,low
+Calle 26,Caracas,22,weekday,1,dry,0,low
+Banderas,Americas,21,sunday_holiday,0,dry,0,low
+Banderas,Americas,18,weekday,0,dry,0,medium
+Puente Aranda,Americas,6,weekday,0,dry,0,high
+Portal Eldorado,Calle 26,13,weekday,0,rain,0,medium
+Portal Américas,Americas,9,weekday,0,dry,0,low
+Corferias,Calle 26,8,weekday,0,rain,0,high
+Héroes,Caracas,19,sunday_holiday,0,rain,0,medium
+Calle 26,Calle 26,19,saturday,1,dry,0,medium
+Centro Memoria,NQS,14,weekday,1,dry,0,low
+Calle 63,Caracas,18,saturday,0,dry,0,medium
+Modelia,Calle 26,7,weekday,0,dry,0,medium
+Ricaurte,Americas,8,weekday,1,dry,0,high
+Calle 63,Caracas,20,weekday,0,dry,0,low
+Av. Rojas,Calle 26,13,weekday,0,dry,0,low
+Calle 45,Caracas,14,weekday,0,rain,0,medium
+Corferias,Calle 26,13,saturday,0,dry,0,low
+Calle 34,Caracas,8,weekday,0,dry,0,high
+Puente Aranda,Americas,19,sunday_holiday,0,dry,0,low
+Héroes,Caracas,18,saturday,0,dry,0,low
+Puente Aranda,Americas,17,sunday_holiday,0,dry,0,low
+Ricaurte,NQS,11,saturday,1,rain,0,medium
+Portal Américas,Americas,16,sunday_holiday,0,dry,0,low
+Portal Américas,Americas,22,weekday,0,dry,0,low
+Calle 45,Caracas,16,weekday,0,rain,0,medium
+Marsella,Americas,13,weekday,0,rain,1,high
+Concejo de Bogotá,Calle 26,9,sunday_holiday,0,dry,0,low
+Puente Aranda,Americas,14,weekday,0,dry,0,low
+Banderas,Americas,11,weekday,0,dry,0,low
+Concejo de Bogotá,Calle 26,16,saturday,0,dry,0,low
+Portal Eldorado,Calle 26,5,weekday,0,dry,0,low
+Calle 72,Caracas,8,sunday_holiday,0,rain,0,low
+Calle 72,Caracas,19,weekday,0,dry,0,high
+Portal Eldorado,Calle 26,11,weekday,0,dry,0,medium
+Ricaurte,NQS,12,weekday,1,dry,0,medium
+Av. Rojas,Calle 26,14,weekday,0,rain,0,medium
+Av. Rojas,Calle 26,12,weekday,0,rain,0,medium
+Calle 34,Caracas,18,weekday,0,dry,0,high
+Corferias,Calle 26,9,weekday,0,dry,0,medium
+Centro Memoria,Calle 26,18,saturday,1,rain,0,high
+Puente Aranda,Americas,8,sunday_holiday,0,dry,0,low
+Calle 75,NQS,11,weekday,0,dry,0,medium
+Concejo de Bogotá,Calle 26,15,weekday,0,dry,0,high
+Banderas,Americas,20,weekday,0,rain,0,medium
+Modelia,Calle 26,9,sunday_holiday,0,rain,0,low
+Marsella,Americas,15,saturday,0,dry,0,low
+Portal Eldorado,Calle 26,6,weekday,0,dry,0,medium
+Calle 72,Caracas,6,weekday,0,rain,0,high
+Modelia,Calle 26,18,sunday_holiday,0,dry,0,low
+Calle 72,Caracas,17,sunday_holiday,0,rain,0,low
+Calle 72,Caracas,11,weekday,0,rain,0,medium
+Banderas,Americas,16,sunday_holiday,0,dry,0,low
+Ricaurte,NQS,11,weekday,1,dry,0,high
+Calle 34,Caracas,9,weekday,0,rain,0,high
+Portal Américas,Americas,12,saturday,0,dry,0,low
+Héroes,Caracas,10,weekday,0,dry,0,medium
+Calle 26,Calle 26,19,weekday,1,dry,0,high
+Calle 75,NQS,12,sunday_holiday,0,rain,0,low
+Calle 26,Calle 26,10,sunday_holiday,1,rain,1,medium
+Calle 75,NQS,14,weekday,0,rain,0,medium
+Banderas,Americas,18,saturday,0,dry,0,low
+Héroes,Caracas,9,saturday,0,dry,0,low
+Calle 100,Caracas,21,weekday,0,rain,1,medium
+Marsella,Americas,13,sunday_holiday,0,dry,1,low
+Av. Rojas,Calle 26,16,saturday,0,dry,0,medium
+Av. Rojas,Calle 26,22,weekday,0,rain,0,low
+Normandía,Calle 26,12,weekday,0,rain,0,medium
+Modelia,Calle 26,8,sunday_holiday,0,rain,0,low
+Centro Memoria,NQS,18,sunday_holiday,1,rain,0,medium
+Concejo de Bogotá,Calle 26,5,weekday,0,dry,0,low
+Calle 63,Caracas,13,weekday,0,rain,0,medium
+Centro Memoria,Calle 26,22,saturday,1,dry,1,low
+Centro Memoria,NQS,12,weekday,1,dry,0,medium
+Calle 72,Caracas,17,weekday,0,dry,0,high
+Portal Eldorado,Calle 26,14,sunday_holiday,0,dry,0,low
+Ricaurte,NQS,8,sunday_holiday,1,dry,1,medium
+Centro Memoria,Calle 26,10,sunday_holiday,1,dry,1,medium
+Calle 63,Caracas,14,saturday,0,dry,0,low
+Calle 100,Caracas,6,weekday,0,dry,0,medium
+Concejo de Bogotá,Calle 26,12,sunday_holiday,0,rain,0,medium
+Normandía,Calle 26,12,weekday,0,dry,0,medium
+Puente Aranda,Americas,20,weekday,0,rain,0,medium
+Corferias,Calle 26,7,sunday_holiday,0,dry,0,low
+Marsella,Americas,20,saturday,0,dry,0,low
+Calle 45,Caracas,12,sunday_holiday,0,dry,0,low
+Normandía,Calle 26,16,weekday,0,dry,0,low
+Calle 63,Caracas,15,sunday_holiday,0,dry,0,low
+Concejo de Bogotá,Calle 26,10,saturday,0,dry,0,medium
+Calle 45,Caracas,21,saturday,0,dry,0,low
+Av. Rojas,Calle 26,9,sunday_holiday,0,dry,0,low
+Calle 26,Caracas,5,weekday,1,dry,0,low
+Calle 45,Caracas,18,saturday,0,rain,0,medium
+Calle 72,Caracas,16,saturday,0,dry,0,low
+Av. Rojas,Calle 26,21,saturday,0,rain,0,low
+Marsella,Americas,13,sunday_holiday,0,dry,0,low
+Calle 45,Caracas,5,saturday,0,dry,0,medium
+Modelia,Calle 26,5,weekday,0,dry,0,low
+Calle 34,Caracas,12,weekday,0,dry,0,medium
+Ricaurte,NQS,9,sunday_holiday,1,dry,0,low
+Modelia,Calle 26,21,sunday_holiday,0,dry,0,low
+Puente Aranda,Americas,7,sunday_holiday,0,dry,0,low
+Calle 34,Caracas,20,weekday,0,dry,0,medium
+Héroes,Caracas,8,weekday,0,dry,0,high
+Concejo de Bogotá,Calle 26,7,saturday,0,dry,0,medium
+Centro Memoria,Calle 26,9,saturday,1,dry,0,medium
+Puente Aranda,Americas,7,weekday,0,rain,0,high
+Banderas,Americas,12,saturday,0,rain,0,medium
+Banderas,Americas,10,weekday,0,dry,0,medium
+Centro Memoria,Calle 26,14,weekday,1,rain,0,high
+Portal Eldorado,Calle 26,14,weekday,0,dry,0,medium
+Modelia,Calle 26,5,weekday,0,rain,0,medium
+Calle 63,Caracas,7,weekday,0,dry,0,high
+Modelia,Calle 26,7,sunday_holiday,0,rain,0,low
+Portal Eldorado,Calle 26,8,saturday,0,dry,1,medium
+Calle 100,Caracas,6,sunday_holiday,0,dry,0,low
+Calle 45,Caracas,10,weekday,0,dry,0,low
+Corferias,Calle 26,14,weekday,0,dry,1,high
+Portal Eldorado,Calle 26,10,weekday,0,dry,0,low
+Puente Aranda,Americas,10,saturday,0,dry,0,medium
+Av. Rojas,Calle 26,13,weekday,0,dry,1,high
+Puente Aranda,Americas,14,saturday,0,rain,0,medium
+Centro Memoria,NQS,10,sunday_holiday,1,rain,0,medium
+Calle 100,Caracas,8,sunday_holiday,0,dry,0,low
+Calle 45,Caracas,12,weekday,0,dry,0,high
+Calle 75,NQS,5,weekday,0,dry,0,low
+Corferias,Calle 26,13,weekday,0,dry,0,low
+Calle 26,Calle 26,21,weekday,1,rain,1,high
+Corferias,Calle 26,12,saturday,0,dry,1,medium
+Banderas,Americas,6,weekday,0,dry,0,high
+Portal Eldorado,Calle 26,17,saturday,0,dry,0,low
+Héroes,Caracas,7,weekday,0,rain,0,high
+Calle 26,Caracas,8,sunday_holiday,1,dry,1,high
+Marsella,Americas,7,sunday_holiday,0,rain,0,low
+Ricaurte,Americas,20,weekday,1,dry,0,low
+Portal Américas,Americas,22,sunday_holiday,0,dry,0,low
+Banderas,Americas,15,weekday,0,dry,0,low
+Calle 72,Caracas,16,saturday,0,rain,1,medium
+Calle 26,Calle 26,16,sunday_holiday,1,dry,0,low
+Héroes,Caracas,15,sunday_holiday,0,dry,0,low
+Calle 100,Caracas,14,sunday_holiday,0,dry,0,low
+Portal Américas,Americas,22,weekday,0,dry,0,low
+Marsella,Americas,18,sunday_holiday,0,dry,0,low
+Calle 63,Caracas,6,saturday,0,dry,0,low
+Calle 75,NQS,12,weekday,0,dry,0,low
+Corferias,Calle 26,22,weekday,0,dry,0,low
+Héroes,Caracas,12,saturday,0,dry,0,low
+Marsella,Americas,8,saturday,0,dry,0,low
+Banderas,Americas,20,weekday,0,dry,0,medium
+Concejo de Bogotá,Calle 26,16,sunday_holiday,0,dry,0,low
+Calle 75,NQS,15,saturday,0,rain,0,low
+Modelia,Calle 26,12,weekday,0,dry,0,low
+Ricaurte,NQS,7,weekday,1,rain,0,high
+Normandía,Calle 26,11,saturday,0,dry,0,medium
+Puente Aranda,Americas,12,saturday,0,rain,0,low
+Héroes,Caracas,21,weekday,0,rain,0,low
+Calle 63,Caracas,10,weekday,0,dry,0,medium
+Puente Aranda,Americas,7,saturday,0,dry,0,low
+Calle 26,Calle 26,12,saturday,1,rain,0,medium
+Calle 26,Caracas,22,sunday_holiday,1,dry,0,low
+Ricaurte,NQS,13,weekday,1,dry,0,high
+Calle 45,Caracas,11,saturday,0,dry,0,medium
+Av. Rojas,Calle 26,17,weekday,0,dry,0,high
+Calle 26,Calle 26,16,weekday,1,dry,0,high
+Calle 45,Caracas,10,saturday,0,dry,0,medium
+Puente Aranda,Americas,22,saturday,0,dry,0,low
+Calle 45,Caracas,15,weekday,0,dry,0,high
+Calle 72,Caracas,6,saturday,0,dry,0,medium
+Centro Memoria,NQS,12,weekday,1,dry,0,medium
+Portal Américas,Americas,21,weekday,0,dry,0,low
+Calle 72,Caracas,12,weekday,0,dry,1,high
+Calle 75,NQS,15,weekday,0,dry,0,high
+Corferias,Calle 26,16,saturday,0,dry,0,low
+Portal Américas,Americas,17,sunday_holiday,0,dry,0,low
+Calle 72,Caracas,20,saturday,0,dry,0,low
+Puente Aranda,Americas,7,weekday,0,dry,0,high
+Centro Memoria,Calle 26,14,weekday,1,dry,0,medium
+Portal Américas,Americas,14,weekday,0,dry,0,medium
+Portal Eldorado,Calle 26,7,saturday,0,dry,0,low
+Marsella,Americas,17,weekday,0,dry,0,high
+Centro Memoria,Calle 26,7,weekday,1,rain,0,high
+Calle 72,Caracas,13,saturday,0,dry,1,medium
+Marsella,Americas,10,saturday,0,rain,0,high
+Ricaurte,NQS,7,weekday,1,dry,0,high
+Calle 26,Calle 26,19,weekday,1,rain,0,high
+Corferias,Calle 26,9,saturday,0,dry,0,low
+Portal Eldorado,Calle 26,9,weekday,0,dry,0,medium
+Corferias,Calle 26,20,weekday,0,rain,0,high
+Puente Aranda,Americas,20,sunday_holiday,0,dry,0,low
+Banderas,Americas,5,weekday,0,dry,0,low
+Calle 45,Caracas,10,weekday,0,rain,0,high
+Puente Aranda,Americas,17,weekday,0,dry,1,high
+Normandía,Calle 26,19,weekday,0,rain,0,high
+Calle 75,NQS,22,weekday,0,rain,0,low
+Ricaurte,Americas,14,weekday,1,rain,0,medium
+Av. Rojas,Calle 26,5,weekday,0,dry,0,low
+Normandía,Calle 26,20,weekday,0,dry,0,low
+Normandía,Calle 26,7,sunday_holiday,0,dry,0,low
+Portal Américas,Americas,7,sunday_holiday,0,dry,0,low
+Portal Eldorado,Calle 26,17,weekday,0,dry,0,high
+Calle 26,Calle 26,15,weekday,1,dry,0,high
+Portal Eldorado,Calle 26,6,saturday,0,dry,1,medium
+Calle 45,Caracas,8,sunday_holiday,0,dry,0,low
+Modelia,Calle 26,15,sunday_holiday,0,rain,0,low
+Calle 72,Caracas,9,weekday,0,rain,0,medium
+Calle 72,Caracas,17,weekday,0,dry,0,high
+Calle 75,NQS,12,weekday,0,dry,0,low
+Héroes,Caracas,15,sunday_holiday,0,rain,0,low
+Concejo de Bogotá,Calle 26,13,weekday,0,dry,0,high
+Ricaurte,Americas,11,weekday,1,dry,0,high
+Calle 75,NQS,11,weekday,0,dry,0,medium
+Normandía,Calle 26,17,weekday,0,rain,0,high
+Calle 45,Caracas,14,saturday,0,rain,0,medium
+Marsella,Americas,15,weekday,0,dry,0,medium
+Portal Américas,Americas,15,saturday,0,dry,0,medium
+Centro Memoria,Calle 26,8,saturday,1,dry,0,medium
+Héroes,Caracas,21,saturday,0,rain,0,low
+Calle 100,Caracas,15,weekday,0,dry,0,medium
+Calle 26,Caracas,17,sunday_holiday,1,rain,0,low
+Calle 63,Caracas,20,saturday,0,dry,0,low
+Portal Américas,Americas,21,weekday,0,dry,0,low
+Calle 45,Caracas,17,weekday,0,dry,0,high
+Calle 26,Calle 26,19,saturday,1,dry,1,high
+Puente Aranda,Americas,13,weekday,0,dry,0,high
+Ricaurte,NQS,18,weekday,1,rain,0,high
+Calle 34,Caracas,10,weekday,0,dry,1,high
+Portal Eldorado,Calle 26,17,weekday,0,rain,0,high
+Av. Rojas,Calle 26,6,weekday,0,dry,0,high
+Centro Memoria,NQS,21,saturday,1,dry,0,low
+Marsella,Americas,9,weekday,0,dry,1,high
+Banderas,Americas,16,saturday,0,rain,1,medium
+Puente Aranda,Americas,5,weekday,0,dry,0,low
+Calle 100,Caracas,7,weekday,0,dry,0,medium
+Calle 34,Caracas,22,weekday,0,dry,0,low
+Corferias,Calle 26,20,saturday,0,dry,0,medium
+Héroes,Caracas,9,sunday_holiday,0,rain,0,low
+Portal Eldorado,Calle 26,7,weekday,0,dry,0,high
+Calle 63,Caracas,19,weekday,0,rain,0,high
+Marsella,Americas,22,weekday,0,rain,0,low
+Héroes,Caracas,8,weekday,0,dry,0,high
+Calle 63,Caracas,16,sunday_holiday,0,dry,0,low
+Calle 45,Caracas,10,weekday,0,rain,1,high
+Calle 63,Caracas,18,sunday_holiday,0,dry,0,low
+Concejo de Bogotá,Calle 26,12,weekday,0,dry,0,medium
+Portal Eldorado,Calle 26,7,weekday,0,dry,0,high
+Banderas,Americas,10,sunday_holiday,0,rain,0,low
+Calle 34,Caracas,14,weekday,0,dry,1,medium
+Corferias,Calle 26,19,saturday,0,rain,0,medium
+Centro Memoria,NQS,5,weekday,1,rain,0,medium
+Centro Memoria,Calle 26,22,sunday_holiday,1,dry,0,low
+Ricaurte,NQS,16,weekday,1,dry,0,high
+Calle 45,Caracas,20,weekday,0,rain,0,low
+Av. Rojas,Calle 26,21,sunday_holiday,0,rain,0,low
+Ricaurte,NQS,7,weekday,1,dry,0,high
+Portal Américas,Americas,6,weekday,0,dry,0,high
+Centro Memoria,Calle 26,18,saturday,1,dry,0,medium
+Centro Memoria,Calle 26,8,weekday,1,dry,0,high
+Portal Américas,Americas,7,sunday_holiday,0,rain,0,low
+Centro Memoria,Calle 26,13,saturday,1,dry,0,medium
+Marsella,Americas,21,saturday,0,dry,0,low
+Calle 72,Caracas,19,weekday,0,dry,0,high
+Portal Eldorado,Calle 26,14,weekday,0,rain,0,low
+Calle 72,Caracas,8,sunday_holiday,0,dry,0,low
+Calle 72,Caracas,11,weekday,0,dry,0,high
+Normandía,Calle 26,17,weekday,0,dry,0,high
+Calle 34,Caracas,7,weekday,0,dry,0,high
+Modelia,Calle 26,14,weekday,0,dry,0,medium
+Normandía,Calle 26,5,weekday,0,dry,0,low
+Centro Memoria,Calle 26,10,saturday,1,dry,0,medium
+Marsella,Americas,9,saturday,0,rain,0,low
+Portal Américas,Americas,17,sunday_holiday,0,dry,0,low
+Portal Eldorado,Calle 26,21,weekday,0,dry,0,low
+Calle 26,Caracas,7,weekday,1,dry,0,high
+Ricaurte,Americas,19,weekday,1,dry,0,high
+Calle 72,Caracas,16,saturday,0,rain,0,medium
+Corferias,Calle 26,22,weekday,0,dry,0,low
+Modelia,Calle 26,21,weekday,0,dry,0,low
+Calle 45,Caracas,6,weekday,0,dry,0,medium
+Centro Memoria,Calle 26,18,sunday_holiday,1,dry,0,low
+Calle 26,Caracas,15,sunday_holiday,1,dry,0,low
+Calle 45,Caracas,7,sunday_holiday,0,dry,0,low
+Centro Memoria,NQS,9,weekday,1,dry,0,high
+Calle 45,Caracas,21,sunday_holiday,0,dry,0,low
+Centro Memoria,NQS,14,weekday,1,dry,0,high
+Calle 63,Caracas,11,weekday,0,rain,0,medium
+Modelia,Calle 26,10,weekday,0,dry,0,medium
+Ricaurte,NQS,20,weekday,1,dry,0,low
+Calle 34,Caracas,10,weekday,0,dry,0,medium
+Ricaurte,Americas,7,weekday,1,rain,0,high
+Calle 75,NQS,15,weekday,0,rain,0,high
+Banderas,Americas,22,saturday,0,dry,0,low
+Calle 63,Caracas,8,sunday_holiday,0,dry,0,low
+Calle 75,NQS,9,saturday,0,rain,0,medium
+Marsella,Americas,13,weekday,0,rain,0,high
+Ricaurte,Americas,8,weekday,1,rain,0,high
+Calle 45,Caracas,16,sunday_holiday,0,dry,0,low
+Ricaurte,NQS,9,weekday,1,dry,0,medium
+Calle 72,Caracas,7,weekday,0,dry,0,high
+Concejo de Bogotá,Calle 26,9,weekday,0,rain,0,medium
+Av. Rojas,Calle 26,21,saturday,0,dry,0,low
+Corferias,Calle 26,21,weekday,0,dry,0,low
+Av. Rojas,Calle 26,14,saturday,0,rain,0,medium
+Calle 100,Caracas,12,weekday,0,dry,0,medium
+Av. Rojas,Calle 26,19,weekday,0,dry,0,medium
+Marsella,Americas,8,weekday,0,dry,1,high
+Normandía,Calle 26,16,weekday,0,dry,0,low
+Calle 26,Calle 26,17,weekday,1,dry,0,high
+Puente Aranda,Americas,17,saturday,0,dry,0,low
+Calle 72,Caracas,8,weekday,0,dry,0,medium
+Av. Rojas,Calle 26,17,weekday,0,dry,0,high
+Av. Rojas,Calle 26,16,saturday,0,rain,0,medium
+Normandía,Calle 26,20,weekday,0,dry,0,low
+Marsella,Americas,8,weekday,0,rain,0,high
+Modelia,Calle 26,16,weekday,0,dry,0,low
+Puente Aranda,Americas,19,weekday,0,dry,0,high
+Héroes,Caracas,10,weekday,0,dry,0,medium
+Calle 75,NQS,18,saturday,0,dry,0,low
+Concejo de Bogotá,Calle 26,6,weekday,0,rain,0,high
+Calle 34,Caracas,17,saturday,0,dry,0,low
+Calle 34,Caracas,15,weekday,0,dry,0,medium
+Calle 75,NQS,8,saturday,0,dry,0,low
+Centro Memoria,Calle 26,6,saturday,1,dry,0,medium
+Centro Memoria,Calle 26,18,weekday,1,dry,0,high
+Héroes,Caracas,9,weekday,0,dry,0,low
+Concejo de Bogotá,Calle 26,13,weekday,0,dry,0,medium
+Puente Aranda,Americas,6,sunday_holiday,0,rain,0,low
+Calle 100,Caracas,22,sunday_holiday,0,dry,0,low
+Normandía,Calle 26,14,weekday,0,rain,0,high
+Av. Rojas,Calle 26,21,saturday,0,rain,1,low
+Banderas,Americas,7,weekday,0,dry,0,high
+Calle 26,Calle 26,8,weekday,1,dry,0,high
+Normandía,Calle 26,15,saturday,0,dry,0,medium
+Calle 75,NQS,15,weekday,0,dry,0,medium
+Héroes,Caracas,19,weekday,0,dry,0,medium
+Ricaurte,NQS,21,sunday_holiday,1,dry,0,low
+Ricaurte,NQS,19,weekday,1,dry,0,high
+Calle 75,NQS,7,saturday,0,dry,0,low
+Centro Memoria,Calle 26,10,weekday,1,dry,0,medium
+Ricaurte,Americas,21,weekday,1,dry,0,low
+Ricaurte,Americas,14,weekday,1,dry,0,high
+Banderas,Americas,20,sunday_holiday,0,rain,0,low
+Modelia,Calle 26,15,weekday,0,dry,0,low
+Normandía,Calle 26,5,weekday,0,dry,0,low
+Centro Memoria,Calle 26,13,saturday,1,rain,0,high
+Calle 45,Caracas,19,sunday_holiday,0,rain,0,low
+Portal Américas,Americas,16,sunday_holiday,0,dry,0,low
+Ricaurte,Americas,7,weekday,1,dry,0,high
+Centro Memoria,Calle 26,8,weekday,1,dry,0,high
+Calle 26,Calle 26,20,weekday,1,dry,1,high
+Calle 26,Caracas,22,sunday_holiday,1,dry,0,low
+Normandía,Calle 26,18,sunday_holiday,0,dry,0,low
+Centro Memoria,NQS,6,sunday_holiday,1,dry,0,medium
