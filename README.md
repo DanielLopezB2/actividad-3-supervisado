@@ -1,84 +1,99 @@
-# Station Congestion Classifier for Mass Transit
+# Clasificador de congestión de estaciones de transporte masivo
 
-## Project Overview
+## Descripción general
 
-This project applies supervised learning to the TransMilenio (Bogotá) network used in the previous activity (4 lines, 20 stations). It trains a decision tree that classifies the congestion level of a station (`low`, `medium`, `high`) from its context: hour, day type, weather, nearby events and whether it is a transfer station.
+Este proyecto aplica aprendizaje supervisado a la red de TransMilenio (Bogotá) usada en la actividad anterior (4 líneas, 20 estaciones). Entrena un árbol de decisión que clasifica el nivel de congestión de una estación (`low`, `medium`, `high`) a partir de su contexto: hora, tipo de día, clima, eventos cercanos y si la estación es de transbordo.
 
-The system combines:
+El sistema combina:
 
-- A reproducible synthetic dataset.
-- A decision tree classifier with human-readable rules.
-- Cross-validated hyperparameter selection and baseline comparison.
-- A command-line predictor.
-- Automated testing.
+- Un conjunto de datos sintético reproducible.
+- Un árbol de decisión con reglas legibles.
+- Selección de hiperparámetros por validación cruzada y comparación contra una línea base.
+- Un predictor por línea de comandos.
+- Pruebas automatizadas.
 
-## Academic Purpose
+## Propósito académico
 
-The project demonstrates the application of artificial intelligence concepts related to:
+El proyecto demuestra la aplicación de conceptos de inteligencia artificial relacionados con:
 
-1. Supervised learning (classification).
-2. Decision trees and decision rules.
-3. Model evaluation (train/test split, cross-validation, confusion matrix).
-4. Interpretable decision-making.
+1. Aprendizaje supervisado (clasificación).
+2. Árboles de decisión y reglas de decisión.
+3. Evaluación de modelos (partición entrenamiento/prueba, validación cruzada, matriz de confusión).
+4. Toma de decisiones interpretable.
 
-## Quick Start
+## Inicio rápido
 
 ```bash
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 
-python -m src.dataset   # writes data/congestion.csv
-python -m src.train     # trains, evaluates, saves model and tree plot
+python -m src.dataset   # escribe data/congestion.csv
+python -m src.train     # entrena, evalúa, guarda el modelo y la gráfica del árbol
 python -m src.predict --station "Calle 100" --hour 7 --day weekday --weather rain --event 0
 python -m pytest
 ```
 
-CLI messages are in Spanish. `--day` accepts `weekday`, `saturday` or `sunday_holiday`; `--weather` accepts `dry` or `rain`; `--hour` is 5 to 22. Station names are matched ignoring case and accents, with suggestions on a miss (exit code 2).
+Los mensajes del CLI están en español. `--day` acepta `weekday`, `saturday` o `sunday_holiday`; `--weather` acepta `dry` o `rain`; `--hour` va de 5 a 22. Los nombres de estación se comparan sin distinguir mayúsculas ni tildes y, si no hay coincidencia, se sugieren nombres parecidos (código de salida 2).
 
-## Data Source
+## Fuente de datos
 
-There is no public per-station congestion dataset for this network, so the data is **synthetic**: `src/dataset.py` generates it from stated assumptions, not from real TransMilenio measurements. Stations and lines come from `data/network.json` (the same approximate network as the previous activity).
+No existe un conjunto de datos público de congestión por estación para esta red, por lo que los datos son **sintéticos**: `src/dataset.py` los genera a partir de supuestos explícitos, no de mediciones reales de TransMilenio. Las estaciones y líneas provienen de `data/network.json` (la misma red aproximada de la actividad anterior).
 
-Each row is a (station, line) pair with `hour`, `day_type`, `is_transfer`, `weather` and `near_event`. The label comes from a latent score: weekday peak hours (6-8 and 17-19) weigh most, transfer stations, rain and nearby events add to it, weekends and late nights subtract, plus gaussian noise (seed 42). The coefficients are named constants at the top of `src/dataset.py`.
+Cada fila es un par (estación, línea) con `hour`, `day_type`, `is_transfer`, `weather` y `near_event`. La etiqueta sale de un puntaje latente: las horas pico de día hábil (6-8 y 17-19) pesan más; las estaciones de transbordo, la lluvia y los eventos cercanos suman; los fines de semana y la noche restan; además se añade ruido gaussiano (semilla 42). Los coeficientes son constantes con nombre al inicio de `src/dataset.py`.
 
-The consequence is important: the model can only rediscover the rules written into the generator (plus noise). Its accuracy says nothing about real passenger behavior.
+La consecuencia es importante: el modelo solo puede redescubrir las reglas escritas en el generador (más ruido). Su exactitud no dice nada sobre el comportamiento real de los pasajeros.
 
-## Model and Evaluation
+Detalle completo en [`docs/descripcion-datos.md`](docs/descripcion-datos.md).
 
-`DecisionTreeClassifier` inside a scikit-learn `Pipeline` (one-hot encoding of categoricals). Stratified 80/20 split, `max_depth` and `min_samples_leaf` chosen by 5-fold cross-validation on the training split. Results of `python -m src.train` with seed 42 (3000 rows: 1228 low, 935 medium, 837 high):
+## Modelo y evaluación
 
-| Metric | Value |
+`DecisionTreeClassifier` dentro de un `Pipeline` de scikit-learn (codificación one-hot de las variables categóricas). Partición estratificada 80/20; `max_depth` y `min_samples_leaf` se eligen por validación cruzada de 5 particiones sobre el conjunto de entrenamiento. Resultados de `python -m src.train` con semilla 42 (3000 filas: 1228 `low`, 935 `medium`, 837 `high`):
+
+| Métrica | Valor |
 | --- | --- |
-| Baseline accuracy (most frequent class) | 0.410 |
-| Tree accuracy (held-out 20%) | 0.787 |
-| 5-fold CV accuracy (train split) | 0.759 (+/- 0.019) |
-| Chosen hyperparameters | `max_depth=6`, `min_samples_leaf=10` |
+| Exactitud de la línea base (clase más frecuente) | 0.410 |
+| Exactitud del árbol (20 % de prueba) | 0.787 |
+| Exactitud con validación cruzada de 5 particiones (entrenamiento) | 0.759 (+/- 0.019) |
+| Hiperparámetros elegidos | `max_depth=6`, `min_samples_leaf=10` |
 
-The most important features are `hour`, `day_type`, `is_transfer`, `near_event` and `weather`, as expected from the generator. The medium class is the hardest (F1 0.64) because it sits between the other two. The full rule set is printed by `src.train` (via `export_text`) and the top levels are drawn in `docs/img/arbol-decision.png`.
+Las variables más importantes son `hour`, `day_type`, `is_transfer`, `near_event` y `weather`, como cabe esperar del generador. La clase `medium` es la más difícil (F1 0.64) porque queda entre las otras dos. `src.train` imprime el conjunto completo de reglas (con `export_text`) y los primeros niveles se dibujan en `docs/img/arbol-decision.png`.
 
-## Project Structure
+Informe completo con salidas reales: [`docs/informe-pruebas.md`](docs/informe-pruebas.md).
+
+## Documentación
+
+| Documento | Contenido |
+| --- | --- |
+| [`docs/descripcion-datos.md`](docs/descripcion-datos.md) | Origen, diccionario de datos, definición de la etiqueta, supuestos y limitaciones |
+| [`docs/informe-pruebas.md`](docs/informe-pruebas.md) | Pruebas automatizadas, ejecución real y análisis de métricas |
+| [`docs/INSTRUCCIONES.md`](docs/INSTRUCCIONES.md) | Instalación y ejecución paso a paso |
+
+## Estructura del proyecto
 
 ```text
 actividad-3/
 ├── README.md
 ├── requirements.txt
 ├── data/
-│   ├── network.json          # stations and lines (approximate estimates)
-│   └── congestion.csv        # synthetic dataset (generated)
+│   ├── network.json          # estaciones y líneas (estimaciones aproximadas)
+│   └── congestion.csv        # conjunto de datos sintético (generado)
 ├── docs/
-│   └── img/arbol-decision.png  # tree plot (generated)
+│   ├── descripcion-datos.md
+│   ├── informe-pruebas.md
+│   ├── INSTRUCCIONES.md
+│   └── img/arbol-decision.png  # gráfica del árbol (generada)
 ├── src/
-│   ├── dataset.py            # synthetic data generator
-│   ├── train.py              # training, evaluation, rules, plot
-│   └── predict.py            # prediction CLI (es)
+│   ├── dataset.py            # generador de datos sintéticos
+│   ├── train.py              # entrenamiento, evaluación, reglas, gráfica
+│   └── predict.py            # CLI de predicción (es)
 └── tests/
 ```
 
-The trained model is saved to `models/congestion_tree.joblib` (git-ignored); `src.predict` trains it on the fly if it is missing.
+El modelo entrenado se guarda en `models/congestion_tree.joblib` (ignorado por Git); `src.predict` lo entrena al vuelo si no existe.
 
-## Limitations
+## Limitaciones
 
-- The dataset is synthetic; real congestion depends on factors not modeled here (incidents, fleet size, school calendars).
-- Rows are generated from hand-picked coefficients and noise, so the reported accuracy is an upper-bound illustration of the method, not a performance claim.
-- Station names and lines are one-hot encoded, so the tree may use them in a few spurious splits even though the generator ignores them.
-- The test split is a single 600-row sample; differences of a few points between runs of other seeds are expected.
+- El conjunto de datos es sintético; la congestión real depende de factores no modelados (incidentes, tamaño de la flota, calendarios escolares).
+- Las filas se generan con coeficientes elegidos a mano y ruido, así que la exactitud reportada ilustra el método, no es una afirmación de desempeño real.
+- Los nombres de estación y de línea se codifican con one-hot, por lo que el árbol puede usarlos en algunas divisiones espurias aunque el generador los ignora.
+- La partición de prueba es una única muestra de 600 filas; con otras semillas se esperan diferencias de unos pocos puntos.
