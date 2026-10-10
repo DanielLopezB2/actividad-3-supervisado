@@ -11,8 +11,8 @@ Clasificador de congestión de estaciones de TransMilenio (Bogotá) con un árbo
 ## 2. Instalación
 
 ```bash
-git clone <URL-del-repositorio>
-cd actividad-3
+git clone https://github.com/DanielLopezB2/actividad-3-supervisado.git
+cd actividad-3-supervisado
 
 python3 -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
