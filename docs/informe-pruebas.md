@@ -1,7 +1,7 @@
 # Informe de pruebas
 
 **Proyecto:** Clasificador de congestión de estaciones de TransMilenio (Bogotá)
-**Curso:** Inteligencia Artificial, Universidad Iberoamericana
+**Curso:** Inteligencia Artificial, Corporación Universitaria Iberoamericana
 **Actividad:** 3 - Métodos de aprendizaje supervisado
 
 ## 1. Objetivo
